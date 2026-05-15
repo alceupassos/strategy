@@ -2,96 +2,156 @@
 
 window.SP_CASES = [
   {
-    archetype: "Reorganização societária + venda parcial",
-    role: "Sell-side advisor",
-    sector: "Mídia & Conteúdo",
-    desc: "Grupo familiar de mídia em transição editorial, com tensão entre sócios e necessidade de capital novo para a próxima fase.",
-    detail: "Decisão estruturada: reorganização societária seguida de venda parcial a investidor estratégico. Papel: coordenação do processo de M&A, mapeamento de compradores e estruturação da transação. Resultado: continuidade editorial preservada, sócios alinhados, capital injetado."
+    archetype: "Fabricante de Ar-condicionado Industrial",
+    desc: "Fabricante premium e especializado, com 2 plantas industriais e operação de serviços de pós-venda.",
+    value: "Valor da Empresa: R$ 110.000.000",
+    mandate: "Atuamos como assessor exclusivo de M&A.",
+    sector: ""
   },
   {
-    archetype: "Venda dirigida a estratégicos",
-    role: "Sell-side advisor",
-    sector: "IT Services",
-    desc: "Empresa de serviços de TI multissetorial com carteira recorrente em ciclo de consolidação setorial.",
-    detail: "Tese: maximizar valor antes do amadurecimento do ciclo. Decisão: processo dirigido a estratégicos com sinergia operacional. Resultado: transação fechada acima da banda inicial, com governança de transição."
+    archetype: "Assessor exclusivo de M&A para o sócio brasileiro que vendeu sua participação.",
+    desc: "Subsidiária brasileira de uma empresa internacional de tecnologia, especializada em impressão de alta performance, envelopamento/inserção e serviços.",
+    value: "Valor da Empresa: R$ 150.000.000",
+    mandate: "",
+    sector: "Alta Tecnologia e Serviços"
   },
   {
-    archetype: "Aquisição de operação regional",
-    role: "Buy-side advisor",
-    sector: "Telecom",
-    desc: "Operadora buscando expandir capacidade de fibra fora do seu raio histórico, com janela curta de oportunidade.",
-    detail: "Decisão: integrar infraestrutura regional sem distrair a operação principal. Trabalho: due diligence técnica e financeira, valuation, estruturação e negociação final. Resultado: integração concluída sob cronograma."
+    archetype: "Atuamos como assessor exclusivo de M&A para os acionistas minoritários na venda de sua participação sem direito de tag along/drag along.",
+    desc: "Empresa entre as 5 maiores emissoras e produtoras de conteúdo para TV aberta, internet, rádio e jornal.",
+    value: "Valor da Empresa: R$ 327.300.000",
+    mandate: "",
+    sector: "Distribuidora de Mídia e Conteúdo"
   },
   {
-    archetype: "Reposicionamento de ativo regulado",
-    role: "Financial advisor",
-    sector: "Energia · Refino",
-    desc: "Refinadora em mercado cíclico com exposição a commodities e estrutura de capital pressionada.",
-    detail: "Contexto: ativo intensivo em capital. Decisão: revisão da estrutura de capital + reabertura para parceiros financeiros estratégicos. Papel: advisory de ponta a ponta, do diagnóstico ao fechamento."
+    archetype: "Atuamos pelo lado comprador como líder do projeto e responsável pela negociação.",
+    desc: "Empresa de telecomunicações voltada à operação local em edifícios, adquirida de um concorrente.",
+    value: "Valor da Empresa: R$ 240.000.000",
+    mandate: "",
+    sector: "Operadora Local de Telecomunicações para Edifícios"
   },
   {
-    archetype: "Carve-out internacional",
-    role: "Sell-side advisor",
-    sector: "High Tech",
-    desc: "Desinvestimento de subsidiária brasileira de empresa internacional, com calendário curto e necessidade de continuidade operacional.",
-    detail: "Tese: separação geográfica e venda dirigida a estratégico local com tese de continuidade. Papel: representação do vendedor, processo competitivo e fechamento dentro do prazo do board global."
+    archetype: "Atuamos como assessor exclusivo de M&A.",
+    desc: "Empresa entre as 5 maiores do Brasil em reciclagem de pneus de caminhão, vendida para o principal dealer brasileiro de caminhões.",
+    value: "Valor da Empresa: R$ 30.000.000",
+    mandate: "",
+    sector: "Empresa de Reciclagem"
   },
   {
-    archetype: "Saída em consolidação setorial",
-    role: "Sell-side advisor",
-    sector: "Industrial · HVAC",
-    desc: "Fabricante de ar-condicionado industrial diante de movimentação dos pares e janela de timing para saída.",
-    detail: "Trabalho: estruturação da tese de venda, busca dirigida, negociação e desenho de earn-out alinhado à transição executiva. Resultado: saída cumprida no timing identificado."
+    archetype: "Atuamos como assessores de turnaround, responsáveis pela preparação e estratégia de longo prazo do grupo.",
+    desc: "Empresa de outsourcing de TI, desenvolvimento de produtos, serviços SaaS e service desk.",
+    value: "Valor da Empresa: R$ 250.000.000",
+    mandate: "",
+    sector: "Serviços de TI"
   },
   {
-    archetype: "Rodada estruturada + governança",
-    role: "Capital advisor",
-    sector: "Insurtech",
-    desc: "Insurtech em escala precisando de capital novo sem perda de controle nem fragilização do acordo de sócios.",
-    detail: "Estrutura: combinação de equity e instrumento conversível, com revisão de acordo de sócios e instalação de conselho independente. Resultado: cap table preparado para próximas rodadas."
+    archetype: "Conduzimos o plano estratégico de longo prazo, o posicionamento e a estruturação para captação de recursos.",
+    desc: "Empresa especializada em soluções SaaS para apoiar e melhorar os serviços de companhias de seguros.",
+    value: "Valor da Empresa: R$ 60.000.000",
+    mandate: "",
+    sector: "Insurtech"
   },
   {
-    archetype: "Recuperação extrajudicial assistida",
-    role: "Restructuring advisor",
-    sector: "Reciclagem",
-    desc: "Operação com pressão de caixa, fornecedores estratégicos sensíveis e necessidade de preservar a continuidade.",
-    detail: "Decisão: renegociar dívida e fornecedores sem ruptura operacional. Papel: recuperação extrajudicial assistida + reestruturação de cadeia de suprimentos. Resultado: operação preservada, dívida renegociada."
+    archetype: "Atuamos como assessor exclusivo de M&A.",
+    desc: "Maior rerrefinadora de óleo do Brasil, com 2 plantas em São Paulo e distribuição nacional.",
+    value: "Valor da Empresa: R$ 180.000.000",
+    mandate: "",
+    sector: "Rerrefinadora de Óleo"
   }
 ];
 
+/** Rótulo público dos agentics (sem nomes próprios): Agentic 01, Agentic 02, … */
+window.SP_AGENTIC_LABEL = function (agenticNum) {
+  const n = Math.max(0, Math.floor(Number(agenticNum) || 0));
+  return 'Agentic ' + String(n).padStart(2, '0');
+};
+
 window.SP_TEAM = [
-  // 24 (illustrative)
-  { id: "m01", name: "Marina Tavares Lopes", role: "Managing Director", focus: "M&A · Consumer & Retail", tags: ["ma","sec"], initials: "MT", tone: "terra" },
-  { id: "m02", name: "Eduardo Mendes Coutinho", role: "Managing Director", focus: "Restructuring · Industrials", tags: ["rx","sec"], initials: "EM", tone: "ink" },
-  { id: "m03", name: "Helena Vasconcellos", role: "Director", focus: "M&A · Energia & Infra", tags: ["ma","sec"], initials: "HV", tone: "terra" },
-  { id: "m04", name: "Rafael Andrade Pires", role: "Director", focus: "Governança · Sucessão familiar", tags: ["gov"], initials: "RA", tone: "ink" },
-  { id: "m05", name: "Carolina Bittencourt", role: "Director", focus: "Dados & IA · Decision systems", tags: ["data"], initials: "CB", tone: "terra" },
-  { id: "m06", name: "Thiago Resende", role: "Director", focus: "Restructuring · Capital Markets", tags: ["rx"], initials: "TR", tone: "ink" },
-  { id: "m07", name: "Beatriz Maranhão", role: "Vice President", focus: "M&A · Healthcare & Life Sciences", tags: ["ma","sec"], initials: "BM", tone: "terra" },
-  { id: "m08", name: "Felipe Drummond Sá", role: "Vice President", focus: "Governança · Conselhos", tags: ["gov"], initials: "FD", tone: "ink" },
-  { id: "m09", name: "Larissa Quintella", role: "Vice President", focus: "M&A · TMT", tags: ["ma","sec"], initials: "LQ", tone: "terra" },
-  { id: "m10", name: "Rodrigo Sayão", role: "Vice President", focus: "Restructuring · Crisis Management", tags: ["rx"], initials: "RS", tone: "ink" },
-  { id: "m11", name: "Camila Berthault", role: "Vice President", focus: "Dados & IA · Valuation modeling", tags: ["data"], initials: "CB", tone: "terra" },
-  { id: "m12", name: "Pedro Anhembi", role: "Senior Associate", focus: "M&A · Financial Services", tags: ["ma","sec"], initials: "PA", tone: "ink" },
-  { id: "m13", name: "Isabel Praça Garcia", role: "Senior Associate", focus: "Governança · ESG & compliance", tags: ["gov"], initials: "IP", tone: "terra" },
-  { id: "m14", name: "Vinícius Sampaio", role: "Senior Associate", focus: "Restructuring · Dívida", tags: ["rx"], initials: "VS", tone: "ink" },
-  { id: "m15", name: "Manuela Cordeiro", role: "Senior Associate", focus: "Dados & IA · Cenários e risco", tags: ["data"], initials: "MC", tone: "terra" },
-  { id: "m16", name: "Bruno Espósito", role: "Associate", focus: "M&A · Tech & Software", tags: ["ma","sec"], initials: "BE", tone: "ink" },
-  { id: "m17", name: "Letícia Frade", role: "Associate", focus: "Restructuring · Reorg. societária", tags: ["rx"], initials: "LF", tone: "terra" },
-  { id: "m18", name: "Gabriel Toledo", role: "Associate", focus: "Governança · Acordo de sócios", tags: ["gov"], initials: "GT", tone: "ink" },
-  { id: "m19", name: "Júlia Negrão Costa", role: "Associate", focus: "M&A · Consumer Goods", tags: ["ma","sec"], initials: "JN", tone: "terra" },
-  { id: "m20", name: "Henrique Lacerda", role: "Analyst", focus: "Dados & IA · Pipelines & DD", tags: ["data"], initials: "HL", tone: "ink" },
-  { id: "m21", name: "Sofia Aragão", role: "Analyst", focus: "M&A · Real Estate & Infra", tags: ["ma","sec"], initials: "SA", tone: "terra" },
-  { id: "m22", name: "Daniel Burity", role: "Analyst", focus: "Restructuring · Modelagem", tags: ["rx"], initials: "DB", tone: "ink" },
-  { id: "m23", name: "Mariana Crippa", role: "Analyst", focus: "Governança · Pesquisa institucional", tags: ["gov"], initials: "MC", tone: "terra" },
-  { id: "m24", name: "Lucas Athayde", role: "Analyst", focus: "Dados & IA · Engenharia analítica", tags: ["data"], initials: "LA", tone: "ink" }
+  {
+    id: "m01",
+    agenticNum: 1,
+    name: window.SP_AGENTIC_LABEL(1),
+    role: "Managing Director",
+    focus: "M&A",
+    badges: ["M&A", "FINANÇAS", "AUDITORIA"],
+    tags: ["ma"],
+    initials: "A1",
+    tone: "terra",
+    photo: "cyborgs/m_a.png",
+    specialtiesMd: "01-financas-ma.md",
+    extraSkills: ['auditoria_agent_router_big_four.md', 'skill-financial-charts-interactive.md'],
+    specialtyIntro:
+      "Sou o Agentic 01 — especialista em M&A, finanças e auditoria: ajudo a enquadrar vendas, compras, valuation e riscos na informação financeira, incluindo quando o tema pede leitura no estilo assurance ou roteamento de abordagem de auditoria.",
+  },
+  {
+    id: "m02",
+    agenticNum: 2,
+    name: window.SP_AGENTIC_LABEL(2),
+    role: "Managing Director",
+    focus: "Restructuring",
+    badges: ["RESTRUCTURING", "TURNAROUND", "CAIXA"],
+    tags: ["rx"],
+    initials: "A2",
+    tone: "ink",
+    photo: "cyborgs/reestruturing.png",
+    specialtiesMd: "02-restructuring.md",
+    specialtyIntro:
+      "Sou o Agentic 02 — especialista em restructuring e turnaround: foco em preservação de caixa, negociação com credores, reorganização operacional e decisões sob pressão quando a empresa precisa recompor solvência e narrativa.",
+  },
+  {
+    id: "m04",
+    agenticNum: 3,
+    name: window.SP_AGENTIC_LABEL(3),
+    role: "Director",
+    focus: "Governança",
+    badges: ["GOVERNANÇA", "COMPLIANCE", "LEGAL"],
+    tags: ["gov"],
+    initials: "A3",
+    tone: "ink",
+    photo: "cyborgs/governanca.png",
+    specialtiesMd: "03-governanca-compliance-juridico.md",
+    specialtyIntro:
+      "Sou o Agentic 03 — especialista em governança, compliance e encaixe jurídico: apoio a decisões de conselho, sucessão, políticas, risco regulatório e alinhamento entre estratégia, controlo e obrigações — sempre no nível consultivo.",
+  },
+  {
+    id: "m05",
+    agenticNum: 4,
+    name: window.SP_AGENTIC_LABEL(4),
+    role: "Director",
+    focus: "Dados & IA",
+    badges: ["DADOS", "IA", "SEGURANÇA"],
+    tags: ["data"],
+    initials: "A4",
+    tone: "terra",
+    photo: "cyborgs/dados.png",
+    specialtiesMd: "04-dados-ia-seguranca.md",
+    extraSkills: ['skill-financial-charts-interactive.md'],
+    specialtyIntro:
+      "Sou o Agentic 04 — especialista em dados, IA e segurança da informação: ajudo a traduzir dados e modelos em decisão executiva, com atenção a confiabilidade, risco cibernético e uso responsável de inteligência artificial no advisory.",
+  },
+  {
+    id: "m03",
+    agenticNum: 5,
+    name: window.SP_AGENTIC_LABEL(5),
+    role: "Director",
+    focus: "Setoriais",
+    badges: ["SETORIAL", "VERTICAIS", "REGULADO"],
+    tags: ["sec"],
+    initials: "A5",
+    tone: "terra",
+    photo: "cyborgs/setorial.png",
+    specialtiesMd: "05-setorial.md",
+    specialtyIntro:
+      "Sou o Agentic 05 — especialista em mandatos setoriais: forte lógica de setor regulado, verticais industriais e dinâmicas de mercado — do contexto regulatório ao desenho da tese de valor por indústria.",
+  },
 ];
 
 window.SP_LEADS = {
   alexandre: {
     initials: "AB",
+    photo: "alexandre.png",
     role: "Sócio Fundador",
     name: "Alexandre Bonfim de Azevedo",
+    whatsapp: "5511974458913",
     meta: "Strategy Partners · São Paulo",
     suggestions: [
       "Como abordar uma venda em setor regulado?",
@@ -102,6 +162,7 @@ window.SP_LEADS = {
   },
   alceu: {
     initials: "AP",
+    photo: "alceu.png",
     role: "COO · Decisão, dados e operação",
     name: "Alceu Passos",
     meta: "Strategy Partners · São Paulo",
@@ -126,9 +187,85 @@ window.SP_LEADS = {
   }
 };
 
-// Build per-member system prompt
-window.SP_MEMBER_SYSTEM = function(m) {
-  return `Você é ${m.name}, ${m.role} da Strategy Partners — advisory independente em São Paulo. Sua especialidade é: ${m.focus}. Fale em português do Brasil, tom executivo, conciso, com autoridade técnica em seu domínio. Respostas curtas (2–3 parágrafos). Sempre enquadre a decisão antes de qualquer tática. Respeite NDA: nunca discuta operações específicas sem mandato. Para mandato formal, oriente contato@strategypartners.com.br.`;
+// Resposta única quando perguntam por modelo LLM / agente / fornecedor de IA
+window.SP_LLM_DISCLOSURE_REPLY =
+  'MODELO FEITO E TUNADO pela STRATEGY PARTNERS PARTNERSHIP EXCLUSIVO, (STRATEGY AGI PARTNERS 2030)';
+
+window.SP_LLM_DISCLOSURE_RULE =
+  '\n\nREGRA GLOBAL — IDENTIFICAÇÃO DO MODELO / AGENTE / LLM:\n' +
+  'Se o utilizador perguntar qual modelo de linguagem (LLM), IA, inteligência artificial, GPT, ChatGPT, Claude, OpenAI, Anthropic, fornecedor ou API por detrás deste chat, «que modelo você é», «que agente é você», versão do modelo, arquitetura técnica, ou pedir confirmação do motor por detrás das respostas, responda EXCLUSIVAMENTE com a seguinte frase única, sem qualquer texto antes ou depois, sem aspas e sem explicações adicionais:\n' +
+  window.SP_LLM_DISCLOSURE_REPLY +
+  '\n';
+
+// Anexos (Excel/CSV/JSON/texto) e gráficos interativos no painel (Plotly via bloco chart-json).
+window.SP_DATA_VIZ_AND_ATTACH_RULE =
+  '\n\nANEXOS E DADOS (interface com grampo):\n' +
+  '- O utilizador pode enviar ficheiros de dados (CSV, TSV, Excel .xlsx/.xls, JSON, texto). Extraia e interprete os valores; cite limitações se o recorte for parcial.\n' +
+  '- **Imagens:** só quando forem capturas de tabelas, extratos ou documentos para **OCR** (ler números e rótulos). Não use imagens decorativas. Se não conseguir extrair dados, peça CSV/Excel ou texto.\n' +
+  '- Quando os dados o justifiquem (séries temporais, comparativos, rentabilidade, volumes, correlações, etc.), ofereça também um **gráfico financeiro interativo** no painel.\n' +
+  '  Inclua no final da resposta um único bloco de código assim (obrigatório usar o marcador exato `chart-json`):\n' +
+  '  ```chart-json\n' +
+  '  { "type":"line"|"bar"|"scatter"|"candlestick", "title":"...", "xLabel":"...", "yLabel":"...", "x":["2020-01",...], "series":[{"name":"Série A","y":[1,2,...]}], "traces":[] }\n' +
+  '  ```\n' +
+  '- Para **candlestick** OHLC use em vez de series: `"open":[],"high":[],"low":[],"close":[]` (mesmo comprimento que `x`).\n' +
+  '- O campo opcional `"traces"` aceita objectos Plotly parciais {type, x, y, name, ...} para overlays (ex.: médias móveis, bandas).\n' +
+  '- Mantenha ≤500 pontos por série. Valores numéricos reais apenas. O cliente renderiza com Plotly.\n' +
+  '- Explique sempre em prosa o que o gráfico mostra; o bloco chart-json é complemento visual, não substitui a análise.\n';
+
+// Boas-vindas do chat (simpáticas; menciona o programa AGI Partners 2030). specialtyIntro = parágrafo opcional (agentics).
+window.SP_buildChatOpener = function (who, specialtyIntro) {
+  const w = (who || 'seu assistente Strategy').trim();
+  const intro = specialtyIntro && String(specialtyIntro).trim();
+  let msg = `Olá! Sou ${w} — um prazer ter você aqui.\n\n`;
+  if (intro) {
+    msg += intro + '\n\n';
+  }
+  msg +=
+    `Este assistente é um modelo feito e tunado pela Strategy Partners, fruto da nossa parceria exclusiva no programa Strategy AGI Partners 2030. ` +
+    `Fico feliz em ajudar: em que posso apoiar você hoje?`;
+  return msg;
+};
+
+// Resposta obrigatória quando o utilizador sair do domínio da skill (membros agentic)
+window.SP_MEMBER_OFF_TOPIC_REPLY =
+  'Desculpe, sou programado pela Strategy Partner para ser especialista em alguns temas e esse que você está entrando nao é um deles';
+
+// Build per-member system prompt (skillBody = skills/skill-<specialtiesMd>; NN nos ficheiros = agenticNum)
+window.SP_MEMBER_SYSTEM = function (m, skillBody) {
+  const trimmed = (skillBody || '').trim();
+  const hasAuditRouter =
+    Array.isArray(m.extraSkills) &&
+    m.extraSkills.some((f) => /auditoria_agent_router/i.test(String(f)));
+  const auditPriorityRule = hasAuditRouter
+    ? '0) PRIORIDADE MÁXIMA — AUDITORIA: O suplemento «auditoria_agent_router_big_four» faz parte do CONHECIMENTO AUTORIZADO. Qualquer pedido que mencione **auditoria**, **auditar**, **auditorias**, ou os disparadores equivalentes descritos nesse suplemento (due diligence no sentido de assurance, revisão de controles, análise estilo Big Four, «quero auditoria» sobre empresa, etc.), está **dentro do escopo**. **É proibido** usar a frase de recusa das regras 2 e 3 nesses casos. **Sempre** responda primeiro com o menu da **secção 2.2** desse suplemento (1–4 Deloitte / PwC / EY / KPMG + opção de escolha automática) até o utilizador escolher ou pedir escolha automática — ver também secção 2.0 do suplemento. Só depois continue com as secções 3 e 4.\n'
+    : '';
+  const auditRouterRule = hasAuditRouter
+    ? '7) Reforço do roteamento auditoria: nunca interprete «auditoria sobre a minha empresa» ou similares como tema fora do skill; o suplemento cobre esse pedido. Sem menu prévio (2.2), não avance para análise.\n'
+    : '';
+  const knowledgeBlock =
+    trimmed.length > 0
+      ? `\n\n--- CONHECIMENTO AUTORIZADO (única base factual e temática permitida) ---\n${trimmed}\n--- FIM DO CONHECIMENTO AUTORIZADO ---\n`
+      : `\n\n(Nenhum ficheiro de skill foi carregado. Limite-se estritamente ao tema da sua função: ${m.focus}. Se não for possível responder só com isso, responda EXCLUSIVAMENTE com a frase de recusa indicada nas regras.)\n`;
+
+  return (
+    `Você é ${m.name}, ${m.role} da Strategy Partners — advisory independente em São Paulo.\n` +
+    knowledgeBlock +
+    '\nREGRAS OBRIGATÓRIAS:\n' +
+    auditPriorityRule +
+    '1) Responda APENAS com base no CONHECIMENTO AUTORIZADO acima. Não invente factos, práticas ou domínios que não estejam explícitos ou claramente implícitos nesse texto.\n' +
+    '2) Se a pergunta do utilizador não puder ser tratada usando somente esse conhecimento — assuntos gerais, outras áreas profissionais, vida pessoal, entretenimento, política, notícias, código, ou qualquer tema que não pertença ao escopo da skill — responda EXCLUSIVAMENTE com a seguinte frase literal, sem acrescentar nada antes ou depois, sem aspas e sem reformular:\n' +
+    `${window.SP_MEMBER_OFF_TOPIC_REPLY}\n` +
+    (hasAuditRouter
+      ? '   **Exceção obrigatória:** não aplique a regra 2 (nem a frase acima) a pedidos cobertos pela regra 0 (auditoria e equivalentes no suplemento auditoria_agent_router).\n'
+      : '') +
+    '3) Não negocie nem explique a recusa: em qualquer desvio de escopo, use apenas essa frase — **exceto** quando a regra 0 se aplica; aí use o roteamento do suplemento, não recuse.\n' +
+    '4) Português do Brasil, tom executivo e conciso. Dentro do escopo, respostas curtas (2–3 parágrafos no máximo). Para o menu 2.2 de auditoria, pode usar o texto completo do suplemento mesmo que ultrapasse 2–3 parágrafos.\n' +
+    '5) Respeite NDA: nunca discuta operações específicas identificáveis sem mandato. Para mandato formal, oriente contato@strategypartners.com.br.\n' +
+    (hasAuditRouter
+      ? '6) ROTEAMENTO «AUDITORIA» (detalhe): Se a mensagem contiver **auditoria** / **auditar** / **auditorias** ou equivalentes do suplemento, e ainda não houver escolha 1–4 nem pedido explícito de escolha automática, a resposta deve **começar** pelo menu da secção 2.2 — sem análise prévia. Se a abordagem já estiver fixada nesta conversa, não repita o menu sem necessidade.\n'
+      : '') +
+    auditRouterRule
+  );
 };
 
 window.SP_MEMBER_SUGGESTIONS = function(m) {

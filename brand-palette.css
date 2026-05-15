@@ -1,0 +1,35 @@
+/* Strategy Partners — brand palette (apply site-wide in a future pass) */
+
+:root {
+  /* Hero & header */
+  --sp-navy: #192d55;
+  --sp-navy-deep: #0f1f3a;
+  --sp-white: #ffffff;
+
+  /* Accent */
+  --sp-gold: #e6a023;
+  --sp-gold-hover: #d4921a;
+
+  /* Neutrals (sections, cards) */
+  --sp-gray-50: #f8fafc;
+  --sp-gray-100: #f1f5f9;
+  --sp-gray-200: #e2e8f0;
+  --sp-gray-500: #64748b;
+  --sp-gray-900: #0f172a;
+
+  /* Semantic aliases */
+  --sp-menu-bg: var(--sp-white);
+  --sp-menu-text: var(--sp-navy);
+  --sp-hero-bg: var(--sp-navy);
+  --sp-hero-title: var(--sp-white);
+  --sp-hero-accent: var(--sp-gold);
+  --sp-btn-primary-bg: var(--sp-gold);
+  --sp-btn-primary-text: var(--sp-navy);
+  --sp-btn-secondary-border: var(--sp-white);
+  --sp-section-bg: var(--sp-white);
+  --sp-section-alt: var(--sp-gray-50);
+  --sp-card-bg: var(--sp-white);
+  --sp-card-border: var(--sp-gray-200);
+  --sp-card-title: var(--sp-navy);
+  --sp-case-number: var(--sp-gold);
+}
