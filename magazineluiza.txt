@@ -1,0 +1,2792 @@
+ PDF To Markdown Converter
+Debug View
+Result View
+ITR - Informações Trimestrais
+31 de março de 2026
+Demonstrações Financeiras
+
+31 de março de 2026
+
+Magazine Luiza S.A. e Controladas
+
+Informações Trimestrais - ITR
+
+31 de março de 202 6
+
+Índice
+
+Relatório do auditor independente sobre as informações trimestrais individuais e consolidadas ......... 1
+
+Balanços patrimoniais .......................................................................................................................... 3
+
+Demonstrações dos resultados ............................................................................................................ 5
+
+Demonstrações dos resultados abrangentes ....................................................................................... 6
+
+Demonstrações das mutações do patrimônio líquido ........................................................................... 7
+
+Demonstrações dos fluxos de caixa ..................................................................................................... 8
+
+Demonstrações do valor adicionado .................................................................................................... 9
+
+Notas explicativas às informações trimestrais individuais e consolidadas .......................................... 10
+
+São Paulo Corporate Towers
+Av. Presidente Juscelino Kubitschek, 1.
+6º ao 9º andar - Vila Nova Conceição
+04543 - 011 - São Paulo – SP - Brasil
+Tel: +55 11 2573- 3000
+ey.com.br
+Uma empresa-membro da Ernst & Young Global Limited
+
+1
+
+Relatório sobre a revisão de informações trimestrais
+
+Aos Administradores e Acionistas do
+
+Magazine Luiza S.A.
+
+Franca - SP
+
+Introdução
+
+Revisamos as informações contábeis intermediárias, individuais e consolidadas, do Magazine Luiza
+
+S.A. (“Companhia”), contidas no Formulário de Informações Trimestrais (ITR) referentes ao trimestre
+
+findo em 31 de março de 2026, que compreendem o balanço patrimonial em 31 de março de 2026 e
+
+as respectivas demonstrações do resultado e do resultado abrangente, das mutações do patrimônio
+
+líquido e dos fluxos de caixa para o período de três meses findo naquela data, incluindo as notas
+
+explicativas.
+
+A diretoria é responsável pela elaboração das informações contábeis intermediárias de acordo com o
+
+Pronunciamento Técnico CPC 21 (R1) Demonstração Intermediária e com a norma contábil
+
+internacional (IFRS Accounting Standards) IAS 34 Interim Financial Reporting, emitida pelo
+
+International Accounting Standards Board (IASB), assim como pela apresentação dessas informações
+
+de forma condizente com as normas expedidas pela Comissão de Valores Mobiliários, aplicáveis à
+
+elaboração das Informações Trimestrais (ITR). Nossa responsabilidade é a de expressar uma
+
+conclusão sobre essas informações contábeis intermediárias com base em nossa revisão.
+
+Alcance da revisão
+
+Conduzimos nossa revisão de acordo com as normas brasileiras e internacionais de revisão de
+
+informações intermediárias (NBC TR 2410 Revisão de Informações Intermediárias Executada pelo
+
+Auditor da Entidade e ISRE 2410 Review of Interim Financial Information Performed by the
+
+Independent Auditor of the Entity, respectivamente). Uma revisão de informações intermediárias
+
+consiste na realização de indagações, principalmente às pessoas responsáveis pelos assuntos
+
+financeiros e contábeis e na aplicação de procedimentos analíticos e de outros procedimentos de
+
+revisão. O alcance de uma revisão é significativamente menor do que o de uma auditoria conduzida
+
+de acordo com as normas de auditoria e, consequentemente, não nos permitiu obter segurança de
+
+que tomamos conhecimento de todos os assuntos significativos que poderiam ser identificados em
+
+uma auditoria. Portanto, não expressamos uma opinião de auditoria.
+
+Conclusão sobre as informações intermediárias individuais e consolidadas
+
+Com base em nossa revisão, não temos conhecimento de nenhum fato que nos leve a acreditar
+
+que as informações contábeis intermediárias incluídas nas informações trimestrais acima referidas
+
+não foram elaboradas, em todos os aspectos relevantes, de acordo com o Pronunciamento Técnico
+
+CPC 21 (R1) e a IAS 34 aplicáveis à elaboração de Informações Trimestrais (ITR), e apresentadas de
+
+forma condizente com as normas expedidas pela Comissão de Valores Mobiliários.
+
+Outros assuntos
+
+Demonstrações do valor adicionado
+
+As informações trimestrais acima referidas incluem a demonstração do valor adicionado (DVA),
+
+referente ao período de três meses findo em 31 de março de 20 26 , elaborada sob a responsabilidade
+
+da diretoria da Companhia e apresentada como informação suplementar para fins da IAS 34. Essa
+
+demonstração foi submetida a procedimentos de revisão executados em conjunto com a revisão das
+
+informações trimestrais, com o objetivo de concluir se ela está conciliada com as informações
+
+contábeis intermediárias e registros contábeis, conforme aplicável, e se sua forma e conteúdo está de
+
+acordo com os critérios definidos no Pronunciamento Técnico CPC 09 Demonstração do Valor
+
+Adicionado. Com base em nossa revisão, não temos conhecimento de nenhum fato que nos leve a
+
+acreditar que essa demonstração do valor adicionado não foi elaborada, em todos os aspectos
+
+relevantes, segundo os critérios definidos nessa Norma e de forma consistente em relação às
+
+informações contábeis intermediárias tomadas em conjunto.
+
+São Paulo, 07 de maio de 2026.
+
+ERNST & YOUNG
+
+Auditores Independentes S/S Ltda.
+
+CRC-SP-034519/O
+
+Alexandre Rubio
+
+Contador CRC- SP-223361/O
+
+31 de março de 2026
+
+Magazine Luiza S.A.
+
+Balanços patrimoniais
+
+31 de março de 2026 e 31 de dezembro de 2025
+
+(Valores expressos em milhares de Reais - R$)
+
+(^) Nota Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+Ativo
+Circulante
+Caixa e equivalentes de caixa 3 738.209 773.574 1.287.813 1.575.
+Títulos e valores mobiliários 4 64.601 62.704 337.036 459.
+Contas a receber 5 2.581.861 3.488.144 4.436.602 5.608.
+Estoques 6 6.481.648 6.060.415 7.555.019 7.181.
+Contas a receber de partes relacionadas 7 2.076.032 2.446.031 2.105.690 2.451.
+Tributos a recuperar 8 1.723.198 1.724.952 1.922.076 1.926.
+Imposto de renda e contribuição social a recuperar 9 117.162 99.636 181.539 160.
+Outros ativos circulantes 207.304 148.256 569.515 475.
+Total do ativo circulante 13.990.015 14.803.712 18.395.290 19.839.
+Não circulante
+Contas a receber 5 20.268 35.060 20.268 35.
+Tributos a recuperar 8 1.476.543 1.404.162 1.511.948 1.450.
+Imposto de renda e contribuição social diferidos 9 3.254.155 3.124.538 3.819.259 3.664.
+Depósitos judiciais 21 1.394.191 1.351.202 2.115.425 2.045.
+Outros ativos não circulantes 104.215 104.145 109.638 106.
+Realizável a longo prazo 6.249.372 6.019.107 7.576.538 7.302.
+Investimentos em controladas 10 5.312.592 5.344.185 - -
+Investimentos em controladas em conjunto 11 1.137.158 1.099.379 1.137.158 1.099.
+Direito de uso de arrendamento 12 3.071.049 3.122.022 3.164.091 3.219.
+Imobilizado 13 1.597.966 1.628.551 1.861.257 1.895.
+Intangível 14 1.247.883 1.219.750 4.577.745 4.555.
+12.366.648 12.413.887 10.740.251 10.770.
+Total do ativo não circulante 18.616.020 18.432.994 18.316.789 18.072.
+Total do ativo 32.606.035 33.236.706 36.712.079 37.911.
+
+As notas explicativas são parte integrante das informações trimestrais individuais e consolidadas.
+
+31 de março de 2026
+
+Magazine Luiza S.A.
+
+Balanços patrimoniais
+
+31 de março de 2026 e 31 de dezembro de 2025
+
+(Valores expressos em milhares de Reais - R$)
+
+Nota
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+Passivo
+Circulante
+Fornecedores 15 6.541.273 7.160.231 7.160.389 8.143.
+Fornecedores - convênio 16 3.015.982 2.860.362 3.322.599 3.356.
+Parceiros e outros depósitos 17 - - 1.335.089 1.357.
+Empréstimos e financiamentos e outros passivos
+financeiros 18 1.358.607 998.359 1.358.607 998.
+Salários, férias e encargos sociais 236.200 248.634 494.984 501.
+Tributos a recolher 123.368 203.235 249.196 364.
+Contas a pagar a partes relacionadas 7 187.245 233.716 104.458 110.
+Arrendamento mercantil 12 409.634 417.893 441.609 453.
+Receita diferida 19 122.407 122.407 154.884 155.
+Dividendos a pagar 3.021 3.021 3.021 3.
+Outros passivos circulantes 20 1.013.457 1.096.836 1.649.694 1.739.
+Total do passivo circulante 13.011.194 13.344.694 16.274.530 17.182.
+Não circulante
+Empréstimos e financiamentos e outros passivos
+financeiros 18 3.701.553 3.946.177 3.701.553 3.946.
+Tributos a recolher 4.573 - 42.522 41.
+Arrendamento mercantil 12 3.035.072 3.061.446 3.102.942 3.129.
+Imposto de renda e contribuição social diferidos 9 - - 79.278 76.
+Provisão para riscos tributários, cíveis e
+trabalhistas 21 868.169 838.223 1.414.176 1.364.
+Receita diferida 19 639.621 693.431 751.225 810.
+Outros passivos não circulantes 20 74.705 74.705 74.705 81.
+Total do passivo não circulante 8.323.693 8.613.982 9.166.401 9.450.
+Total do passivo 21.334.887 21.958.676 25.440.931 26.633.
+Patrimônio líquido 22
+Capital social 14.002.498 14.002.498 14.002.498 14.002.
+Reserva de capital (2.866.237) (2.815.070) (2.866.237) (2.815.070)
+Ações em tesouraria (164.218) (222.174) (164.218) (222.174)
+Reserva legal 138.502 138.502 138.502 138.
+Reserva de lucros 288.612 343.832 288.612 343.
+Ajuste de avaliação patrimonial (128.009) (169.558) (128.009) (169.558)
+Total do patrimônio líquido 11.271.148 11.278.030 11.271.148 11.278.
+Total do Passivo e Patrimônio líquido 32.606.035 33.236.706 36.712.079 37.911.
+As notas explicativas são parte integrante das informações trimestrais individuais e consolidadas.
+
+31 de março de 2026
+
+Magazine Luiza S.A.
+
+Demonstrações dos resultados
+
+Trimestres findos em 31 de março de 2026 e 2025
+
+(Valores expressos em milhares de Reais - R$)
+
+(^) Nota Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/
+Receita líquida de vendas 23 7.787.167 8.021.304 9.205.731 9.388.
+Custo das mercadorias revendidas e das prestações de
+serviços 24 (5.506.094) (5.665.964) (6.372.770) (6.511.997)
+Lucro bruto 2.281.073 2.355.340 2.832.961 2.876.
+Receitas (despesas) operacionais
+Com vendas 25 (1.416.940) (1.482.265) (1.700.997) (1.757.388)
+Gerais e administrativas 25 (222.023) (221.532) (338.595) (338.220)
+Perdas de créditos esperadas (138.454) (96.650) (149.158) (101.134)
+Depreciação e amortização 12|13|14 (262.683) (257.666) (332.446) (323.112)
+Resultado de equivalência patrimonial 10|11 84.306 55.014 37.779 42.
+Outras receitas operacionais, líquidas 25|26 (5.156) 49.521 3.392 38.
+(1.960.950) (1.953.578) (2.480.025) (2.438.939)
+Lucro operacional antes do resultado financeiro 320.123 401.762 352.936 438.
+Receitas financeiras 158.820 137.439 203.041 170.
+Despesas financeiras (685.144) (571.634) (771.746) (658.407)
+Resultado financeiro 27 (526.324) (434.195) (568.705) (488.069)
+Prejuízo operacional antes do imposto de renda e da
+contribuição social (206.201) (32.433) (215.769) (50.020)
+Imposto de renda e contribuição social correntes e
+diferidos 9 150.981 45.201 160.549 62.
+Lucro (prejuízo) do período (55.220) 12.768 (55.220) 12.
+Lucro (prejuízo) atribuível a:
+Acionistas controladores (55.220) 12.768 (55.220) 12.
+Lucro (prejuízo) por ação
+Básico (reais por ação) 22 (0,071) 0,017 (0,071) 0,
+Diluído (reais por ação) 22 (0,071) 0,017 (0,071) 0,
+
+As notas explicativas são parte integrante das informações trimestrais individuais e consolidadas.
+
+31 de março de 2026
+
+Magazine Luiza S.A.
+
+Demonstrações dos resultados abrangentes
+
+Trimestres findos em 31 de março de 2026 e 2025
+
+(Valores expressos em milhares de Reais - R$)
+
+Controladora e Consolidado
+31/03/2026 31/03/
+Lucro líquido (prejuízo) do período (55.220) 12.
+Itens que podem ser subsequentemente reclassificados para o resultado:
+Investimentos avaliados pelo método de equivalência patrimonial - participação nos Outros
+Resultados Abrangentes – ORA 80 (5.730)
+Ativos financeiros mensurados ao valor justo - VJORA 62.832 31.
+Efeito dos impostos (21.363) (8.696)
+Total de itens que podem ser subsequentemente reclassificados para o resultado 41.549 16.
+Total dos resultados abrangentes do período, líquidos de impostos (13.671) 29.
+Atribuível a:
+Acionistas controladores (13.671) 29.
+As notas explicativas são parte integrante das informações trimestrais individuais e consolidadas.
+
+31 de março de 2026
+
+Magazine Luiza S.A.
+
+Demonstrações das mutações do patrimônio líquido
+
+Trimestres findos em 31 de março de 2026 e 2025
+
+(Valores expressos em milhares de Reais - R$)
+
+Nota Capital social Reserva de capital tesourariaAções em Reserva legal
+Reserva de lucros
+Ajuste de
+avaliação
+patrimonial
+Total
+Reserva de
+reforço de
+capital de
+giro
+Reserva de
+incentivos
+fiscais
+Lucro
+(Prejuízo)
+Acumulado
+Saldos em 31 de dezembro de 2024 13.602.498 (2.556.694) (503.574) 137.442 - 768.554 - (128.964) 11.319.
+Plano de ações 22 - 5.164 - - - - - - 5.
+Ações em tesouraria vendidas ou entregues em planos de ações e negócios combinados - (93.104) 96.927 - - - - - 3.
+Lucro líquido do período - - - - - - 12.768 - 12.
+(87.940) 96.927 - - - 12.768 - 21.
+Outros resultados abrangentes: -
+Ajuste de avaliação patrimonial - - - - - - 16.880 16.
+Saldos em 31 de março de 2025 13.602.498 (2.644.634) (406.647) 137.442 - 768.554 12.768 (112.084) 11.357.
+Saldos em 31 de dezembro de 2025 14.002.498 (2.815.070) (222.174) 138.502 17.116 326.716 - (169.558) 11.278.
+Plano de ações - 6.086 - - - - - - 6.
+Ações em tesouraria vendidas ou entregues em planos de ações e combinação de negócios - (57.253) 57.956 - - - - - 703
+Prejuízo do período - - - - - (55.220) - (55.220)
+- (51.167) 57.956 - - - (55.220) - (48.431)
+Outros resultados abrangentes:
+Ajuste de avaliação patrimonial - - - - - - 41.549 41.
+Saldos em 31 de março de 2026 14.002.498 (2.866.237) (164.218) 138.502 17.116 326.716 (55.220) (128.009) 11.271.
+
+As notas explicativas são parte integrante das informações trimestrais individuais e consolidadas.
+
+31 de março de 2026
+
+Magazine Luiza S.A.
+
+Demonstrações dos fluxos de caixa
+
+Trimestres findos em 31 de março de 2026 e 2025
+
+(Valores expressos em milhares de Reais - R$)
+
+Nota
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/
+Fluxo de caixa das atividades operacionais
+Lucro líquido (prejuízo) do período (55.220) 12.768 (55.220) 12.
+Ajustes para conciliar o lucro do período ao caixa gerado pelas
+atividades operacionais:
+Imposto de renda e contribuição social reconhecidos no resultado 9 (150.981) (45.201) (160.549) (62.788)
+Depreciação e amortização 12|13|14 262.683 257.666 332.446 323.
+Juros sobre empréstimos, financiamentos e arrendamentos provisionados 18|12 177.612 223.891 179.411 239.
+Perda não realizada - Hedge de valor justo 18 105.679 - 105.679 -
+Rendimento de títulos e valores mobiliários (581) (3.266) (18.039) (3.266)
+Equivalência patrimonial 10|11 (84.306) (55.014) (37.779) (42.250)
+Movimentação da provisão para perdas em ativos 223.623 188.019 227.909 191.
+Provisão para riscos tributários, cíveis e trabalhistas 21 36.631 47.995 56.813 77.
+Resultado de baixa de ativos 620 1.446 1.231 (3.662)
+Apropriação da receita diferida 26 (30.352) (30.602) (35.6 23 ) (36.262)
+Despesas com plano de opção de ações 3.264 4.922 3.264 4.
+Lucro líquido do período ajustado 488.672 602.624 599. 543 700.
+(Aumento) redução nos ativos operacionais:
+Contas a receber 776.002 580.653 1.038.271 815.
+Títulos e valores mobiliários (1.316) 146.298 140.930 139.
+Estoques (469.010) 257.739 (421.915) 350.
+Contas a receber de partes relacionadas 364.038 (80.743) 354.419 (147.257)
+Tributos a recuperar (82.242) 141.154 (72.835) 156.
+Depósitos judiciais (42.989) 72.638 (69.886) 38.
+Outros ativos (59.118) (70.823) (97.824) (82.910)
+Variação nos ativos operacionais 485.365 1.046.916 871.160 1.271.
+Aumento (redução) nos passivos operacionais:
+Fornecedores 3.325.676 3.216.279 3.298.139 3.125.
+Parceiros e outros depósitos - - (22.301) (134.407)
+Salários, férias e encargos sociais (12.434) (9.531) (6.951) 11.
+Tributos a recolher (81.743) (49.317) (128.937) (80.520)
+Contas a pagar a partes relacionadas (46.471) (47.988) (5.657) (66.454)
+Outros passivos (87.843) 11.098 (89.1 84 ) (91.964)
+Variação nos passivos operacionais 3. 097 .185 3.120.541 3.045.1 09 2.762.
+Imposto de renda e contribuição social pagos - - (3.923) (11.768)
+Recebimento de dividendos 60.000 50.000 - -
+Fluxo de caixa gerado pelas atividades operacionais 4. 131 .222 4.820.081 4.511.889 4.722.
+Fluxo de caixa das atividades de investimento
+Aquisição de imobilizado 15 (22.133) (44.864) (31.538) (50.646)
+Aquisição de ativo intangível 12|14 (115.331) (76.685) (158.061) (117.683)
+Redução (aumento) de capital em controlada 10|11 34.476 (61.175) - -
+Pagamento por aquisição de controlada - - (10.368) (11.175)
+Fluxo de caixa aplicado nas atividades de investimento ( 102 .988) (182.724) (199.967) (179.504)
+Fluxo de caixa das atividades de financiamento
+Pagamento de empréstimos e financiamentos 18 - (72.998) - (73.074)
+Pagamento de juros sobre empréstimos e financiamentos 18 (79.665) (49.422) (79.665) (73.258)
+Pagamento de arrendamento mercantil 12 (106.918) (118.064) (115.445) (121.530)
+Pagamento de juros sobre arrendamento mercantil 12 (88.002) (82.771) (89.869) (83.886)
+Pagamento de fornecedores – convênio (3.789.014) (4.249.893) (4.314.967) (4.486.553)
+Fluxo de caixa aplicado nas atividades de financiamento (4.063.599) (4.573.148) (4.599.946) (4.838.301)
+Aumento (redução) do saldo de caixa e equivalentes de caixa (35.365) 64.209 (288.024) (294.984)
+Caixa e equivalentes de caixa no início do período 773.574 718.648 1.575.837 1.827.
+Caixa e equivalentes de caixa no fim do período 738.209 782.857 1.287.813 1.532.
+As notas explicativas são parte integrante das informações trimestrais individuais e consolidadas.
+
+31 de março de 2026
+
+Magazine Luiza S.A.
+
+Demonstrações do valor adicionado
+
+Trimestres findos em 31 de março de 2026 e 2025
+
+(Valores expressos em milhares de Reais - R$)
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/
+Receitas
+Venda de mercadorias, produtos e serviços 9.213.678 9.492.025 11.095.470 11.346.
+Provisão para créditos de liquidação duvidosa, líquida de reversões (138.454) (96.650) (149.158) (101.134)
+Receitas relativas à construção de ativos próprios 85.913 80.876 109.406 101.
+Outras receitas operacionais 49.814 71.856 70.355 92.
+9.210.951 9.548.107 11.126.073 11.439.
+Insumos adquiridos de terceiros
+Custos das mercadorias revendidas e das prestações de serviços (5.956.113) (6.189.502) (6.823.510) (7.037.587)
+Materiais, energia, serviços de terceiros e outros (1.300.924) (1.273.047) (1.500.263) (1.506.652)
+Perda e recuperação de valores ativos 160.511 3.573 160.297 5.
+(7.096.526) (7.458.976) (8.163.476) (8.538.385)
+Valor adicionado bruto 2.114.425 2.089.131 2.962.597 2.900.
+Depreciação e amortização (262.683) (257.666) (332.446) (323.112)
+Valor adicionado líquido produzido pela entidade 1.851.742 1.831.465 2.630.151 2.577.
+Valor adicionado recebido em transferência
+Resultado de equivalência patrimonial 84.306 55.014 37.779 42.
+Receitas financeiras 158.820 137.439 203.041 170.
+Valor adicionado total a distribuir 2.094.868 2.023.918 2.870.971 2.790.
+Distribuição do valor adicionado
+Pessoal e encargos:
+Remuneração direta 448.805 443.581 637.083 625.
+Benefícios 60.535 63.845 102.540 106.
+FGTS 29.580 32.981 57.668 57.
+538.920 540.407 797.291 788.
+Impostos, taxas e contribuições:
+Federais 41.775 78.516 261.622 268.
+Estaduais 834.999 770.577 997.310 967.
+Municipais 28.683 30.827 44.927 46.
+905.457 879.920 1.303.859 1.282.
+Remuneração de capital de terceiros:
+Juros 624.905 525.226 706.979 609.
+Aluguéis 26.328 21.857 35.677 29.
+Outras 54.478 43.740 82.385 68.
+705.711 590.823 825.041 706.
+Remuneração de capital próprio:
+Lucro retido(prejuízo) do período (55.220) 12.768 (55.220) 12.
+2.094.868 2.023.918 2.870.971 2.790.
+As notas explicativas são parte integrante das informações trimestrais individuais e consolidadas.
+
+31 de março de 2026
+
+Notas explicativas às informações trimestrais
+1. Informações gerais
+
+O Magazine Luiza S.A. (“Controladora”) é uma sociedade anônima de capital aberto listada no
+
+segmento especial denominado Novo Mercado da B3 S.A. - Brasil, Bolsa, Balcão, sob o código
+
+“MGLU3” e atua, preponderantemente, no comércio varejista, por meio de lojas físicas, e-
+
+commerce e seu SuperApp. O SuperApp é um aplicativo que oferece produtos e serviços do
+
+Magazine Luiza, de suas controladas e, através da plataforma de marketplace, de parceiros
+
+comerciais (“ sellers ”). Por meio de suas controladas, o Magazine Luiza também atua em operações
+
+de administração de consórcios, logística, desenvolvimento de softwares, “food delivery”, conteúdo
+
+digital, meios de pagamentos e crédito ao cliente. A controlada em conjunto Luizacred (nota 11),
+
+oferece serviço de crédito e financiamentos a clientes. A sede social do Magazine Luiza está
+
+localizada na cidade de Franca, Estado de São Paulo, Brasil, e sua Controladora e holding é a LTD
+
+Administração e Participação S.A.
+
+O Magazine Luiza S.A. e suas controladas doravante serão referidos como “Companhia” para fins
+
+deste relatório, exceto se de outra forma indicado em informação específica.
+
+Em 31 de março de 2026, a Companhia possuía 1.24 5 lojas e 21 centros de distribuição (1.
+
+lojas e 21 centros de distribuição em 31 de dezembro de 2025) localizados em todas as regiões do
+
+País. A Companhia atua também nos sites de comércio eletrônico http://www.magazineluiza.com.br,
+
+http://www.epocacosmeticos.com.br, http://www.netshoes.com.br, http://www.zattini.com.br,
+
+http://www.shoestock.com.br, http://www.kabum.com.br e seus respectivos aplicativos “ mobile ”, bem como
+
+pelos aplicativos de “ food delivery ” AiQfome, Tônolucro e Plus Delivery.
+
+Em 07 de maio de 2026, o Conselho de Administração autorizou a emissão dessas informações
+
+trimestrais.
+
+2. Apresentação e elaboração das informações trimestrais
+
+As informações trimestrais são apresentadas em milhares de reais (“R$”), que é a moeda funcional
+
+e de apresentação da Companhia. As informações trimestrais individuais e consolidadas foram
+
+elaboradas de acordo com o pronunciamento técnico CPC 21 (R1) (demonstração intermediária)
+
+e de acordo com a norma internacional IAS 34, e apresentadas de forma condizente com as
+
+normas expedidas pela Comissão de Valores Mobiliários.
+
+As práticas, políticas e os principais julgamentos contábeis e fontes de incertezas sobre estimativas
+
+adotadas na elaboração das informações trimestrais individuais e consolidadas, estão consistentes
+
+com aquelas adotadas e divulgadas nas notas explicativas das demonstrações contábeis
+
+referentes ao exercício findo em 31 de dezembro de 2025, as quais foram divulgadas em 12 de
+
+março de 2026 e devem ser lidas em conjunto.
+
+A Demonstração do Valor Adicionado (“DVA”) tem por finalidade evidenciar a riqueza criada pela
+
+Companhia e suas Controladas e sua distribuição durante determinado período e é apresentada
+
+conforme requerido pelas normas expedidas pela CVM - Comissão de Valores Mobiliários, pois
+
+não é uma demonstração prevista e nem obrigatória conforme as IFRS.
+
+31 de março de 2026
+
+2. Apresentação e elaboração das informações trimestrais --Continuação
+
+A Administração adota a política contábil de apresentar os juros pagos como atividades de
+
+financiamento e os dividendos recebidos como atividade operacional nas Demonstrações dos
+
+fluxos de caixas.
+
+2.1. Pronunciamentos novos ou revisados aplicados pela primeira vez em 2026
+
+A partir de 1° de janeiro de 2026 são aplicáveis as alterações à IFRS 9 e à IFRS 7 - Alterações
+
+à Classificação e Mensuração de Instrumentos Financeiros. As principais alterações
+
+introduzidas são as seguintes:
+
+Um esclarecimento de que um passivo financeiro é baixado na “data de liquidação” e a
+introdução de uma opção de política contábil (quando determinadas condições forem
+
+atendidas) para dar baixa em passivos financeiros liquidados por meio de um sistema
+
+eletrônico de pagamentos antes da data de liquidação.
+
+Orientação adicional sobre como os fluxos de caixa contratuais de ativos financeiros com
+características ambientais, sociais e de governança corporativa (ESG) e similares devem
+
+ser avaliados.
+
+Esclarecimentos sobre o que constitui “características sem direito de regresso” e quais são
+as características dos instrumentos contratualmente vinculados.
+
+Introdução de novos requisitos de divulgação para instrumentos financeiros com
+características contingentes e requisitos adicionais de divulgação para instrumentos
+
+patrimoniais mensurados ao valor justo por meio de outros resultados abrangentes.
+
+A Companhia não identificou impactos relevantes causados pelas alterações acima.
+
+2. 2. Reforma Tributária
+
+As Leis Complementares nº 214/2025 e nº 227/2026 marcaram o início da Reforma Tributária
+
+do consumo, cujo objetivo é simplificar o sistema tributário brasileiro e aumentar a eficiência
+
+operacional e o grau de transparência na cadeia de circulação de bens e serviços. O novo
+
+modelo substitui cinco tributos (PIS, COFINS, IPI, ICMS e ISS) pela Contribuição sobre Bens
+
+e Serviços (CBS), de competência federal, e pelo Imposto sobre Bens e Serviços (IBS), de
+
+competência estadual e municipal. A unificação desses tributos sob o princípio da não
+
+cumulatividade, com direito ao crédito sobre todas as aquisições, alinha o Brasil a modelos
+
+internacionais de Imposto sobre Valor Agregado (“IVA”) e promove profundas alterações na
+
+dinâmica contábil das entidades.
+
+O ano de 2026 foi definido como período de transição e testes pelo Fisco e pelos
+
+contribuintes. Durante esse período, os novos tributos (IBS e CBS) estão sendo destacados
+
+de forma meramente informativa nos documentos fiscais, sem impacto econômico, financeiro
+
+ou contábil para a Companhia e seus clientes, conforme previsto na legislação vigente.
+
+A Companhia permanece acompanhando de forma contínua os desdobramentos regulatórios
+
+e operacionais decorrentes da Reforma Tributária, incluindo análises de cenários,
+
+simulações e avaliação de potenciais impactos futuros em sua operação, margens, formação
+
+de preços, cadeia de suprimentos e créditos tributários. Adicionalmente, a Companhia está
+
+realizando revisões em seus sistemas e processos internos para garantir a conformidade
+
+com os novos requisitos legais.
+
+31 de março de 2026
+
+3. Caixa e equivalentes de caixa
+
+Taxas
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+Caixa 135.131 114.742 137.453 116.
+Bancos 103.813 48.177 202.672 165.
+Depósitos a curto prazo De 98% a 102% CDI 499.265 610.655 922.253 1.247.
+Fundos de investimentos não exclusivos De 96% a 105% CDI - - 25.435 46.
+Total 738.209 773.574 1.287.813 1.575.
+4. Títulos e valores mobiliários
+
+Taxas
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+Fundos de investimentos não exclusivos 98% a 105% CDI 6.076 5.876 6.898 5.
+Direitos creditórios 47.314 48.250 22.856 22.
+Títulos públicos federais (a) - - 296.071 423.
+Fundo de investimento exclusivo:
+Títulos públicos federais (b) 11.211 8.578 11.211 8.
+Total 64.601 62.704 337.036 459.
+(a) Refere-se às aplicações de sua controlada Magalupay em títulos públicos federais, basicamente Letras Financeiras do Tesouro
+Nacional.
+(b) Refere-se aos fundos de investimentos exclusivos de renda fixa junto ao Banco Itaú S.A e ao Banco do Brasil S.A. Em 31 de março
+de 2026 e 31 de dezembro de 2025 , a carteira estava atrelada a títulos públicos federais referenciados à variação do Certificado de
+Depósito Interfinanceiro (CDI), com liquidez imediata e objetivo de retornar à rentabilidade média de 100% do CDI à Companhia.
+A análise de risco de crédito e de sensibilidade está descrita na nota 29.
+
+5. Contas a receber
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+Cartões de crédito (a) 1.049.111 1.796.141 2.574.607 3.618.
+Cartões de débito (a) 3.137 2.052 3.136 2.
+Crédito direto ao consumidor (b) 1.706.763 1.765.074 1.806.148 1.806.
+Serviços a clientes (c) 598.282 625.993 696.499 741.
+Demais contas a receber (d) 4.257 5.125 115.363 101.
+Total contas a receber 3.361.550 4.194.385 5.195.753 6.270.
+Provenientes de acordos comerciais (e) 123.134 199.619 158.024 254.
+Provisão para perda esperada de créditos (500.908) (454.568) (515.260) (465.092)
+Ajuste a valor presente (381.647) (416.232) (381.647) (416.232)
+Total 2.602.129 3.523.204 4.456.870 5.644.
+Ativo circulante 2.581.861 3.488.144 4.436.602 5.608.
+Ativo não circulante 20.268 35.060 20.268 35.
+31 de março de 2026
+
+5. Contas a receber --Continuação
+
+O prazo médio de recebimento das contas a receber de clientes é de 35 dias na controladora e de
+
+45 dias no consolidado em 31 de março de 2026 (37 dias na Controladora e 47 dias no Consolidado
+
+em 31 de dezembro de 2025).
+
+(a) Contas a receber decorrentes das vendas realizadas por meio dos cartões de crédito e débito, os quais a Companhia recebe das
+adquirentes em montantes, prazos e quantidade de parcelas definidos no momento da venda dos produtos. No Consolidado está
+somado o recebível de adquirentes transacionado na Magalupay que será repassado aos parceiros (“sellers”) conforme descrito na
+nota 17. Em 31 de março de 2026, a Companhia possuía créditos cedidos à certas adquirentes e instituições financeiras que
+montavam R$3.787.351 (R$3.307. 696 em 31 de dezembro de 2025) na Controladora e R$5.681.660 (R$5.134.803 em 31 de
+dezembro de 2025) no Consolidado, sobre os quais é aplicado um desconto que varia entre 103,0% e 107,0% do CDI. A Companhia,
+por meio das operações de cessão de recebíveis em cartões, transfere para as adquirentes e instituições financeiras todos os riscos
+de recebimento dos clientes e, deste modo, líquida as contas a receber relativas a esses créditos.
+(b) Refere-se às contas a receber decorrentes de vendas financiadas pela Controladora e pela controlada Magalupay.
+(c) Refere-se principalmente a vendas intermediadas pela Controladora para a Luizaseg e Cardif do Brasil Seguros e Garantias S.A. A
+Controladora destina às suas parceiras o valor da garantia estendida e outros seguros, em sua totalidade, no mês subsequente à
+venda e recebe dos clientes de acordo com o prazo firmado na transação. Adicionalmente, nessa rubrica estão alocados os
+recebíveis por serviços de marketplace e outros serviços.
+(d) Refere-se principalmente a recebíveis de serviços de transporte das controladas Magalog para terceiros, bem como serviços
+prestados e cargas nas contas de pagamentos da Magalupay e recebíveis do FIDC (nota 4 ).
+(e) Refere-se a valores de bonificações a serem recebidos de fornecedores, devido ao atendimento do volume de compras ou
+campanhas promocionais, bem como de acordos que definem participação do fornecedor nos dispêndios relacionados à veiculação
+de propaganda e publicidade (propaganda cooperada). O saldo apresentado está líquido de valores compensados com saldos de
+contas a pagar dos respectivos fornecedores, previsto em acordo de parceria entre as partes. Os valores compensados foram de
+R$603.380 na Controladora (R$768.708 em 31 de dezembro de 2025) e R$618.484 no Consolidado (R$789.196 em 31 de dezembro
+de 2025).
+A movimentação da provisão para perdas de crédito esperadas, relacionadas a crédito direto ao
+
+consumidor e serviços a clientes é como segue:
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+Saldo inicial (454.568) (488.608) (465.092) (496.680)
+(+) Adições (175.846) (565.203) (179.674) (569.807)
+(-) Baixas 129.506 599.243 129.506 601.
+Saldo no final (500.908) (454.568) (515.260) (465.092)
+A análise de risco de crédito está apresentada na nota 29.
+
+31 de março de 2026
+
+5. Contas a receber --Continuação
+
+A composição das contas a receber de clientes e provenientes de acordos comerciais por idade de vencimento é como segue:
+
+Contas a receber de clientes Provenientes de acordos comerciais
+Controladora Consolidado Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025 31/03/2026 31/12/2025 31/03/2026 31/12/
+Valores a vencer:
+Até 30 dias 471.067 505.005 816.828 784.501 23.638 44.918 41.239 53.
+Entre 31 e 60 dias 309.961 343.403 377.885 387.800 90.394 91.621 95.295 126.
+Entre 61 e 90 dias 235.014 422.639 391.589 720.299 5.583 48.937 8.471 55.
+Entre 91 e 180 dias 756.816 1.238.715 1.480.829 2.024.752 214 11.039 4.577 12.
+Entre 181 e 360 dias 1.142.479 1.251.310 1.615.980 1.891.513 - 182 - 2.
+Acima de 361 dias 103.060 126.505 146.707 135.605 - - - -
+3.018.397 3.887.577 4.829.818 5.944.470 119.829 196.697 149.582 250.
+Valores vencidos:
+Até 30 dias 92.118 74.405 111.227 93.708 994 2.456 2.753 3.
+Entre 31 e 60 dias 60.681 51.176 61.622 51.297 1.330 297 4.408 386
+Entre 61 e 90 dias 51.053 46.509 52.139 46.509 559 88 624 221
+Entre 91 e 180 dias 139.301 134.718 140.947 134.718 422 81 657 88
+343.153 306.808 365.935 326.232 3.305 2.922 8.442 4.
+3.361.550 4.194.385 5.195.753 6.270.702 123.134 199.619 158.024 254.
+31 de março de 2026
+
+6. Estoques
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+Mercadorias para revenda 6.734.611 6.489.767 7.833.618 7.636.
+Material para consumo 32.247 30.274 38.339 35.
+Provisões para perdas nos estoques (285.210) (459.626) (316.938) (490.896)
+6.481.648 6.060.415 7.555.019 7.181.
+Em 31 de março de 2026 a Companhia possui estoques de mercadorias para revendas dadas
+
+em garantias de processos judiciais, em fase de execução, no montante aproximado de R$8.
+
+(R$8.988 em 31 de dezembro de 2025).
+
+A movimentação da provisão para perdas nos estoques é a seguinte:
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+Saldo inicial (459.626) (257.318) (490.896) (290.121)
+Constituição da provisão (47.777) (384.007) (48.235) (396.475)
+Estoques baixados ou vendidos 222.193 181.699 222.193 195.
+Saldo final (285.210) (459.626) (316.938) (490.896)
+31 de março de 2026
+
+7. Partes relacionadas
+
+Empresa
+Ativo (Passivo) Resultado
+Controladora Consolidado Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025 31/03/2026 31/03/2025 31/03/2026 31/03/
+Luizacred (i)
+Comissões por serviços prestados 13.060 1.179 13.060 1.179 73.166 57.253 73.166 57.
+Cartão de crédito 1.697.074 2.012.823 2.023.918 2.382.706 (112.771) (74.685) (117.247) (74.685)
+Repasses de recebimentos (37.567) (54.680) (37.567) (54.680) - - - -
+Reembolso de despesa compartilhadas 7.400 32.035 7.400 32.035 23.319 31.197 23.319 31.
+Total de Controladas em conjunto 1.679.967 1.991.357 2.006.811 2.361.240 (16.286) 13.765 (20.762) 13.
+Netshoes (ii)
+Comissões por serviços prestados e
+reembolso de despesas compartilhadas 11.269 7.516 - - 1.854 2.110 - -
+Época Cosméticos (iii)
+Comissões por serviços prestados 311 414 - - 53 729 - -
+Kabum (iv)
+Comissões por serviços prestados 2.131 9.954 - - 6.882 5.444 - -
+Nota promissória - 100.046 - - - - - -
+2.131 110.000 - - 6.882 5.444 - -
+Consórcio Magalu (v)
+Comissões por serviços prestados - - - - 5.367 4.838 - -
+Dividendos a receber - 14.560 - - - - - -
+Grupo de Consórcios (177) (82) (177) (82) - - - -
+(177) 14.478 (177) (82) 5.367 4.838 - -
+Magalog (vi)
+Repasses de recebimentos (124.762) (137.775) - - - -
+Despesas com fretes - - - - (473.892) (425.976) - -
+(124.762) (137.775) - - (473.892) (425.976) - -
+Magalupay (vii)
+Repasses de recebimentos 325.676 246.293 - - (18.167) (35.148) - -
+Antecipação de recebíveis - - - - (9.067) -
+325.676 246.293 - - (27.234) (35.148) - -
+Jovem Nerd (viii)
+Veiculação de publicidade (226) (106) - - (332) - - -
+Luizalabs (ix)
+Desenvolvimento de sistemas e reembolso - (100) - - - (41) - -
+Magalu Cloud (x)
+Despesas com serviços de nuvem - - - - (18.750) - - -
+Total de Controladas 214.222 240.720 (177) (82) (506.052) (448.044) - -
+MTG Participações (xi)
+Aluguéis e outros repasses (5.128) (2.417) (5.128) (2.417) (24.315) (23.297) (24.315) (23.297)
+PJD Agropastoril (xii)
+Aluguéis, fretes e outros repasses (32) - (32) - (153) (281) (153) (281)
+LH Participações (xiii)
+Aluguéis (242) - (242) - (726) (699) (726) (699)
+ETCO - SCP (xiv)
+‘Comissão de agenciamento - "Fee" - - - - (3.227) (2.057) (3.227) (2.057)
+Despesa com veiculação de mídia - (17.345) - (17.345) (100.831) (64.269) (100.831) (64.269)
+- (17.345) - (17.345) (104.058) (66.326) (104.058) (66.326)
+Total de outras partes relacionadas (5.402) (19.762) (5.402) (19.762) (129.252) (90.603) (129.252) (90.603)
+
+Total de partes relacionadas 1.888.787 2.212.315 2.001.232 2.341.396 (651.590) (524.882) (150.014) (76.838)
+31 de março de 2026
+
+7. Partes relacionadas --Continuação
+
+Demais partes relacionadas - Títulos e
+valores mobiliários
+Ativo (Passivo) Resultado
+Controladora Consolidado Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025 31/03/2026 31/03/2025 31/03/2026 31/03/
+Operações com fundos de investimento
+exclusivos – classificados como Títulos e
+valores mobiliários (xv)
+11.211 8.578 11.211 8.578 380 2.411 380 2.
+Reconciliação
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+Contas a receber de partes relacionadas 2.076.032 2.446.031 2.105.690 2.451.
+Contas a pagar a partes relacionadas (187.245) (233.716) (104.458) (110.115)
+1.888.787 2.212.315 2.001.232 2.341.
+(i) As transações com a Luizacred, controlada em conjunto com o Banco Itaúcard S.A., referem-se às seguintes atividades:
+(a) Recebíveis em cartões de crédito private label e despesas financeiras com antecipação de tais recebíveis;
+(b) Saldo a receber decorrente de vendas de produtos financiadas aos clientes pela Luizacred, recebidas pela Controladora;
+(c) Comissões dos serviços prestados mensalmente pela Companhia, que incluem a captação de clientes, gestão e administração das operações de crédito ao consumidor,
+controle e cobrança dos financiamentos concedidos, indicação de seguros vinculados aos produtos e serviços financeiros. Os valores a pagar (passivo circulante)
+referem-se a recebimentos de prestações de clientes nos caixas das lojas da Companhia, que são transferidos para a Luizacred;
+(d) Reembolso de despesas compartilhadas.
+(ii) Os valores da Netshoes, controlada integral, referem-se às comissões pelas vendas efetuadas via plataforma de Marketplace da Controladora e reembolso de despesas
+compartilhadas.
+(iii) As transações com a Época Cosméticos, controlada integral, referem-se às comissões com vendas via plataforma de Marketplace da Controladora.
+(iv) As transações com a KaBuM, controlada integral, referem-se às comissões com vendas via plataforma de Marketplace e Notas Promissórias, firmadas com a Controladora,
+a serem liquidadas em 2026.
+(v) Os valores a receber (ativo circulante) do Consórcio Magalu (LACs), controlada integral, referem-se a dividendos propostos, às comissões pelas vendas efetuadas pela
+Controladora como representante das operações de consórcio. Os valores a pagar (passivo circulante) referem-se aos repasses a realizar à “LAC” referentes às prestações
+de consórcios recebidas pela Controladora nos caixas dos seus pontos de venda.
+(vi) As transações com a Magalog, controlada integral, referem-se a despesas com frete e repasse de recebíveis.
+(vii) Transações com a Magalupay, controlada integral, referem-se aos repasses financeiros e às comissões a receber pelas vendas transacionadas em sua plataforma pelos
+sellers de Marketplace, que podem ser antecipados a critério da controladora.
+(viii) As transações com a Jovem Nerd, controlada integral, referem-se à veiculação de propaganda.
+(ix) Refere-se à prestação de serviços de desenvolvimento de sistemas prestados pela controlada Luizalabs Computação e Sistemas de Informação Ltda.
+(x) Refere-se a valores de prestação de serviços de armazenamento em nuvem (Cloud)
+(xi) As transações com a MTG Administração, Assessoria e Participações S.A., controlada pelos mesmos controladores da Companhia, referem-se a despesas com aluguéis
+de prédios comerciais para o estabelecimento de suas lojas, assim como centros de distribuição.
+(xii) As transações com a PJD Agropastoril Ltda., empresa controlada por controladores indiretos da Companhia, referem-se aluguéis de caminhões para fretes de mercadorias.
+(xiii) As transações com a LH Agropastoril, Administração Participações Ltda., controlada pelos mesmos controladores da Companhia, referem-se a despesas com aluguéis de
+prédios comerciais e escritório central.
+(xiv) As transações com a ETCO Sociedade em Conta de Participação, que tem como sócia participante empresa controlada pela presidente do Conselho de Administração da
+Companhia, referem-se a contratos de prestação de serviços de publicidade e propaganda, incluindo também repasses relacionados a serviços de veiculação, produção de
+mídias e criação gráfica.
+(xv) Refere-se às operações de aplicação, resgate e rendimentos com os fundos de investimentos exclusivos (ML Renda Fixa Crédito Privado FI e BB MGL Fundo de Investimento
+RF Longo Prazo, vide Nota 4 - Títulos e valores mobiliários).
+31 de março de 2026
+
+7. Partes relacionadas --Continuação
+
+Remuneração da Administração na Controladora e Consolidado
+
+31/03/2026 31/03/
+Conselho de
+Administração
+Diretoria
+Estatutária
+Conselho de
+Administração
+Diretoria
+Estatutária
+Remuneração fixa e variável 2.246 2.917 1.714 2.
+Plano de ações - 1.054 259 2.
+A Companhia não possui benefícios pós-emprego, benefícios de rescisão de contrato de trabalho
+
+ou outros benefícios de longo prazo. Os benefícios de curto prazo para a diretoria estatutária são
+
+os mesmos dos demais funcionários da Companhia, sendo que determinados colaboradores
+
+elegíveis são beneficiários de plano de incentivos atrelados a ações, mencionado na nota 2 2. É
+
+política interna da Companhia o pagamento de Participação nos Lucros e Resultados aos seus
+
+colaboradores. Tais valores são provisionados em bases mensais pela Companhia, de acordo com
+
+a estimativa de atendimento de metas. A remuneração global dos administradores foi aprovada
+
+pela Assembleia Geral Ordinária dia 2 3 de abril de 20 26 , em que foi previsto o limite de R$39.
+
+para o exercício de 2026.
+
+8. Tributos a recuperar
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+ICMS a recuperar (a) 1.958.913 1.958.783 1.994.152 1.992.
+PIS e Cofins a recuperar 1.237.204 1.166.707 1.412.426 1.347.
+Outros 3.624 3.624 27.446 35.
+3.199.741 3.129.114 3.434.024 3.376.
+Ativo circulante 1.723.198 1.724.952 1.922.076 1.926.
+Ativo não circulante 1.476.543 1.404.162 1.511.948 1.450.
+(a) Referem-se a créditos acumulados de ICMS próprio e por substituição tributária, oriundos de aplicação de alíquotas diversificadas em operações de
+entrada e de saída de mercadoria interestaduais. Os referidos créditos estão sendo realizados por meio de solicitação de ressarcimento e
+compensações de débitos de mesma natureza junto aos Estados de origem do crédito e devem ser compensados até o final do período de transição
+da Reforma Tributária do Consumo.
+
+9. Imposto de renda e contribuição social
+
+a) Imposto de renda e contribuição social a recuperar
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/
+IRPJ e CSLL a recuperar 106.540 46.464 149.762 84.
+IRRF a compensar 10.622 53.172 31.777 75.
+Total do ativo circulante 117.162 99.636 181.539 160.
+31 de março de 2026
+
+9. Imposto de renda e contribuição social --Continuação
+
+b) Reconciliação do efeito tributário sobre o prejuízo antes do imposto de renda e da contribuição social
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Prejuízo antes do imposto de renda e da contribuição social (206.201) (32.433) (215.769) (50.020)
+Alíquota nominal vigente 34% 34% 34% 34%
+Expectativa de crédito de imposto de renda e contribuição social às alíquotas
+vigentes 70.108 11.027 73.361 17.007
+Reconciliação para a taxa efetiva
+Exclusão - equivalência patrimonial 28.663 18.705 12.844 14.365
+IR Diferido não reconhecido Kabum - - (23.901) (9.900)
+Efeito de subvenção governamental (1) 53.217 16.365 92.852 40.331
+Juros de indébitos tributários (2) 397 1.054 1.987 2.373
+Majoração de alíquota da CSLL (LC 224/2025) (3) - - 7.494 -
+Outras exclusões permanentes, líquidas (1.404) (1.950) ( 4. 088 ) (1.388)
+Crédito de IR/CS lançado no resultado do período 150.981 45.201 160. 549 62.788
+Corrente - - ( 12. 876 ) (13.465)
+Diferido 150.981 45.201 173.425 76.253
+Total 150.981 45.201 160. 549 62.788
+Taxa efetiva 73,22% 139,37% 74 , 41 % 125,53%
+(1) A Companhia, no exercício regular de suas atividades, usufrui de uma série de benefícios fiscais concedidos pelos Estados da Federação. Estes benefícios se caracterizam
+como subvenção para investimentos e, de acordo com o CPC 07 - Subvenção e Assistência Governamentais, são registrados na demonstração do resultado do exercício.
+(2) Em 24 de setembro de 2021, em decisão do Supremo Tribunal Federal com repercussão geral reconhecida, foi declarada inconstitucional a incidência do IRPJ e da CSLL sobre
+os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário. A Companhia possui mandado de segurança, com data anterior a do julgamento do
+STF, no qual tem como objeto justamente o reconhecimento da ilegitimidade da incidência de IRPJ e CSLL e da PIS/COFINS sobre a Selic em créditos fiscais. Em razão da
+decisão do STF, a Companhia realizou a exclusão permanente de tais valores de sua base de cálculo, avaliando que é provável que o tema seja aceito pelas autoridades, nos
+termos da ICPC 22 - Incerteza sobre o Tratamento sobre o Lucro (equivalente à IFRIC 23).
+(3) Efeito de majoração da alíquota de contribuição social sobre o lucro líquido (CSLL) relacionada à Lei Complementar 224/2025, aplicada sobre a base de prejuízo fiscal e base
+negativa da controlada Magalupay.
+31 de março de 2026
+
+9. Imposto de renda e contribuição social --Continuação
+
+Imposto de renda e contribuição social sobre o lucro líquido diferidos
+
+c) Composição e movimentação dos saldos ativos e passivos de imposto de renda e contribuição social diferidos
+
+Controladora Consolidado
+31/12/2025 Resultado Patrimônio
+Líquido
+31/03/2026 31/12/2025 Resultado Patrimônio
+Líquido
+31/03/2026
+Imposto de renda e contribuição social diferidos sobre:
+Prejuízo fiscal e base negativa de contribuição social 2.213.538 196.359 - 2.409.897 2.534.919 211.981 - 2.746.900
+Provisão para perda esperada de créditos 154.553 15.756 - 170.309 163.456 16.026 - 179.482
+Provisão para perda nos estoques 156.273 (59.302) - 96.971 159.308 (60.080) - 99.228
+Provisão para ajustes a valor presente e valor justo 201.535 (14.958) (21.364) 165.213 201.534 (14.958) (21.364) 165.212
+Provisão para riscos tributários, cíveis e trabalhistas 284.996 10.181 - 295.177 494.080 16.434 - 510.514
+Provisão para plano de ações 11.641 (13) - 11.628 12.489 (158) - 12.331
+Diferença temporária sobre arrendamentos 145.649 5.491 - 151.140 145.971 5.338 - 151.309
+Diferença temporária sobre valor justo em aquisições (39.360) (905) - (40.265) (106.639) 3.010 - (103.629)
+Depósitos judiciais 617 - - 617 617 - - 617
+Créditos tributários diferidos (1) (18.512) - - (18.512) (47.968) - - (47.968)
+Outras provisões 13.608 (1.628) - 11.980 30.153 (4.168) - 25.985
+Imposto de renda e contribuição social diferidos ativos
+(passivos) 3.124.538 150.981 (21.364) 3.254.155 3.587.920 173.425 (21.364) 3.739.981
+Controladora Consolidado
+31/12/2024 Resultado Patrimônio
+Líquido
+31/03/2025 31/12/2024 Resultado Patrimônio
+Líquido
+31/03/2025
+Imposto de renda e contribuição social diferidos sobre:
+Prejuízo fiscal e base negativa de contribuição social 1.823.937 44.651 1.868.588 2.107.949 59.443 - 2.167.392
+Provisão para perda esperada de créditos 167.097 (25.032) - 142.065 176.791 (21.701) - 155.090
+Provisão para perda nos estoques 87.488 8.420 - 95.908 94.099 6.780 - 100.879
+Provisão para ajustes a valor presente e valor justo 170.639 (6.851) (10.643) 153.145 170.638 (6.851) (10.643) 153.144
+Provisão para riscos tributários, cíveis e trabalhistas 412.004 15.716 - 427.720 644.810 28.663 - 673.473
+Provisão para plano de ações 23.620 1.756 - 25.376 24.024 1.786 - 25.810
+Diferença temporária sobre arrendamentos 122.665 4.885 - 127.550 122.931 4.885 - 127.816
+Diferença temporária sobre valor justo em aquisições (40.962) - - (40.962) (114.078) 3.333 - (110.745)
+Depósitos judiciais 617 - - 617 617 - - 617
+Créditos tributários diferidos (1) (21.727) 3.215 - (18.512) (51.183) 3.215 - (47.968)
+Outras provisões 6.459 (1.559) - 4.900 34.952 (3.300) - 31.652
+Imposto de renda e contribuição social diferidos ativos
+(passivos) 2.751.837 45.201 (10.643) 2.786.395 3.211.550 76.253 (10.643) 3.277.160
+(1) Refere-se a exclusões temporárias da base de cálculo do imposto de renda e contribuição social sobre o lucro líquido relacionadas ao reconhecimento de créditos tributários, cujo benefício fiscal é
+observado em momento distinto ao reconhecimento contábil.
+31 de março de 2026
+
+9. Imposto de renda e contribuição social --Continuação
+
+Composição do imposto de renda e contribuição social diferidos por empresa
+
+Saldo em
+31/12/2025 Diferido Ativo^ Diferido Passivo^
+Saldo em
+31/03/2026
+Controladora 3.124.538 3.254.155 - 3.254.155
+Netshoes 254.764 258.017 - 258.017
+KaBuM (54.086) - (50.609) (50.609)
+Consórcio Magalu (22.771) - (28.669) (28.669)
+Época Cosméticos 95.495 101.219 - 101.219
+Magalog 96.171 100.891 - 100.891
+Luizalabs 27.934 33.922 - 33.922
+Magalupay 65.875 71.055 - 71.055
+Consolidado 3.587.920 3.819.259 (79.278) 3.739.981
+O saldo de imposto de renda e contribuição social diferido ativo registrado limita-se aos valores
+
+cuja realização é amparada por projeções de bases tributáveis futuras, aprovadas pela
+
+Administração.
+
+31 de março de 2026
+
+10. Investimento em controladas
+
+a) Movimentação dos investimentos em controladas
+
+A movimentação dos investimentos em controladas diretas, apresentado nas informações trimestrais individuais, é como segue:
+
+Posição em 31/03/2026
+
+Informações Financeiras Netshoes Kabum Época
+Cosméticos
+MagaluPay Consórcio
+Magalu
+Magalog Luizalabs Nonsense
+Quotas/ ações 1. 442 .856 1.976 145.955 492.780 6.500 38.746.761 125.523 N/A
+% participação 100% 100% 100% 100% 100% 100% 100% 100%
+Ativo Circulante 532.444 1.103.065 156.311 2.526.068 316.492 360.186 51.629 374
+Ativo Não Circulante 893.626 111.175 465.088 533.376 15.276 426.566 474.335 221
+Passivo Circulante 538.136 577.885 114.437 2.003.781 191.738 353.879 120.239 1.100
+Passivo Não Circulante 261.739 56.907 247.344 122.713 31.916 9.821 61.659 -
+Capital Social 1.443.524 50.882 200.955 667.434 50.050 551.895 322.543 13.944
+Patrimônio Líquido 626.195 579.448 259.618 932.950 108.114 423.052 344.066 (505)
+Receita Líquida 425.616 689.114 105.409 181.057 58.159 549.634 136 .1 39 64
+Lucro Líquido (Prejuízo) 17.054 16.769 590 14.954 20.491 (5.974) (10.725) 404
+Movimentação Netshoes Kabum
+Época
+Cosméticos MagaluPay^
+Consórcio
+Magalu Magalog^ Luizalabs^ Nonsense^ Total^
+Saldo inicial 1.338.568 1.932.070 273.671 915.762 133.063 385.994 366.570 (1.513) 5.344.185
+AFAC/(Redução de capital) (120.000) - 20.000 - - 47.000 18.000 524 (34.476)
+Outros resultados abrangentes - - - - - - - 80 80
+Plano de ação (749) 332 (468) 2.234 - 132 235 - 1.716
+Dividendos - - - - (45.440) - - - (45.440)
+Equivalência patrimonial 16.787 10.019 590 14.954 20.491 (5.982) (10.736) 404 46.527
+Saldo em 31 de março de 2026 1.234.606 1.942.421 293.793 932.950 108.114 427.144 374.069 (505) 5.312.592
+31 de março de 2026
+
+10. Investimento em controladas --Continuação
+
+a) Movimentação dos investimentos em controladas--Continuação
+
+Posição em 31/12/2025
+
+Informações Financeiras Netshoes Kabum
+Época
+Cosméticos MagaluPay^
+Consórcio
+Magalu Magalog^ Luizalabs^ Nonsense^
+Quotas/ ações 1.562.856 1.976 145.955 492.780 6.500 38.746.761 125.523 N/A
+% participação 100% 100% 100% 100% 100% 100% 100% 100%
+Ativo Circulante 742.428 1.606.246 204.359 2.814.724 338.530 359.460 50.22 8 433
+Ativo Não Circulante 880.054 119.308 444.061 534.999 15.436 416.604 468.405 216
+Passivo Circulante 630.385 1.104.509 172.453 2.306.200 194.978 384.623 120.420 2.163
+Passivo Não Circulante 262.208 58.697 236.470 127.761 25.925 9.548 61.659 -
+Capital Social 1.563.524 50.882 180.955 667.434 50.050 504.895 304.543 13.420
+Patrimônio Líquido 729.889 562.348 239.497 915.762 133.063 381.893 336.555 (1.514)
+Receita Líquida 1.897.633 3.151.484 568.882 756.637 192.941 2.113.228 544.772 725
+Lucro Líquido (Prejuízo) 182.446 149.745 (17.058) 54.222 61.305 (17.131) (26.339) (4.493)
+Movimentação Netshoes Kabum Época
+Cosméticos
+MagaluPay Consórcio
+Magalu
+Magalog Luizalabs Nonsense Total
+Saldo inicial 1.189.383 2.008.271 255.890 672.930 86.559 289.011 304.543 - 4.806.587
+AFAC/(Redução de capital) - (200.000) 35.000 176.945 - 117.549 90.000 2.023 221.517
+Outros resultados abrangentes 2.715 - - - - - - (81) 2.634
+Plano de ação (2.759) 1.056 (161) 11.665 - (3.403) (1.592) - 4.806
+Dividendos - - - - (14.560) - - - (14.560)
+Transferência participação societária (¹) (24.047) - - - - - - 1.038 (23.009)
+Adoção inicial de prática contábil - - - - (241) - - - (241)
+Equivalência patrimonial 173.276 122.743 (17.058) 54.222 61.305 (17.163) (26.381) (4.493) 346.451
+Saldo em 31 de dezembro de 2025 1.338.568 1.932.070 273.671 915.762 133.063 385.994 366.570 (1.513) 5.344.185
+(¹) Refere-se ao encerramento societário das controladas Netshoes Holding LLC.
+31 de março de 2026
+
+10. Investimento em controladas --Continuação
+
+b) Conciliação do valor contábil
+
+Controladas Patrimônio
+líquido
+Ágio gerado na
+aquisição
+Mais valia ¹ Saldo em
+31/03/2026
+Netshoes 626.195 486.718 121.693 1.234.606
+Época Cosméticos 259.619 34.173 - 293.792
+MagaluPay 932.950 - - 932.950
+Consórcio Luiza 108.114 - - 108.114
+Magalog 423.052 3.756 336 427.144
+LuizaLabs 344.066 25.418 4.585 374.069
+Kabum 579.447 705.042 657.934 1.942.423
+Nonsense (506) - - (506)
+3.272.937 1.255.107 784.548 5.312.592
+(¹) Refere-se à diferença de valor justo de ativos e passivos alocados no preço de aquisição.
+Controladas
+Patrimônio
+líquido
+Ágio gerado
+na aquisição
+Mais valia¹
+Saldo em
+31/12/2025
+Netshoes 729.889 486.718 121.961 1.338.568
+Época Cosméticos 239.497 34.173 - 273.670
+MagaluPay 915.762 - - 915.762
+Consórcio Luiza 133.063 - - 133.063
+Magalog 381.893 3.756 345 385.994
+LuizaLabs 336.555 25.418 4.596 366.569
+Kabum 562.348 705.042 664.683 1.932.073
+Nonsense (1.514) - - (1.514)
+3.297.493 1.255.107 791.585 5.344.185
+(¹) Refere-se à diferença de valor justo de ativos e passivos alocados no preço de aquisição.
+11. Investimentos em controladas em conjunto
+
+Posição em 31/03/2026
+
+Participação Luizacred
+Quotas/ ações 31.056.244
+% participação 50%
+Ativo Circulante 17.234.119
+Ativo Não Circulante 2.358.488
+Passivo Circulante 17.229.533
+Passivo Não Circulante 81.850
+Capital Social 1.867.503
+Patrimônio Líquido 2.281.224
+Receita Líquida 1.088.095
+Lucro Líquido 75.098
+31 de março de 2026
+
+11. Investimentos em controladas em conjunto --Continuação
+
+Posição em 31/03/2026--Continuação
+
+Movimentação Luizacred
+Segmento Financeira
+Saldo inicial 1.099.379
+Lucros não realizados 230
+Equivalência patrimonial 37.549
+Saldo final 1.137.158
+Posição em 31/ 12 /2025
+
+Participação Luizacred
+Quotas/ ações 31.056.244
+% participação 50%
+Ativo Circulante 17.600.030
+Ativo Não Circulante 2.374.256
+Passivo Circulante 17.685.166
+Passivo Não Circulante 82.993
+Capital Social 1.867.503
+Patrimônio Líquido 2.206.127
+Receita Líquida 4.557.480
+Lucro Líquido 252.694
+Movimentação Luizacred
+Segmento Financeira
+Saldo inicial 971.862
+Aumento de capital 92.750
+Outros resultados abrangentes (551)
+Juros sobre capital próprio (91.950)
+Lucros não realizados 921
+Equivalência patrimonial 126.347
+Saldo final 1.099.379
+Total de investimentos em controladas em conjunto
+
+31/03/2026 31/12/2025
+Luizacred (a) 1.140.612 1.103.063
+Luizacred - Diferença de prática (b) (3.454) (3.684)
+1.137.158 1.099.379
+(a) Participação de 50% do capital social votante representando o compartilhamento, contratualmente convencionado, do controle do
+negócio, exigido o consentimento unânime das partes sobre decisões e atividades financeiras e operacionais relevantes. A
+Luizacred é controlada em conjunto com o Banco Itaúcard S.A. e tem por objeto, a oferta, a distribuição e a comercialização de
+produtos e serviços financeiros aos clientes da Companhia.
+
+(b) Ajuste de diferença de prática contábil relacionada ao reconhecimento contábil da receita decorrente do acordo de associação
+realizado entre as partes e descrito na nota explicativa 28 , item b.
+
+31 de março de 2026
+
+12. Arrendamentos
+
+A Companhia atua como arrendatária em contratos principalmente relacionados a imóveis (lojas
+
+físicas, centros de distribuição e unidades administrativas). A Companhia reconhece esses
+
+contratos de acordo com o CPC 06 (R2) IFRS 16, no balanço patrimonial como direito de uso e
+
+passivo de arrendamento.
+
+As movimentações do direito de uso, durante os trimestres findos em 31 de março de 2026 e 2025,
+
+foram as seguintes:
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Saldo em 1º de janeiro 3.122.022 3.129.039 3.219.843 3.235.372
+Adição/remensuração 75.365 102.679 80.977 102.679
+Custos diretos 2.679 4.177 2.679 4.177
+Baixas (2.951) - (4.467) -
+Depreciação (126.066) (135.473) (134.941) (143.793)
+Saldo em 31 de março 3.071.049 3.100.422 3.164.091 3.198.435
+Composição
+Valor do custo 6.571.718 6.098.482 6.758.102 6.261.799
+Depreciação acumulada (3.500.669) (2.998.060) (3.594.011) (3.063.364)
+3.071.049 3.100.422 3.164.091 3.198.435
+As movimentações do passivo de arrendamento, durante os trimestres findos em 31 de março de
+
+2026 e 2025, foram as seguintes:
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Saldo inicial 3.479.339 3.418.880 3.583.872 3.533.535
+Remensuração/adição 75.365 102.679 80.977 102.679
+Pagamento de principal (106.918) (118.064) (115.445) (121.530)
+Pagamento de juros (88.002) (82.771) (89.869) (83.886)
+Juros provisionados 88.002 82.771 89.801 84.825
+Baixa (3.080) - (4.785) -
+Saldo final 3.444.706 3.403.495 3.544.551 3.515.623
+Passivo circulante 409.634 412.972 441.609 440.214
+Passivo não circulante 3.035.072 2.990.523 3.102.942 3.075.409
+31 de março de 2026
+
+13. Imobilizado
+
+A movimentação do imobilizado, durante os trimestres findos em 31 de março de 2026 e 2025,
+
+foram as seguintes:
+
+Controladora Consolidado
+2026 2025 2026 2025
+Saldo em 1° de janeiro 1.628.551 1.618.551 1.895.437 1.834.725
+Adições 22.133 44.864 31.538 50.646
+Baixas (585) (1.429) (591) (1.580)
+Depreciação (52.133) (52.543) (65.127) (64.383)
+Saldo em 31 de março 1.597.966 1.609.443 1.861.257 1.819.408
+Composição
+Valor do custo 3.141.002 2.951.131 3.666.121 3.374.197
+Depreciação acumulada (1.543.036) (1.341.688) (1.804.864) (1.554.789)
+1.597.966 1.609.443 1.861.257 1.819.408
+A Companhia não identificou indicativos de impairment no trimestre findo em 31 de março de 2026.
+
+14. Intangível
+
+As movimentações do intangível, durante os trimestres findos de 31 de março de 2026 e 202 5 ,
+
+foram as seguintes:
+
+Controladora Consolidado
+2026 2025 2026 2025
+Saldo em 1° de janeiro 1.219.750 1.149.912 4.555.382 4.482.287
+Adições 112.652 72.508 155.382 113.506
+Baixas (35) (8) (640) (24)
+Amortização (84.484) (69.650) (132.378) (114.936)
+Saldo em 31 de março 1.247.883 1.152.762 4.577.746 4.480.833
+Valor do custo 2.570.944 2.151.157 6.925.746 6.395.032
+Amortização acumulada (1.323.061) (998.395) (2.348.000) (1.914.199)
+1.247.883 1.152.762 4.577.746 4.480.833
+A Companhia não identificou indicativos de impairment no trimestre findo em 31 de março de 2026.
+
+31 de março de 2026
+
+15. Fornecedores
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025
+Mercadorias para revenda - mercado interno 6.630.015 7.164.737 7.111.174 8.104.415
+Outros fornecedores 91.728 203.714 241.240 260.211
+Ajuste a valor presente (180.470) (208.220) (192.025) (221.198)
+6.541.273 7.160.231 7.160.389 8.143.428
+As contas a pagar aos fornecedores são registradas inicialmente ao seu valor presente com
+
+contrapartida na conta de “Estoques”. A reversão do ajuste a valor presente é registrada na rubrica
+
+“Custo das mercadorias revendidas e das prestações de serviços” pela fruição de prazo.
+
+16. Fornecedores - convênio
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025
+Fornecedores - convênio (a) 3.015.982 2.860.362 3.015.982 2.984.111
+Fornecedores - convênio importação (b) - - 306.617 372.277
+3.015.982 2.860.362 3.322.599 3.356.388
+A Companhia mantém convênios firmados com bancos parceiros para estruturar com os seus
+
+principais fornecedores a operação de antecipação de créditos em que a Companhia é a legítima
+
+devedora. Nestas operações, os fornecedores transferem o direito de seus títulos para o banco em
+
+troca do recebimento antecipado e o banco, por sua vez, passa a ser credor da operação que se
+
+divide em dois tipos:
+
+(a) Em que a Companhia efetua a liquidação do título na mesma data acordada com seu fornecedor. Por confirmar a existência dos
+créditos dos fornecedores aos bancos, a Companhia assegura a este a certeza e liquidez de seus vencimentos e, em função disto,
+recebe um prêmio dos bancos, que é reconhecido como receita financeira na mesma competência do fechamento da operação, no
+valor de R$26.499 em 202 6 e R$155.770 em 2025. O prazo médio de pagamento de fornecedores comparáveis foi de 34 dias a
+mais para fornecedores com operações de convênio do que fornecedores sem operações de convênio, em 31 de março de 2026.
+(b) Em que a controlada Kabum, em função de sua atividade de importação de mercadorias, negocia a extensão de prazo de
+pagamento com seus financiadores, em comparação às datas originais, que nesta data base foi de 88 dias, em média. As taxas
+negociadas pela extensão das operações vigentes foram de 48,85% do CDI.
+17. Parceiros e outros depósitos
+
+Consolidado
+31/03/2026 31/12/2025
+Repasses a seller – marketplace (a) 1.150.143 1.198.222
+Contas digitais de clientes e sellers (b) 172.304 159.168
+Depósitos a prazo ( c) 12.642 -
+1.335.089 1.357.390
+(a) Referente a valores a repassar para seus parceiros do marketplace , relacionados a compras realizadas por clientes na plataforma digital do Magazine
+Luiza, de produtos vendidos por lojistas parceiros ( sellers ) e transacionados pela Magalupay.
+(b) Correspondem a depósitos efetuados pelos clientes e sellers nas contas digitais e conta de pagamentos pré-pago da Magalupay.
+(c) Valores referente aos CDBs (Certificados de Depósitos Bancários) emitidos pela Magalupay.
+31 de março de 2026
+
+18. Empréstimos, financiamentos e outros passivos financeiros
+
+Modalidade Encargo Garantia(¹) Vencimento final
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025
+Debêntures - oferta restrita (a) (^) 100% do CDI + 1,25% a 1,75% a.a. Clean out./28 4.005.589 3.929.623 4.005.589 3.929.623
+Financiamento de Inovação (b) SOFR + 3% a.a. Clean abr./30 948.892 1.000.737 948.892 1.000.737
+4.954.481 4.930.360 4.954.481 4.930.360
+Outros Passivos Financeiros
+Hedge de valor justo (^) 100% do CDI + 1,75 a.a. 105.679 14.176 105.679 14.176
+5.060.160 4.944.536 5.060.160 4.944.536
+Passivo circulante 1.358.607 998.359 1.358.607 998.359
+Passivo não circulante 3.701.553 3.946.177 3.701.553 3.946.177
+(¹) Refere-se a crédito limpo realizado no momento da contratação sem necessidade de garantia real ou bem físico.
+(a) Em 14 de outubro e 23 de dezembro de 2021, a Companhia em sua estratégia de alongamento de dívida, realizou a 10ª e 11ª emissões de debêntures
+simples, não conversíveis em ações, para distribuição pública, com esforços restritos de distribuição. Foram emitidas 4.000.000 (quatro milhões) de
+debêntures com o valor nominal de R$1.000 (mil reais) cada, com vencimentos em 15 de outubro de 2025 e 2026 e 23 de dezembro de 2025 e 2026,
+respectivamente, ao custo de 100% de CDI + 1,25% a.a. O valor captado teve como principal objetivo reforçar o capital de giro da Companhia. Em 15
+de outubro de 2025, houve a liquidação parcial da 10ª emissão, no valor de R$996.927.
+No dia 27 de dezembro de 2024, a Companhia realizou assembleia geral de Debenturistas, onde foi aprovada a alteração da data de vencimento,
+remuneração, fluxo de pagamento da remuneração, dentre outras de sua 11ª emissão de debêntures simples não conversíveis em ações. O novo
+prazo de vencimento aprovado foi para 23 de outubro de 2028, com amortizações trimestrais a partir de janeiro de 2027, a um custo de 100% do CDI
++1,75%. a.a. A Companhia realizou análises qualitativas e quantitativas, à luz do CPC 48 – Instrumentos Financeiros, para avaliar se os termos e
+condições existentes após a modificação se enquadraram no conceito de desreconhecimento de passivo financeiro. As análises quantitativas
+resultaram em uma mudança não substancial nos fluxos de caixa, portanto sem a necessidade de desreconhecimento do passivo financeiro.
+Em 02 de abril de 2025 a Companhia realizou sua 13ª Emissão de Debêntures, via distribuição pública, com esforços restritos de distribuição. Foram
+emitidas 1.000.000 (um milhão) de debêntures cujo valor nominal é de R$1.000 (mil reais) cada, com vencimento em 02 de abril de 2030, a um custo
+de 100% do CDI + 1,70% a.a. O valor captado teve como principal objetivo reforçar o capital de giro da Companhia.
+(b) Entre os meses de abril e junho de 2025, a Companhia captou empréstimos com as contrapartes International Finance Corporation (“IFC”) e BID
+Invest (“BID”), denominados em moeda estrangeira. As principais condições da transação são: i) prazo total de 5 anos; (ii) amortização semestral,
+com carência de 2 anos; (iii) pagamento de juros semestral; (iv) taxa de juros pactuada de SOFR + 3% a.a.. Com objetivo de mitigar os riscos às
+mudanças na taxa de câmbio em dólares americanos acrescido de juros SOFR que possam afetar o resultado, a Companhia contratou um instrumento
+financeiro derivativo “swap” com as mesmas características substituindo esses riscos pela variação do CDI acrescido de taxa pré-fixada de 1,75% a.a.
+e os classificou como hedge de valor justo em consonância com o CPC 48/IFRS 09. Mais detalhes sobre o hedge accounting estão divulgados na
+nota 29.
+
+Conciliação dos fluxos de caixa das atividades operacionais e de financiamento
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Saldo Inicial 4.944.536 4.160.225 4.944.536 4.582.160
+Pagamento de principal - (72.998) - (73.074)
+Pagamento de juros (79.665) (49.422) (79.665) (73.258)
+Juros provisionados 195.289 141.120 195.289 154.570
+Saldo Final 5.060.160 4.178.925 5.060.160 4.590.398
+31 de março de 2026
+
+18. Empréstimos, financiamentos e outros passivos financeiros --Continuação
+
+Cronograma dos vencimentos
+
+O cronograma de pagamento da parcela dos empréstimos e financiamentos está demonstrado
+
+abaixo:
+
+Controladora e Consolidado
+Dívida sem Hedge
+Accounting Hedge de valor justo^
+Dívida com Hedge
+Accounting
+2026 1.113.984 - 1.113.984
+2027 1.227.423 36.073 1.263.496
+2028 1.625.169 40.573 1.665.742
+2029 656.673 19.299 675.972
+2030 331.232 9.734 340.966
+Total 4.954.481 105.679 5.060.160
+Cláusulas Restritivas ( Covenants )
+
+Em todos os contratos de endividamento atualmente vigentes, a Companhia está vinculada ao
+
+cumprimento de cláusulas restritivas ( covenants ), cujos indicadores são verificados e monitorados
+
+em base trimestral. A estrutura desses covenants é segmentada em duas categorias: Financeiro
+
+Corporativo e Operacional, sendo esta última associada à carteira de Crédito Direto ao Consumidor
+
+(CDC). No escopo dos covenants financeiros corporativos, estão contemplados três indicadores
+
+principais: (i) Alavancagem Financeira, representada pela razão entre a Dívida Líquida ajustada e
+
+o EBITDA ajustado; (ii) Cobertura de Juros, que avalia a capacidade de geração operacional de
+
+caixa em relação às despesas financeiras líquidas ; e (iii) Índice de Liquidez, o qual impõe a
+
+manutenção de um nível mínimo de ativos circulantes em proporção às obrigações de curto prazo,
+
+de forma a preservar a solvência de curto prazo da Companhia. No âmbito operacional, relacionado
+
+especificamente à carteira de CDC, os principais indicadores exigidos são: (i) Prazo Médio de
+
+Venda, que estabelece parâmetros máximos de prazo médio ponderado das operações de
+
+financiamento concedidas ao consumidor final; (ii) Nível de Provisionamento, que estabelece
+
+parâmetros mínimos para a constituição de provisão para perda esperada de créditos, em
+
+consonância com a qualidade de crédito e o perfil de risco da carteira; e (iii) Índice de Inadimplência,
+
+que define limites máximos aceitáveis para a razão entre os valores em atraso e o saldo total
+
+concedido por período. Por fim, as demais obrigações não financeiras referem-se a compromissos
+
+socioambientais, reforçando o compromisso permanente da Companhia com a sustentabilidade e
+
+a responsabilidade corporativa.
+
+Em 31 de março de 2026, a Companhia estava adimplente às cláusulas restritivas.
+
+31 de março de 2026
+
+19. Receita diferida
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025
+Contrato de exclusividade com Cardif (a) 665.065 710.475 665.065 710.475
+Contrato de exclusividade com Banco Itaucard S.A. (b) 43.125 46.000 43.569 46.000
+Contrato de exclusividade em Arranjo de Pagamentos (c) - - 131.390 136.427
+Outros contratos 19.278 22.491 31.525 35.465
+727.468 778.966 871.549 928.367
+Receita diferida com partes relacionadas:
+Contrato de exclusividade com a Luizacred (b) 34.560 36.872 34.560 36.872
+Total de receitas diferidas 762.028 815.838 906.109 965.239
+Passivo circulante 122.407 122.407 154.884 155.102
+Passivo não circulante 639.621 693.431 751.225 810.137
+(a) Em 10 de maio de 2023, foi estabelecido novo acordo de aliança estratégica com empresas do grupo Cardif e com Luizaseg,
+visando a extensão dos direitos e obrigações previstos nos acordos entre as partes vigentes até então, pelo período adicional de
+10 anos e com prazo de vigência de 1º de julho de 2023 a 31 de dezembro de 2033. Esse acordo proporcionou o ingresso de
+R$835.669 no caixa da Companhia, sendo o valor líquido do front fee negociado de R$932.500 e os valores devolvidos pelo
+vencimento antecipado dos contratos anteriores, de R$96.831. O reconhecimento da receita da Companhia decorrente deste acordo
+é apropriado ao resultado durante o período de vigência do contrato, sendo parte condicionado ao atingimento de determinadas
+metas.
+(b) Em 27 de setembro de 2009, a Companhia celebrou um “Acordo de Associação” junto ao Itaú Unibanco Holding S.A. (“Itaú”) e ao
+Banco Itaúcard S.A., por meio do qual a Companhia cedeu à Luizacred a exclusividade do direito de oferta, distribuição e
+comercialização de produtos e serviços financeiros na sua rede de lojas, pelo prazo de 20 anos. Pela referida associação, as
+instituições Itaú pagaram à vista o montante de R$ 250.000, sendo: (i) R$ 230.000 relacionados à consecução da negociação em
+si, sem direito de regresso, e; (ii) R$ 20.000 vinculados ao cumprimento de metas de rentabilidade na Luizacred, metas estas
+cumpridas, em sua totalidade, ao fim do período de 2014.
+Em 29 de dezembro de 2010, as partes assinaram o primeiro aditivo ao acordo de associação com a Luizacred, por meio do qual
+estendeu a exclusividade do direito de oferta, distribuição e comercialização de produtos e serviços financeiros na rede de lojas
+então adquiridas na região nordeste do Brasil (Lojas Maia), pelo prazo de 19 anos. Em contraprestação, a Luizacred pagou o
+montante de R$ 160.000 à Companhia, que são apropriados ao resultado durante o período de vigência do contrato. Como parte
+desse acordo de associação, o montante de R$ 20.000, mencionado no parágrafo acima, foi aumentado para R$ 55.000.
+Em 16 de dezembro de 2011, a Companhia celebrou o segundo aditamento ao acordo de associação com a Luizacred, em virtude
+da aquisição da New-Utd (“Lojas do Baú”). Em contraprestação, a Luizacred pagou o montante de R$ 48.000 à Companhia, os
+quais são apropriados ao resultado durante o período de vigência remanescente do acordo de associação.
+(c) Em 21 de outubro de 2022, a Companhia, por meio de sua controlada indireta Hub Pagamentos S.A., celebrou com a Mastercard
+Brasil Soluções de Pagamento Ltda, um contrato para incentivar o arranjo de pagamentos entre as empresas, onde a Mastercard
+fica com a exclusividade pela emissão de cartões pelo prazo de 10 anos. Em contraprestação a esta exclusividade, a Mastercard
+pagou o montante de R$ 200.000 à Companhia, os quais são apropriados ao resultado durante o prazo de vigência do contrato.
+
+31 de março de 2026
+
+20. Outros passivos circulantes e não circulantes
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025
+Vendas pendentes de entrega, líquida de devoluções (a) 293.245 290.042 560.200 525.371
+Valores a repassar a parceiros (b) 224.358 272.629 301.951 336.543
+Serviços especializados 24.142 29.850 33.405 41.203
+Fretes a pagar 92.187 99.923 252.710 275.481
+Marketing a pagar 166.374 138.932 219.322 198.694
+Valores a pagar por aquisição (c) 186.572 189.767 195.519 212.313
+Outros 101.284 150.398 161.292 231.129
+1.088.162 1.171.541 1.724.399 1.820.734
+Passivo circulante 1.013.457 1.096.836 1.649.694 1.739.029
+Passivo não circulante 74.705 74.705 74.705 81.705
+(a) Refere-se a vendas realizadas pela Companhia, porém ainda não entregues aos clientes finais até a data base de reporte, bem
+como receita de administração de consórcio diferida pelo prazo dos contratos de consórcio vendidos na controlada Luiza
+Administradora de Consórcios.
+(b) Repasses de valores realizados por meio de vendas de serviços (seguros, assistência técnica, instalações de móveis etc.) de
+parceiros intermediados pela Companhia.
+(c) Contraprestação a pagar por aquisições de empresas, incluindo o bônus de subscrição de até 5 milhões de ações ordinárias de
+emissão da Companhia (MGLU3) pela aquisição do KaBuM e até 296.736 ações, referente à aquisição de outras empresas,
+condicionados ao cumprimento de metas pactuadas nos contratos de aquisição.
+21. Provisão para riscos tributários, cíveis e trabalhistas
+
+Para os processos em andamento, de natureza trabalhista, cível e tributária, em que a opinião dos
+
+assessores legais é de perda provável, a Companhia constituiu provisão, sendo esta a melhor
+
+estimativa de desembolso futuro da Administração. A movimentação da provisão para riscos
+
+tributários, cíveis e trabalhistas é como segue:
+
+Controladora
+
+Controladora Tributários Cíveis Trabalhistas Total
+Saldos em 01 de janeiro de 2026 705.623 50.152 82.448 838.223
+Adições 13.411 3.700 - 17.111
+Reversão - - - -
+Pagamentos (5.716) (969) - (6.685)
+Atualizações 19.520 - - 19.520
+Saldos em 31 de março de 2026 732.838 52.883 82.448 868.169
+31 de março de 2026
+
+21. Provisão para riscos tributários, cíveis e trabalhistas --Continuação
+
+Consolidado
+
+Consolidado Tributários Cíveis Trabalhistas Total
+Saldos em 01 de janeiro de 2026 1.209.897 61.939 92.524 1.364.360
+Adições 29.919 4.115 915 34.949
+Reversão (8.099) (237) (230) (8.566)
+Pagamentos (5.716) (1.171) (110) (6.997)
+Atualizações 30.430 - - 30.430
+Saldos em 31 de março de 2026 1.256.431 64.646 93.099 1.414.176
+a) Riscos tributários
+
+A Companhia discute administrativa e judicialmente vários processos de natureza tributária,
+
+avaliados como perda provável, portanto estão provisionados. Além desses processos, a
+
+Companhia possui provisão para outras discussões judiciais, para as quais tem realizado
+
+depósitos judiciais, bem como provisões relacionadas com combinações de negócio
+
+realizadas em anos anteriores. Os riscos tributários estão assim divididos:
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025
+Federais 260.623 259.100 283.486 282.184
+Estaduais 472.189 446.497 972.919 927.687
+Municipais 26 26 26 26
+732.838 705.623 1.256.431 1.209.897
+b) Riscos cíveis
+
+A provisão para riscos cíveis de R$52.883 na Controladora e R$64.646 no Consolidado em 31
+
+de março de 2026 (R$50.152 Controladora e R$61.939 no Consolidado em 31 de dezembro
+
+de 2025), está relacionada a reclamações oriundas, principalmente, de clientes sobre
+
+possíveis defeitos de produtos.
+
+c) Riscos trabalhistas
+
+Na esfera trabalhista, a Companhia é parte em diversos processos envolvendo principalmente
+
+questionamentos sobre horas extras incorridas.
+
+O valor provisionado de R$82.448 na Controladora e R$93.099 no Consolidado em 31 de
+
+março de 2026 (R$82.448 Controladora e R$92.524 no Consolidado em 31 de dezembro de
+
+2025 ), reflete o risco de perda provável avaliado pela Administração da Companhia juntamente
+
+com seus assessores jurídicos.
+
+31 de março de 2026
+
+21. Provisão para riscos tributários, cíveis e trabalhistas --Continuação
+
+d) Depósitos judiciais
+
+A Companhia situa-se como autora (no polo ativo) de processos judiciais de naturezas
+
+tributárias, cíveis e trabalhistas, em que possui em depósitos judiciais o montante de
+
+R$1.394.191 na Controladora e R$2.115.425 no Consolidado em 31 de março de 2026
+
+(R$1.351.202 na Controladora e R$2.045.539 no Consolidado em 31 de dezembro de 2025).
+
+Os principais depósitos estão relacionados às ações judiciais que contestam o recolhimento
+
+do ICMS Diferencial de Alíquota (Difal), no valor de R$8 56. 383 na Controladora e R$1. 181. 701
+
+no Consolidado em 31 de março de 2026 (R$825.572 na Controladora e R$1.136.247 no
+
+Consolidado em 31 de dezembro de 2025) e o depósito judicial relacionado à discussão do
+
+RAT,no valor de R$ 320.970.
+
+e) Passivos contingentes - possíveis de perda
+
+A Companhia é parte em outros processos e discussões fiscais que foram classificados pela
+
+Administração como de risco de perda possível, com base na opinião de seus assessores
+
+jurídicos; portanto, nenhuma provisão foi constituída para tais processos e discussões. Os
+
+valores atribuídos às discussões envolvendo tributos estão assim demonstrados:
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025
+Federais 1.826.568 1.833.223 2.201.437 2.221.172
+Estaduais 1.761.929 1.713.074 1.972.229 1.913.001
+Municipais 11.975 12.012 21.842 21.879
+3.600.472 3.558.309 4.195.508 4.156.052
+Dentre as principais discussões de natureza tributária, classificadas como perda possível,
+
+destacamos:
+
+(i) Processo judicial em que a Companhia discute com o fisco a natureza/conceito das
+
+bonificações/reembolsos de seus fornecedores para fins de tributação do PIS/COFINS,
+
+além de discussões sobre a caracterização de algumas despesas ligadas à sua atividade
+
+fim como insumos para fins de créditos de PIS/COFINS. Diante da evolução da discussão,
+
+com decisões favoráveis aos contribuintes, a análise dos assessores jurídicos internos e
+
+externos é que as chances de perda são possíveis com viés de remotas;
+
+(ii) Diversas autuações em que a Companhia discute a cobrança de créditos de ICMS
+
+apropriados nas aquisições de mercadorias de alguns de seus fornecedores, em razão
+
+destes terem se aproveitado de benefício fiscal concedido por outro Estado da Federação;
+
+(iii) Risco relacionado ao não estorno de impostos em perdas de inventários físicos. Além
+
+disso, a Companhia acompanha a evolução de todas as discussões a cada trimestre de
+
+forma que, havendo alteração no cenário, as avaliações de riscos e eventuais perdas
+
+também serão reavaliadas.
+
+Os riscos dos processos são constantemente avaliados e revisados pela Administração.
+
+Adicionalmente, a Companhia contesta também processos administrativos cíveis e
+
+trabalhistas, com risco estimado de perda possível, cujos valores envolvidos são irrelevantes
+
+para divulgação.
+
+31 de março de 2026
+
+22. Patrimônio líquido
+
+a) Capital social
+
+Em 31 de março de 2026 e 31 de dezembro de 2025, a composição acionária da Companhia
+
+está assim apresentada, sendo todas ações ordinárias, nominativas, escriturais e sem valor
+
+nominal:
+
+31/03/2026 31/12/2025
+Quantidade
+de ações
+Participação
+%
+Quantidade
+de ações
+Participação
+%
+Acionistas controladores 428.754.434 55,26 442.591.064 57,04
+Ações em circulação 346.125.911 44,61 332.010.497 42,79
+Ações em tesouraria 1.064.665 0,14 1.343.449 0,17
+Total 775.945.010 100,00 775.945.010 100,00
+As ações detidas por acionistas controladores que são membros do Conselho de
+
+Administração e/ou da diretoria executiva estão inseridas na linha de acionistas controladores.
+
+De acordo com o artigo n° 7 do Estatuto Social, a Companhia pode aumentar o seu capital
+
+social, nos termos do artigo 168 da Lei n° 6.404/76, mediante emissão de 38.397.435 de novas
+
+ações ordinárias.
+
+b) Reserva de capital
+
+Plano de incentivo baseado em ações
+
+A Companhia possui um plano de incentivo de longo prazo atrelado a ações, que foi aprovado
+
+em Assembleia Geral Extraordinária no dia 20 de abril de 2017. O plano tem como objetivo
+
+regular a concessão de incentivos atrelados às ações ordinárias de emissão da Companhia
+
+por meio de programas a serem implementados pelo nosso Conselho de Administração, sendo
+
+elegíveis a participar os administradores, empregados ou prestadores de serviços da
+
+Companhia ou de suas sociedades controladas e controladas em conjunto.
+
+Os objetivos principais do plano são: (a) aumentar a capacidade de atração e retenção de
+
+talentos pela Companhia; (b) reforçar a cultura de desempenho sustentável e de busca pelo
+
+desenvolvimento dos nossos administradores, empregados e prestadores de serviços,
+
+alinhando os interesses dos nossos acionistas aos das pessoas elegíveis; e (c) estimular a
+
+expansão da Companhia e o alcance e superação de nossas metas empresariais e a
+
+consecução dos nossos objetivos sociais, alinhado aos interesses de nossos acionistas,
+
+através do comprometimento de longo prazo dos beneficiários.
+
+31 de março de 2026
+
+22. Patrimônio líquido --Continuação
+
+b) Reserva de capital--Continuação
+
+A tabela a seguir demonstra o saldo (quantidade) de ações outorgadas em 31 de março de
+
+2026 :
+
+Tipo de programa Data outorga
+Prazo máximo
+carência
+Posição
+Ações
+Outorgadas
+Valor justo ¹
+5° Matching share
+04 de maio de
+2021 5 anos 17.068 R$ 198,60
+6° Restricted share
+04 de maio de
+2021 3 anos 11.118 R$ 198,60
+10° Restricted share
+25 de outubro
+de 2023 5 anos 795.202 R$ 14,40
+11° Restricted share
+07 de abril de
+2025 4 anos 2.403.474 R$ 9,84
+6° Matching share
+13 de outubro
+de 2025 3 anos 2.391.834 R$ 8,94
+5.618.696 R$11,05
+(¹) Refere-se a média ponderada do valor justo calculado em cada programa.
+Além dos planos acima demonstrados, a Companhia vem utilizando comumente, em seus
+
+processos de aquisição, a negociação de parte do preço de aquisição como contraprestação
+
+em ações de sua emissão (MGLU3) aos ex-proprietários das empresas adquiridas. O número
+
+de ações compromissadas em 31 de março de 2026 é de 296.736, que deverão ser entregues
+
+aos ex-proprietários até agosto de 2026, parte vinculadas ao atingimento de determinadas
+
+metas e parte como preço fixo negociado. Adicionalmente, a Companhia emitiu, no processo
+
+de aquisição do KaBuM, bônus de subscrição de até 5 milhões de ações ordinárias,
+
+nominativas, escriturais, sem valor nominal de emissão, condicionado ao cumprimento de
+
+determinadas metas.
+
+c) Ações em tesouraria
+
+Quantidade Valor
+Em 1 de janeiro de 2025 2.898.396 503.574
+Alienadas no exercício (1.554.947) (281.400)
+Em 31 de dezembro de 2025 1.343.449 222.174
+Alienadas no período (278.784) (57.956)
+Em 31 de março de 2026 1.064.66 5 164.218
+A redução do saldo de ações em tesouraria é igual a média ponderada do custo incorrido para
+
+adquirir as ações. Qualquer ganho ou perda em relação ao valor recebido pela alienação das
+
+ações em tesouraria é registrado como reserva de capital. Em 31 de março de 2026, o valor
+
+da ação MGLU3 era R$8,66
+
+31 de março de 2026
+
+22. Patrimônio líquido --Continuação
+
+d) Ajustes de avaliação patrimonial
+
+No trimestre findo em 31 de março de 2026 a Companhia possui registrado na rubrica de
+
+ajustes de avaliação patrimonial o montante de R$128.009 (R$169.558 em 31 de dezembro
+
+de 2025), relacionado aos ajustes a valor justo por meio de outros resultados abrangentes de
+
+recebíveis de cartões de crédito e de ativos financeiros em controladas.
+
+e) Lucro (prejuízo) por ação
+
+Os cálculos do lucro (prejuízo) por ações básico e diluído estão divulgados a seguir:
+
+Lucro básico Lucro diluído
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Em milhares
+Total de ações ordinárias 775.945.010 738.995.248 775.945.010 738.995.248
+Efeito de ações em tesouraria (1.064.665) (2.340.518) (1.064.665) (2.340.518)
+Efeito dos planos de ações ao serem exercidas (a) - - 5.675.887 2.982.703
+Média ponderada de ações ordinárias em circulação 774.880.345 736.654.730 780.556.232 739.637.433
+Lucro (prejuízo) do período (55.220) 12.768 (55.220) 12.768
+Lucro por ação (em Reais) (0,071) 0,017 (0,071) 0,017
+(a) Considera o efeito de ações exercíveis de acordo com os planos de incentivo atrelado a ações, divulgados acima.
+23. Receita líquida de vendas
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Varejo - revenda de mercadorias 8.963.270 9.171.721 10.369.911 10.530.337
+Varejo - prestações de serviços 623.001 687.814 850.398 947.847
+Outros serviços (¹) - - 202.674 155.684
+Receita bruta 9.586.271 9.859.535 11.422.983 11.633.868
+Varejo - revenda de mercadorias (1.741.870) (1.777.474) (2.025.894) (2.056.362)
+Varejo - prestações de serviços (57.234) (60.757) (81.795) (87.319)
+Outros serviços - - (109.563) (101.202)
+Impostos e devoluções (1.799.104) (1.838.231) (2.217.252) (2.244.883)
+Receita líquida de vendas 7.787.167 8.021.304 9.205.731 9.388.985
+(¹) Refere-se substancialmente a serviços prestados por suas controladas, destacando-se a Magalog, que atua na prestação de
+serviços de transporte e logística, e o Consórcio Magalu, responsável pela administração de consórcios.
+31 de março de 2026
+
+24. Custo das mercadorias revendidas e das prestações de serviços
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Custos das mercadorias revendidas (5.506.094) (5.665.964) (6.354.347) (6.502.409)
+Custos das prestações de serviços - - (18.423) (9.588)
+Custos (5.506.094) (5.665.964) (6.372.770) (6.511.997)
+25. Informações sobre a natureza das despesas e outras receitas operacionais
+
+A Companhia apresentou a demonstração do resultado utilizando uma classificação das despesas
+
+baseadas na sua função. As informações sobre a natureza dessas despesas reconhecidas na
+
+demonstração do resultado são apresentadas a seguir:
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Despesas com pessoal (a) (625.496) (627.466) (827.070) (800.835)
+Despesas com prestadores de serviços (706.431) (724.871) (679.293) (774.905)
+Depreciação e amortização - vendas (107.870) (108.132) (145.427) (149.753)
+Depreciação e amortização - administrativas (154.81 3 ) (149.532) (187.01 9 ) (173.361)
+Outras (312.19 2 ) (301.941) (529.83 6 ) (481.201)
+(1.906.802) (1.911.942) (2.368.645) (2.380.055)
+Classificados por função como:
+Com vendas (1.416.940) (1.482.265) (1.700.997) (1.757.388)
+Gerais e administrativas (222.023) (221.532) (338.595) (338.220)
+Depreciação e amortização (262.683) (257.666) (332.446) (323.112)
+Outras receitas operacionais, líquidas (nota 21) (5.156) 49.521 3.39 2 38.665
+(1.906.802) (1.911.942) (2.368.645) (2.380.055)
+(a) A Companhia provê a seus empregados, benefícios de assistência médica, reembolso odontológico, seguro de vida, vale-
+alimentação, vale-transporte, bolsa de estudo, “cheque-mãe”, além de plano de ações para os colaboradores elegíveis, conforme
+descrito na Nota Explicativa nº 2 2.
+As despesas com fretes relacionadas ao transporte das mercadorias dos CDs até as lojas físicas
+
+e entrega dos produtos revendidos aos consumidores são classificadas como despesas com
+
+vendas.
+
+26. Outras receitas operacionais, líquidas
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Apropriação da receita diferida (a) 30.352 30.602 35.623 36.262
+Provisão para riscos tributários, cíveis e trabalhistas (26.707) (8.100) (26.779) (16.986)
+Resultado de baixa de ativos (620) 2.591 (849) 2.935
+Honorários especialistas (7.203) (2.520) (8.229) (4.184)
+Baixa repasse sellers, líquida (b) - 24.737 - 24.737
+Outras (978) 2.211 3.626 (4.099)
+Total (5.156) 49.521 3.392 38.665
+(a) Refere-se à apropriação de receita diferida por cessão de exclusividade de exploração de serviços financeiros, conforme descrito
+na nota 19.
+(b) A companhia reconheceu em 2025 como outras receitas operacionais, a baixa (desreconhecimento) de valores de períodos
+anteriores relacionados a repasses para sellers de sua plataforma de marketplace, cujas obrigações não foram cumpridas.
+31 de março de 2026
+
+27. Resultado financeiro
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Receitas financeiras
+Juros de vendas de garantia estendida 60.977 47.544 60.977 47.544
+Rendimento de aplicações financeiras e títulos e valores
+mobiliários 8.918 20.474 34.485 35.630
+Juros por atrasos nos recebimentos 14.087 9.128 14.107 9.184
+Atualizações monetárias ativa 74.592 60.038 87.726 73.859
+Outros 246 255 5.746 4.121
+158.820 137.439 203.041 170.338
+Despesas financeiras
+Juros de empréstimos e financiamentos (191.492) (136.843) (191.654) (153.341)
+Juros arrendamento mercantil (88.002) (82.771) (89.613) (84.825)
+Encargos sobre antecipação de cartão de crédito (261.758) (257.039) (337.953) (315.624)
+Provisão para perda com juros de garantia estendida (37.391) (23.445) (37.391) (23.445)
+Impostos sobre resultado financeiro (8.056) (8.140) (10.341) (9.246)
+Atualizações monetárias passiva (28.335) (35.069) (31.926) (41.881)
+Outros (a) (70.110) (28.327) (72.868) (30.045)
+(685.144) (571.634) (771.746) (658.407)
+(526.324) (434.195) (568.705) (488.069)
+(a) Os prêmios recebidos de bancos, por confirmar a existência de créditos dos fornecedores, conforme explanado na nota 16, estão
+aqui demonstrados líquidos de demais despesas com negociação de fornecedores.
+28. Informação por segmento de negócios
+
+Como forma de gerenciar seus negócios, tanto no âmbito financeiro como no operacional, a
+
+Companhia classificou seus negócios em Varejo, Operações Financeiras e Outros Serviços. Essas
+
+divisões são consideradas os segmentos primários para divulgação de informações. As principais
+
+características para cada uma das divisões são:
+
+(a) Varejo - substancialmente revenda de mercadorias e prestações de serviços nas lojas da
+
+Companhia, comércio eletrônico ( e-commerce tradicional e marketplace) e plataforma de
+
+gestão de food delivery. No contexto do marketplace, está somado a este segmento as
+
+informações relacionadas ao Magalupay;
+
+(b) Operações financeiras - por meio da controlada em conjunto Luizacred, que tem como objeto
+
+principal fornecer crédito aos clientes da Companhia para aquisição de produtos;
+
+(c) Outros Serviços - soma da prestação de serviços de administração de consórcios por meio da
+
+controlada Consórcio Magalu, que tem como objeto principal a administração de consórcios
+
+aos clientes da Companhia, para aquisição de produtos; serviços de gerenciamento de
+
+entregas de produtos - por meio da controlada Magalog e serviços de desenvolvimento de
+
+softwares por meio da controlada do Luizalabs.
+
+31 de março de 2026
+
+28. Informação por segmento de negócios --Continuação
+
+As vendas da Companhia são integralmente realizadas em território nacional e, considerando as
+
+operações no varejo, não existe concentração de clientes, assim como de produtos e serviços
+
+oferecidos.
+
+O segmento de varejo é representado pelos montantes consolidados contemplando os resultados
+
+de Magazine Luiza S.A., Época Cosméticos, Netshoes, KaBuM, Magalupay e Aiqfome. No
+
+segmento de varejo, a linha de equivalência patrimonial contempla os resultados líquidos das
+
+operações financeiras e outros serviços, uma vez que esse montante está contido nos valores de
+
+lucro ou prejuízo do segmento utilizado pelo principal gestor das operações.
+
+As eliminações são representadas pelas transações ocorridas entre os segmentos e pelo efeito do
+
+segmento “operações financeiras”, que é apresentado de forma proporcional à participação
+
+societária na controlada em conjunto Luizacred, porém são incluídas apenas em uma linha de
+
+equivalência patrimonial nas informações trimestrais consolidadas da Companhia.
+
+As transferências de receita líquida entre os segmentos operacionais são menores que 10% da
+
+receita líquida combinada de todos os segmentos.
+
+Demonstrações do resultado
+
+31/03/2026
+Varejo Operações
+financeiras
+Outros
+Serviços
+Eliminações Consolidado
+Receita bruta 11.182.837 544.048 742.440 (1.083.814) 11.385.511
+Ajuste a valor presente de receita (a) (259.145) - - - (259.145)
+Reversão do ajuste a valor presente de
+receita (a) 296.617 - - - 296.617
+Deduções da receita (2.107.689) - (109.563) - (2.217.252)
+Receita líquida do segmento 9.112.620 544.048 632.877 (1.083.814) 9.205.731
+Custos (6.365.792) (51.074) (13.011) 51.074 (6.378.803)
+Ajuste a valor presente de fornecedores 440.549 - - - 440.549
+Reversão do ajuste a valor presente de
+fornecedores (a) (434.516) - - - (434.516)
+Lucro bruto 2.752.861 492.974 619.866 (1.032.740) 2.832.961
+Despesas com vendas (1.658.451) (127.022) (582.313) 666.789 (1.700.997)
+Despesas gerais e administrativas (322.006) (2.823) (16.589) 2.823 (338.595)
+Resultado da provisão para perdas de
+crédito esperada (149.158) (287.690) - 287.689 (149.158)
+Depreciação e amortização (312.099) (1.470) (20.347) 1.470 (332.446)
+Equivalência patrimonial 41.956 - - (4.177) 37.779
+Outras receitas operacionais (136) (11.521) 3.529 11.520 3.392
+Receitas financeiras 197.179 - 5.862 - 203.041
+Despesas financeiras (769.893) - (1.853) - (771.746)
+Imposto de renda e contribuição social 164.527 (24.669) (3.978) 24.669 160.549
+Lucro líquido do período (55.220) 37.779 4.177 (41.95 7 ) (55.220)
+Conciliação da equivalência patrimonial
+Equivalência patrimonial - Outros serviços (Nota 10) 4.177
+Equivalência patrimonial - Luizacred (Nota 11) 37.779
+(=) Equivalência patrimonial do segmento de varejo 41.956
+(-) Efeito de eliminação - Outros serviços (4.177)
+(=) Resultado de equivalência patrimonial consolidado 37.779
+(a) Considerando que o segmento de varejo possui característica de concessão de financiamento ao consumidor, a Companhia utiliza-se da prática de
+realizar a reversão do ajuste a valor presente do contas a receber de clientes na rubrica de receita bruta. Portanto, visando uma adequada apuração
+da margem bruta comercial, a reversão do ajuste a valor presente dos passivos de fornecedores também é realizada na rubrica de custo das
+mercadorias vendidas. A atividade de financiamento ao consumidor não é dissociada do segmento de varejo para os principais gestores do negócio,
+nas tomadas de decisões. Assim, seguindo as premissas do CPC 22 - Informação por Segmento, a atividade de financiamento ao consumidor está
+apresentada no contexto do segmento de varejo.
+31 de março de 2026
+
+28. Informação por segmento de negócios --Continuação
+
+Demonstrações do resultado--Continuação
+
+31/03/2025
+Varejo(a) Operações financeiras Outros Serviços Eliminações Consolidado
+Receita bruta 11.476.913 565.956 637.772 (1.048.044) 11.632.597
+Ajustes a valor presente da receita (a) (207.459) - - - (207.459)
+Reversão do ajuste a valor presente da receita (a) 208.730 - - - 208.730
+Deduções da receita (2.143.681) - (101.202) - (2.244.883)
+Receita líquida do segmento 9.334.503 565.956 536.570 (1.048.044) 9.388.985
+Custos (6.524.701) (54.745) (8.598) 54.745 (6.533.299)
+Ajustes a valor presente de fornecedores (a) 236.099 - - - 236.099
+Reversão do ajuste a valor presente de
+fornecedores (a) (214.797) - - - (214.797)
+Lucro bruto 2.831.104 511.211 527.972 (993.299) 2.876.988
+Despesas com vendas (1.719.769) (132.450) (519.707) 614.538 (1.757.388)
+Despesas gerais e administrativas (321.016) (1.443) (17.204) 1.443 (338.220)
+Resultado da provisão para perdas de crédito
+esperadas (101.134) (291.403) - 291.403 (101.134)
+Depreciação e amortização (307.097) (1.464) (16.015) 1.464 (323.112)
+Equivalência patrimonial 31.473 - - 10.777 42.250
+Outras receitas operacionais 32.885 (14.573) 5.780 14.573 38.665
+Receitas financeiras 160.762 - 9.576 - 170.338
+Despesas financeiras (653.707) - (4.700) - (658.407)
+Imposto de renda e contribuição social 59.267 (27.628) 3.521 27.628 62.788
+Lucro (prejuízo) líquido do período 12.768 42.250 (10.777) (31.473) 12.768
+Conciliação da equivalência patrimonial
+Equivalência patrimonial - Outros serviços (Nota 10) (10.777)
+Equivalência patrimonial - Luizacred (Nota 11) 42.250
+(=) Equivalência patrimonial do segmento de varejo 31.473
+(-) Efeito de eliminação - Outros serviços 10.777
+(=) Resultado de equivalência patrimonial consolidado 42.250
+(a) Considerando que o segmento de varejo possui característica de concessão de financiamento ao consumidor, a Companhia utiliza-se da prática de
+realizar a reversão do ajuste a valor presente do contas a receber de clientes na rubrica de receita bruta. Portanto, visando uma adequada apuração
+da margem bruta comercial, a reversão do ajuste a valor presente dos passivos de fornecedores também é realizada na rubrica de custo das
+mercadorias vendidas. A atividade de financiamento ao consumidor não é dissociada do segmento de varejo para os principais gestores do negócio,
+nas tomadas de decisões. Assim, seguindo as premissas do CPC 22 - Informação por Segmento, a atividade de financiamento ao consumidor está
+apresentada no contexto do segmento de varejo.
+31 de março de 2026
+
+28. Informação por segmento de negócios --Continuação
+
+Balanço patrimonial
+
+31/03/2026
+Varejo Operações
+financeiras
+Outros
+Serviços
+Ativos
+Caixa e equivalentes de caixa 1.185.166 3.406 102.647
+Títulos e valores mobiliários e outros ativos financeiros 336.214 12.673 822
+Contas a receber 4.362.932 9.058.210 93.938
+Estoques de mercadorias para revenda 7.555.019 - -
+Investimentos 2.045.980 - -
+Imobilizado, direito de uso e intangível 8.796.813 18.541 806.280
+Outros 11.808.407 700.021 675.486
+36.090.531 9.792.851 1.679.173
+Passivos
+Fornecedores 7.132.309 - 28.080
+Fornecedores - convênio 3.322.599 - -
+Repasses e outros depósitos 1.335.089 - -
+Empréstimos e financiamentos 5.060.160 - -
+Arrendamento mercantil 3.478.517 - 66.034
+Depósitos interfinanceiros - 1.605.478 -
+Operações com cartões de crédito - 5.924.873 -
+Provisão para riscos tributários, cíveis e trabalhistas 1.394.251 40.925 19.925
+Receita diferida 901.514 - 4.595
+Outras 2.194.944 1.084.417 651.717
+24.819.383 8.655.693 770.351
+Patrimônio líquido 11.271.148 1.137.158 908.822
+Conciliação do investimento
+Controladas (Nota 10)
+Consórcio Magalu 108.114
+Magalog 427.144
+Luizalabs 374.069
+Nonsense (505)
+908.822
+Controladas em conjunto (Nota 11)
+Luizacred 1.137.158
+Total dos investimentos 2.045.980
+(-) Efeito de eliminação (908.822)
+(=) Resultado de investimento consolidado 1.137.158
+31 de março de 2026
+
+28. Informação por segmento de negócios --Continuação
+
+Balanço patrimonial--Continuação
+
+31/12/2025
+Varejo Operações
+financeiras
+Outros Serviços
+Ativos
+Caixa e equivalentes de caixa 1.430.599 3.461 145.238
+Títulos e valores mobiliários e outros ativos financeiros 459.927 66.870 -
+Contas a receber 5.558.818 9.189.092 85.224
+Estoques de mercadorias para revenda 7.181.339 - -
+Investimentos 1.983.493 - -
+Imobilizado, direito de uso e intangível 8.868.343 19.780 802.320
+Outros 11.812.192 704.257 650.644
+37.294.711 9.983.460 1.683.426
+Passivos
+Fornecedores 8.116.522 - 26.906
+Fornecedores - convênio 3.356.388 - -
+Repasses e outros depósitos 1.357.390 - -
+Empréstimos e financiamentos 4.944.536 - -
+Arrendamento mercantil 3.513.137 - 70.735
+Depósitos interfinanceiros - 1.483.037 -
+Operações com cartões de crédito - 6.253.847 -
+Provisão para riscos tributários, cíveis e trabalhistas 1.344.834 41.497 19.526
+Receita diferida 959.972 - 5.267
+Outras 2.423.902 1.105.700 676.881
+26.016.681 8.884.081 799.315
+Patrimônio líquido 11.278.030 1.099.379 884.111
+Conciliação do investimento
+Controladas (Nota 10)
+Consórcio Magalu 133.063
+Magalog 385.994
+Luizalabs 366.570
+Nonsense (1.513)
+884.114
+Controladas em conjunto (Nota 11)
+Luizacred 1.099.379
+Total dos investimentos 1.983.493
+(-) Efeito de eliminação (884.114)
+(=) Resultado de investimento consolidado 1.099.379
+31 de março de 2026
+
+29. Instrumentos financeiros
+
+Política Contábil
+
+Classificação inicial e mensuração subsequente
+
+No reconhecimento inicial, um ativo financeiro é classificado como mensurado: ao custo
+
+amortizado; ao Valor Justo por meio de Outros Resultados Abrangentes (VJORA) ao Valor Justo
+
+(VJR). Um ativo financeiro é mensurado ao custo amortizado se atender ambas as condições a
+
+seguir e não for designado como mensurado ao VJR:
+
+É mantido dentro de um modelo de negócios cujo objetivo seja manter ativos financeiros para
+receber fluxos de caixa contratuais; e
+
+Seus termos contratuais geram, em datas específicas, fluxos de caixa que são relativos somente
+ao pagamento de principal e juros sobre o valor principal em aberto.
+
+Um instrumento de dívida é mensurado ao VJORA se atender ambas as condições a seguir e não
+
+for designado como mensurado ao VJR:
+
+É mantido dentro de um modelo de negócios cujo objetivo é atingido tanto pelo recebimento de
+fluxos de caixa contratuais quanto pela venda de ativos financeiros; e
+
+Seus termos contratuais geram, em datas específicas, fluxos de caixa que são apenas
+pagamentos de principal e juros sobre o valor principal em aberto.
+
+Todos os ativos financeiros não classificados como mensurados ao custo amortizado ou ao
+
+VJORA, conforme descrito acima, são classificados como ao VJR. Um ativo financeiro (a menos
+
+que seja um contas a receber de clientes sem um componente de financiamento significativo que
+
+seja inicialmente mensurado pelo preço da transação) é inicialmente mensurado pelo valor justo,
+
+acrescido, para um item não mensurado a VJR, dos custos de transação que são diretamente
+
+atribuíveis à sua aquisição.
+
+As seguintes políticas contábeis aplicam-se à mensuração subsequente dos ativos financeiros:
+
+Ativos financeiros mensurados a VJR: Esses ativos são subsequentemente mensurados ao valor
+justo por meio do resultado (VJR). O resultado líquido, incluindo juros, é reconhecido no resultado.
+
+Ativos financeiros a custo amortizado: Estes ativos são mensurados de forma subsequente ao
+custo amortizado utilizando o método dos juros efetivos. O custo amortizado é reduzido por
+
+perdas por impairment. A receita de juros, possíveis ganhos e perdas cambiais e impairment são
+
+reconhecidos no resultado. Qualquer ganho ou perda no desreconhecimento é reconhecido no
+
+resultado.
+
+Ativos financeiros mensurados ao VJORA: Esses ativos são mensurados de forma subsequente
+ao valor justo por meio de outros resultados abrangentes (VJORA). No desreconhecimento, o
+
+resultado acumulado em ORA é reclassificado para o resultado.
+
+31 de março de 2026
+
+29. Instrumentos financeiros --Continuação
+
+Política Contábil--Continuação
+
+Classificação inicial e mensuração subsequente --Continuação
+
+Os passivos financeiros são classificados como mensurados ao custo amortizado ou ao VJR. Um
+
+passivo financeiro é classificado como mensurado ao valor justo por meio do resultado caso for
+
+classificado como mantido para negociação, for um derivativo ou for designado como tal no
+
+reconhecimento inicial. Passivos financeiros mensurados ao VJR são mensurados ao valor justo e
+
+o resultado líquido, incluindo juros, é reconhecido no resultado. Outros passivos financeiros são
+
+subsequentemente mensurados pelo custo amortizado utilizando o método de juros efetivos. A
+
+despesa de juros, ganhos e perdas cambiais são reconhecidos no resultado. Qualquer ganho ou
+
+perda no desreconhecimento também é reconhecido no resultado.
+
+Desreconhecimento e compensação
+
+A Companhia desreconhece um ativo financeiro quando os direitos contratuais aos fluxos de caixa
+
+do ativo expiram, ou quando a Companhia transfere os direitos contratuais de recebimento aos
+
+fluxos de caixa contratuais sobre um ativo financeiro em uma transação na qual substancialmente
+
+todos os riscos e benefícios da titularidade do ativo financeiro são transferidos.
+
+A Companhia desreconhece um passivo financeiro quando sua obrigação contratual é retirada,
+
+cancelada ou expira. No desreconhecimento de um passivo financeiro, a diferença entre o valor
+
+contábil extinto e a contraprestação paga (incluindo ativos transferidos que não transitam pelo caixa
+
+ou passivos assumidos) é reconhecida no resultado.
+
+Os ativos ou passivos financeiros são compensados e o valor líquido apresentado no balanço
+
+patrimonial quando, e somente quando, a Companhia tenha atualmente um direito legalmente
+
+executável de compensar os valores e tenha a intenção de liquidá-los em uma base líquida ou de
+
+realizar o ativo e liquidar o passivo simultaneamente.
+
+Impairment de ativos financeiros
+
+A Companhia optou por mensurar provisões para perdas com contas a receber e outros recebíveis
+
+e ativos contratuais por um valor igual a perda de crédito esperada para a vida inteira. Ao
+
+determinar se o risco de crédito de um ativo financeiro aumentou significativamente desde o
+
+reconhecimento inicial e ao estimar as perdas de crédito esperadas, a Companhia considera
+
+informações razoáveis e suportáveis que são relevantes e disponíveis sem custo ou esforço
+
+excessivo. Isso inclui informações e análises quantitativas e qualitativas, com base na experiência
+
+histórica da Companhia, na avaliação de crédito e considerando informações “ forward looking ”,
+
+como premissas macroeconômicas de inflação e crescimento de vendas. A Companhia considera
+
+um ativo financeiro como inadimplente quando: - é pouco provável que o credor pague
+
+integralmente suas obrigações de crédito, sem recorrer a ações como a realização da garantia (se
+
+houver alguma); ou - o ativo financeiro está vencido há mais de 30 dias.
+
+31 de março de 2026
+
+29. Instrumentos financeiros --Continuação
+
+Mensuração de perdas de crédito esperadas
+
+Perdas de crédito esperadas são estimativas ponderadas pela probabilidade de perdas de crédito.
+
+As perdas de crédito são mensuradas a valor presente com base em todas as insuficiências de
+
+caixa (ou seja, a diferença entre os fluxos de caixa devidos à Companhia de acordo com o contrato
+
+e os fluxos de caixa que a Companhia espera receber).
+
+Ativos financeiros com problemas de recuperação de crédito
+
+Em cada data de apresentação, a Companhia avalia se os ativos financeiros contabilizados pelo
+
+custo amortizado e os mensurados a VJORA estão com problemas de recuperação. Um ativo
+
+financeiro possui problemas de recuperação de crédito, quando ocorrem um ou mais eventos com
+
+impacto prejudicial nos fluxos de caixa futuros estimados do ativo financeiro.
+
+31 de março de 2026
+
+29. Instrumentos financeiros --Continuação
+
+Categoria de instrumentos financeiros
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025
+Categoria de instrumentos financeiros Classificação
+Mensuração
+Valor justo
+Contábil Valor Justo Contábil
+Valor
+Justo
+Contábil Valor Justo Contábil Valor Justo
+Caixa e bancos Custo amortizado Nível 2 238.944 238.944 162.919 162.919 340.125 340.125 282.023 282.023
+Contas a receber - Cartão de crédito e débito VJORA Nível 2 1.052.248 1.052.248 1.798.193 1.798.193 2.577.743 2.577.743 3.621.036 3.621.036
+Contas a receber - Demais contas a receber de
+clientes e acordos comerciais Custo amortizado Nível 2 1.549.881 1.549.881 1.725.011 1.725.011 1.879.127 1.879.127 2.023.006 2.023.006
+Contas a receber de partes relacionadas Custo amortizado Nível 2 378.958 378.958 433.208 433.208 81.772 81.772 68.805 68.805
+Contas a receber de partes relacionadas -
+Cartão de Crédito VJORA Nível 2 1.697.074 1.697.074 2.012.823 2.012.823 2.023.918 2.023.918 2.382.706 2.382.706
+Equivalentes de caixa - Letras VJR Nível 2 16.698 16.698 16.698 16.698 16.698 16.698 16.698 16.698
+Equivalentes de caixa - CDBs Custo amortizado Nível 2 482.567 482.567 593.957 593.957 905.555 905.555 1.230.759 1.230.759
+Títulos e valores mobiliários Custo amortizado Nível 2 6.076 6.076 5.876 5.876 6.898 6.898 5.876 5.876
+Títulos e valores mobiliários VJR Nível 2 11.211 11.211 8.578 8.578 307.282 307.282 431.886 431.886
+Total de Ativos financeiros 5.433.657 5.433.657 6.757.263 6.757.263 8.139.118 8.139.118 10.062.795 10.062.795
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025
+Categoria de instrumentos financeiros Classificação Mensuração
+Valor justo
+Contábil Valor Justo Contábil Valor Justo Contábil Valor Justo Contábil Valor Justo
+Fornecedores de mercadorias e convênio Custo amortizado Nível 2 9.557.255 9.557.255 10.020.593 10.020.593 10.482.988 10.482.988 11.499.816 11.499.816
+Repasses e outros depósitos Custo amortizado Nível 2 - - - - 1.335.089 1.335.089 1.357.390 1.357.390
+Empréstimos e financiamentos Custo amortizado Nível 2 4.005.589 3.984.828 3.929.623 3.984.828 4.005.589 3.984.828 3.929.623 3.984.828
+Empréstimos e financiamentos e outros
+passivos financeiros VJR Nível 2 1.054.571 1.032.710 1.014.913 1.032.710 1.054.571 1.032.710 1.014.913 1.032.710
+Arrendamento mercantil Custo amortizado Nível 2 3.444.706 3.444.706 3.479.339 3.479.339 3.544.551 3.544.551 3.583.872 3.583.872
+Contas a pagar a partes relacionadas Custo amortizado Nível 2 187.245 187.245 233.716 233.716 104.458 104.458 110.115 110.115
+Outras contas a pagar aquisição VJR Nível 2 186.572 186.572 189.767 189.767 195.519 195.519 212.313 212.313
+Total de Passivos financeiros 18.435.938 18.393.316 18.867.951 18.940.953 20.722.765 20.680.143 21.708.042 21.781.044
+31 de março de 2026
+
+(^)
+
+29. Instrumentos financeiros --Continuação
+
+Mensurações de valor justo
+
+Todos os ativos e passivos para os quais o valor justo seja mensurado ou divulgado nas
+
+informações trimestrais são categorizados dentro da hierarquia de valor justo descrita abaixo, com
+
+base na informação de nível mais baixo que seja significativa à mensuração do valor justo como
+
+um todo:
+
+(a) Nível 1 - preços de mercado cotados (não ajustados) em mercados ativos para ativos ou
+
+passivos idênticos;
+
+(b) Nível 2 - técnicas de avaliação para as quais a informação de nível mais baixo e significativa
+
+para mensuração do valor justo seja direta ou indiretamente observável. A Companhia utiliza a
+
+técnica de fluxo de caixa descontado para suas mensurações;
+
+(c) Nível 3 - técnicas de avaliação para as quais a informação de nível mais baixo e significativa
+
+para mensuração do valor justo não esteja disponível.
+
+Técnicas de avaliação e inputs significativos não observáveis
+
+Técnicas de avaliação específicas utilizadas para valorizar os instrumentos financeiros, conforme
+
+as regras do Nível 2, incluem:
+
+Preços de mercado cotados ou cotações de instituições financeiras ou corretoras para
+instrumentos similares.
+
+Fluxos de caixa descontados, que considera o valor presente dos pagamentos futuros esperados,
+descontado por uma taxa ajustada ao risco para os instrumentos financeiros remanescentes.
+
+Gestão de risco de capital
+
+Os objetivos da Companhia ao administrar seu capital são os de salvaguardar a capacidade de
+
+continuidade das operações para oferecer retorno aos acionistas e benefícios às outras partes
+
+interessadas, além de manter uma estrutura de capital ideal para reduzir custo e maximizar os
+
+recursos para aplicação em abertura e modernização de lojas, novas tecnologias, melhorias de
+
+processos e métodos avançados de gestão.
+
+A estrutura de capital da Companhia consiste em passivos financeiros, caixa e equivalentes de
+
+caixa e títulos e valores mobiliários. Periodicamente, a Administração revisa a estrutura de capital
+
+e sua habilidade em liquidar os seus passivos, bem como monitora tempestivamente o prazo médio
+
+de fornecedores em relação ao prazo médio de giro dos estoques, tomando as ações necessárias
+
+quando a relação entre esses saldos apresentar desequilíbrios relevantes.
+
+31 de março de 2026
+
+(^)
+
+29. Instrumentos financeiros --Continuação
+
+Gestão de risco de liquidez
+
+A responsabilidade final pelo gerenciamento do risco de liquidez é da Diretoria Financeira da
+
+Companhia, que elabora um modelo apropriado de gestão de risco de liquidez para o
+
+gerenciamento das necessidades de captação e gestão de liquidez no curto, médio e longo prazos.
+
+A Companhia gerencia o risco de liquidez por meio do monitoramento contínuo dos fluxos de caixa
+
+previstos e reais, da combinação dos perfis de vencimento dos ativos e passivos financeiros e pela
+
+manutenção de relacionamento próximo com instituições financeiras, com frequente divulgação de
+
+informações para suportar decisões de crédito quando da necessidade de recursos externos.
+
+A tabela a seguir mostra em detalhes o prazo de vencimento contratual restante dos passivos
+
+financeiros da Companhia e os prazos de amortização contratuais. A tabela foi elaborada de acordo
+
+com os fluxos de caixa não descontados dos passivos financeiros.
+
+O vencimento contratual baseia-se na data mais recente em que a Companhia deve quitar as
+
+respectivas obrigações.
+
+Posição em 31/ 03 /202 6
+
+Controladora
+Saldo
+contábil
+Inferior a
+um ano
+Um a três
+anos
+Superior a
+três anos Total
+Fornecedores de mercadorias e convênio 9.557.255 9.557.255 - - 9.557.255
+Arrendamento mercantil 3.444.706 742.215 1.262.256 3.275.838 5.280.309
+Empréstimos e financiamentos 4.005.589 3.966.576 987.905 4.954.481
+Empréstimos e financiamentos e outros passivos
+financeiros 1.054.571 76.646 29.033 105.679
+Partes relacionadas 187.245 - - -
+Outras contas a pagar aquisição 186.572 109.086 - 77.486 186.572
+Total 18.435.938 10.408.556 5.305.478 4.370.262 20.084.296
+Consolidado
+Saldo
+contábil
+Inferior a
+um ano
+Um a três
+anos
+Superior a
+três anos Total
+Fornecedores de mercadorias e convênio 10.482.988 10.482.988 - - 10.482.988
+Arrendamento mercantil 3.544.551 756.220 1.278.001 3.298.322 5.332.543
+Empréstimos e financiamentos 4.005.589 - 3.966.576 987.905 4.954.481
+Empréstimos e financiamentos e outros passivos
+financeiros 1.054.571 - 76.646 29.033 105.679
+Partes relacionadas 104.458 104.458 - - 104.458
+Outras contas a pagar aquisição 195.519 115.757 2.823 77.486 196.066
+Total 19.387.676 11.459.423 5.324.046 4.392.746 21.176.215
+31 de março de 2026
+
+(^)
+
+29. Instrumentos financeiros --Continuação
+
+Considerações sobre outros riscos financeiros--Continuação
+
+Os negócios da Companhia compreendem especialmente o comércio varejista de bens de
+
+consumo e serviços de seguros, financeiros e outros como descrito na nota 28, de informação por
+
+segmentos. Os principais fatores de risco de mercado que afetam seus negócios são,
+
+sumariamente, os seguintes:
+
+Risco de crédito : o risco de crédito surge da possibilidade da Companhia vir a incorrer em perdas
+
+resultantes do não recebimento de valores faturados a seus clientes, cujo saldo consolidado em
+
+31 de março de 2026 era de R$ 5.195.753 (R$ 6.270.702 em 31 de dezembro de 2025). Grande
+
+parte das vendas da Companhia são realizadas utilizando como modalidade de pagamento o
+
+cartão de crédito, que são substancialmente securitizadas com as administradoras de cartões de
+
+crédito. Para as demais contas a receber a Companhia avalia também o risco como sendo baixo,
+
+tendo em vista a pulverização natural das vendas em função do grande número de clientes, porém
+
+não há garantias reais de recebimento do saldo total de contas a receber, em virtude da natureza
+
+dos negócios. Mesmo assim, o risco é gerenciado por meio de análises periódicas do nível de
+
+inadimplência (com critérios consistentes para suportar os requerimentos da IFRS 9), bem como
+
+pela adoção de formas mais eficazes de cobrança. Em 31 de março de 2026, a Companhia
+
+mantinha em contas a receber saldos que estariam vencidos ou perdidos, cujos termos foram
+
+renegociados, no montante de R$158.024 (R$254.664 em 31 de dezembro de 2025), os quais
+
+estão adicionados à análise sobre a necessidade de constituição de provisão para perda esperada
+
+de créditos. Na nota 5 são divulgadas maiores informações sobre o contas a receber.
+
+A política da Companhia para investimentos em títulos de dívida (aplicações financeiras) é de se
+
+investir em títulos que possuem rating atribuído pelas principais agências de risco de crédito e que
+
+tenham uma classificação igual ou superior ao rating soberano (em escala global). Em 31 de março
+
+de 2026, a quase totalidade dos investimentos mantidos pela Companhia possuem tal nível de
+
+rating atingindo o montante de R$ 563.866 (R$ 673.359 em 31 de dezembro de 2025) na
+
+Controladora e R$ 1.284.724 (R$1.753.741 em 31 de dezembro 2025) no Consolidado.
+
+Risco de mercado : decorre do possível desaquecimento do varejo no cenário econômico do País.
+
+O gerenciamento dos riscos envolvidos nessas operações é realizado por meio do estabelecimento
+
+de políticas operacionais e comerciais, e do monitoramento constante das posições assumidas.
+
+Os principais riscos relacionados são as variações na taxa de juros, na taxa de inflação e nas taxas
+
+de câmbio.
+
+Risco cambial: a Companhia utiliza instrumentos financeiros derivativos com o propósito de atender
+
+às suas necessidades no gerenciamento de riscos de mercado, decorrentes do descasamento
+
+entre moedas e indexadores. As operações com instrumentos derivativos são realizadas por
+
+intermédio da Diretoria de Tesouraria, de acordo com políticas previamente aprovadas pelo
+
+Conselho de Administração da Companhia. No reconhecimento inicial de uma relação de hedge ,
+
+a Companhia classifica formalmente e documenta a relação de hedge à qual a Companhia deseja
+
+aplicar contabilidade de hedge (hedge accounting), bem como o objetivo e a estratégia de gestão
+
+de risco da Administração para levar a efeito o hedge.
+
+31 de março de 2026
+
+(^)
+
+29. Instrumentos financeiros --Continuação
+
+Considerações sobre outros riscos financeiros--Continuação
+
+A documentação inclui a identificação do instrumento de hedge , o item ou transação objeto de
+
+hedge , a natureza do risco objeto de hedge, a natureza dos riscos excluídos da relação de hedge ,
+
+a demonstração prospectiva da eficácia da relação de hedge e a forma como a Companhia irá
+
+avaliar a eficácia do instrumento de hedge para fins de compensar a exposição a mudanças no
+
+valor justo do item objeto de hedge ou fluxos de caixa relacionados ao risco objeto de hedge.
+
+Neste cenário, a Companhia captou empréstimos denominados em moeda estrangeira acrescidos
+
+de juros para os quais foram contratadas operações de “ swap ”, com o objetivo de proteção contra
+
+risco nas mudanças das taxas de câmbio, substituindo os juros contratados e a variação cambial
+
+da moeda estrangeira pela variação do CDI acrescido de taxa pré-fixada. Para fins de contabilidade
+
+de cobertura (hedge accounting ), estes instrumentos são classificados como hedge de valor justo
+
+e são inicialmente reconhecidos ao valor justo na data em que o contrato de derivativo é contratado,
+
+sendo reavaliados subsequentemente também ao valor justo. Quaisquer ganhos ou perdas
+
+resultantes de mudanças no valor justo, tanto do derivativo de hedging (swap ), quanto do objeto
+
+de hedge (empréstimos), durante o exercício são lançados diretamente na demonstração de
+
+resultado, como resultado financeiro. A Companhia estabeleceu um índice de cobertura de 1:1
+
+para as relações de hedge , já que o risco dos contratos objetos de hedge é idêntico ao risco
+
+protegido pelo instrumento de hedge. As fontes de possíveis inefetividades podem ser oriundas
+
+de: i) possíveis diferenças no timing dos fluxos de caixa dos itens protegidos e dos instrumentos
+
+de hedge e ii) o risco de crédito das contrapartes ter um impacto diferente nos movimentos de valor
+
+justo dos instrumentos de hedge e itens protegidos. Em 31 de março de 2026, não foi identificada
+
+inefetividade a ser reconhecida no resultado do período. O detalhe dos contratos que impactaram
+
+o resultado do período findo em 31 de março de 2026 é como segue:
+
+Indexadores Valor justo (a)
+Instrumento de hedge
+Ativo US$ - SOFR + 3,0% a.a. 991.219
+Passivo CDI + 1,75% a.a. 1.096.898
+Hedge Valor Justo - Swap (105.679)
+Objeto de hedge
+Empréstimo US$ - SOFR + 3,0% a.a. 991.219
+(a) O valor justo dos instrumentos financeiros derivativos é apurado utilizando-se metodologia comumente empregada pelos participantes de mercado,
+sendo a estimativa do valor presente dos pagamentos por meio da utilização das curvas de mercado divulgadas pela B3 e Bloomberg.
+31 de março de 2026
+
+(^)
+
+29. Instrumentos financeiros --Continuação
+
+Considerações sobre outros riscos financeiros--Continuação
+
+Conforme mencionado anteriormente, a Administração da Companhia entende não haver risco de
+
+mercado pela alteração na taxa de câmbio, uma vez que todos os seus passivos financeiros
+
+relevantes registrados em moeda estrangeira estão atrelados a operações de “ swap ”, de modo que
+
+o tratamento contábil e financeiro destes empréstimos é denominado em moeda local. Assim, a
+
+variação do instrumento financeiro derivativo “ swap ” e dos empréstimos e financiamentos são
+
+compensados. O cenário provável representa a taxa de câmbio na data base de 31 de março de
+
+2026 (R$5,22). Abaixo é demonstrada a análise de sensibilidade da variação cambial.
+
+Natureza 31/03/2026
+Cenário
+Provável
+Cenário Acima
+25%
+Cenário Acima
+50%
+Variação cambial empréstimos 1.070 1.070 1.339 1.606
+Instrumentos financeiros de Hedge (1.070) (1.070) (1.339) (1.606)
+Impacto variação cambial - - - -
+Risco de taxas de juros : a Companhia está exposta a taxas de juros flutuantes vinculadas ao
+
+“Certificado de Depósito Interbancário (CDI)”, relativas a aplicações financeiras, empréstimos e
+
+financiamentos em reais, para os quais realizou análise de sensibilidade, conforme descrito abaixo.
+
+Em 31de março de 2026 a Administração efetuou análise de sensibilidade considerando um
+
+cenário provável e cenários com reduções e aumentos de 25% e 50% nas taxas de juros
+
+esperadas. O cenário provável, de redução e aumento nas taxas de juros, foi mensurado utilizando-
+
+se taxas de juros futuros divulgadas pela B3 e/ou BACEN, considerando uma taxa base de CDI
+
+em 14,9% a.a..
+
+Os efeitos esperados das despesas financeiras de empréstimos e financiamentos líquidas de
+
+receitas com aplicações financeiras para os próximos três meses são como segue:
+
+31 de março de 2026
+
+(^)
+
+29. Instrumentos financeiros --Continuação
+
+Considerações sobre outros riscos financeiros--Continuação
+
+Controladora Consolidado
+31/03/2026 31/03/2026
+Certificados de depósitos bancários (nota 3) 499.265 922.253
+Fundos de investimentos não exclusivos (nota 3) - 25.435
+Equivalentes de caixa 499.265 947.688
+Títulos e valores mobiliários (nota 4) 64.601 337.036
+Total equivalentes de caixa e títulos e valores mobiliários 563.866 1.284.724
+Empréstimos e financiamentos (nota 18) (5.060.160) (5.060.160)
+Exposição líquida (4.496.294) (3.775.436)
+Despesa financeira de juros - exposição a CDI 14,90% 14,90%
+Impacto no resultado financeiro, líquido de impostos:
+Cenário base 14,90% (30.906) (30.906)
+Cenário aumento 25% 18,63% (38.632) (38.632)
+Cenário aumento 50% 22,35% (46.359) (46.359)
+Cenário redução 25% 11,18% (23.180) (23.180)
+Cenário redução 50% 7,45% (15.453) (15.453)
+30. Demonstrações dos fluxos de caixa
+
+As movimentações patrimoniais que não afetaram os fluxos de caixa da Companhia são como
+
+segue:
+
+Controladora Consolidado
+31/03/2026 31/03/2025 31/03/2026 31/03/2025
+Variação de valor justos de ativos financeiros (80) 3.782 (80) 3.782
+Adições IFRS 16 – Direito de uso e arrendamento 75.365 102.679 80.977 102.679
+Ajustes de IFRS - valor justo (41.466) 20.662 (41.466) 20.662
+Redução de capital em controlada (a) - (200.000) - (200.000)
+Contratações de Fornecedores (convênio) 3.944.634 4.152.347 4.281.176 4.038.042
+(a) Valor referente a liquidação de notas promissórias em sua controlada Kabum (no trimestre findo em 31 de março de 2025), por
+meio de redução de capital conforme descrito na nota 10.
+31 de março de 2026
+
+(^)
+
+31. Cobertura de seguros
+
+A Companhia mantém contratos de seguros com cobertura determinada por orientação de
+
+especialistas levando em conta a natureza e o grau de risco por montantes considerados
+
+suficientes para cobrir eventuais perdas sobre seus ativos e/ou responsabilidades.
+
+As coberturas de seguros, em valores de 31 de março de 2026 e 31 de dezembro de 2025, são
+
+assim demonstradas:
+
+Controladora Consolidado
+31/03/2026 31/12/2025 31/03/2026 31/12/2025
+Responsabilidade civil e D&O 120.000 120.000 120.000 120.000
+Riscos diversos - estoques e imobilizado 6.924.251 6.372.615 8.126.302 7.885.166
+Veículos 23.379 21.140 37.946 35.062
+7.067.630 6.513.755 8.284.248 8.040.228
+32. Eventos subsequentes
+
+Aprovação de pagamento de dividendos
+
+Na Assembleia Geral Ordinária e Extraordinária realizada em 23 de abril de 2026, foi aprovada a
+
+distribuição de dividendos no montante total de R$ 63.000.000,00 (sessenta e três milhões de
+
+reais), correspondentes a R$ 0,0813001921 por ação ordinária, considerando a quantidade de
+
+ações de emissão da Companhia nesta data, excluídas aquelas mantidas em tesouraria, sendo
+
+que, desse valor: (i) R$ 3.021.053,04 (três milhões, vinte e um mil, cinquenta e três reais e quatro
+
+centavos) são a título de dividendos mínimos obrigatórios; (ii) R$ 17.119.300,54 (dezessete
+
+milhões, cento e dezenove mil, trezentos reais e cinquenta e quatro centavos) são a título de
+
+dividendos adicionais; e (iii) R$ 42.859.646,42 (quarenta e dois milhões, oitocentos e cinquenta e
+
+nove mil, seiscentos e quarenta e seis reais e quarenta e dois centavos) são a título de dividendos
+
+intermediários, mediante a reversão de uma parcela do saldo de Reserva de Incentivos Fiscais,
+
+que compõe a Reserva e Lucros. Os dividendos serão liquidados em 08 de maio de 2026.
+
+This is a offline tool, your data stays locally and is not send to any server!
+Feedback & Bug Reports

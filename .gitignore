@@ -3,4 +3,5 @@ node_modules/
 .env.local
 .omx/
 .DS_Store
+._*
 *.log

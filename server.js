@@ -121,37 +121,6 @@ async function callOpenAIChat(system, messages) {
   throw new Error('Resposta vazia do modelo');
 }
 
-/** Conteúdo multimodal só em mensagens user (text + image_url data URLs). */
-function normalizeChatMessage(m) {
-  if (!m || (m.role !== 'user' && m.role !== 'assistant')) return null;
-
-  if (typeof m.content === 'string') {
-    const s = m.content.trim();
-    if (!s) return null;
-    return { role: m.role, content: m.content };
-  }
-
-  if (!Array.isArray(m.content)) return null;
-  if (m.role === 'assistant') return null;
-
-  const parts = [];
-  for (const p of m.content) {
-    if (!p || typeof p !== 'object') continue;
-    if (p.type === 'text' && typeof p.text === 'string') {
-      const t = p.text.trim();
-      if (t) parts.push({ type: 'text', text: t.slice(0, 200000) });
-    }
-    if (p.type === 'image_url' && p.image_url && typeof p.image_url.url === 'string') {
-      const url = p.image_url.url;
-      if (!/^data:image\/(png|jpeg|jpg|webp|gif);base64,/i.test(url)) continue;
-      if (url.length > 22_000_000) continue;
-      parts.push({ type: 'image_url', image_url: { url } });
-    }
-  }
-  if (!parts.length) return null;
-  return { role: 'user', content: parts };
-}
-
 function resolvePath(urlPath) {
   const pathname = decodeURIComponent(new URL(urlPath, 'http://localhost').pathname);
   const requested = pathname === '/' ? '/index.html' : pathname;
@@ -186,9 +155,14 @@ const server = http.createServer(async (req, res) => {
       send(req, res, 400, JSON.stringify({ error: 'Esperado { system: string, messages: [{role,content}] }.' }));
       return;
     }
-    const clean = body.messages.map(normalizeChatMessage).filter(Boolean);
+    const clean = body.messages.filter(
+      (m) =>
+        m &&
+        (m.role === 'user' || m.role === 'assistant') &&
+        typeof m.content === 'string'
+    );
     if (!clean.length) {
-      send(req, res, 400, JSON.stringify({ error: 'messages deve incluir pelo menos uma mensagem user/assistant válida.' }));
+      send(req, res, 400, JSON.stringify({ error: 'messages deve incluir pelo menos uma mensagem user/assistant.' }));
       return;
     }
     try {
