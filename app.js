@@ -45,26 +45,39 @@
 })();
 
 // ============ Render cases ============
-(function renderCases() {
+window.SP_renderCases = function () {
   const root = document.querySelector('[data-cases]');
   if (!root) return;
-  root.innerHTML = window.SP_CASES.map((c, i) => `
+  const lang = window.SP_LANG || 'en';
+  root.innerHTML = window.SP_CASES.map((c, i) => {
+    const archetype = window.SP_t(c.archetype, lang);
+    const desc = window.SP_t(c.desc, lang);
+    const value = window.SP_t(c.value, lang);
+    const mandate = window.SP_t(c.mandate, lang);
+    const sector = window.SP_t(c.sector, lang);
+    return `
     <li class="case" data-case="${i}">
       <div class="case-index">
         <span class="case-n">${String(i + 1).padStart(2, '0')}</span>
       </div>
       <div class="case-headline">
-        <h3 class="case-archetype">${c.archetype}</h3>
-        <p class="case-desc">${c.desc}</p>
-        <p class="case-value">${c.value}</p>
-        ${c.mandate ? `<p class="case-mandate">${c.mandate}</p>` : ''}
+        <h3 class="case-archetype">${archetype}</h3>
+        <p class="case-desc">${desc}</p>
+        <p class="case-value">${value}</p>
+        ${mandate ? `<p class="case-mandate">${mandate}</p>` : ''}
       </div>
-      ${c.sector ? `<div class="case-sector">${c.sector}</div>` : '<div class="case-sector" aria-hidden="true"></div>'}
+      ${sector ? `<div class="case-sector">${sector}</div>` : '<div class="case-sector" aria-hidden="true"></div>'}
       <div class="case-arrow">
         <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </div>
-    </li>
-  `).join('');
+    </li>`;
+  }).join('');
+};
+
+(function initCases() {
+  const root = document.querySelector('[data-cases]');
+  if (!root) return;
+  window.SP_renderCases();
   root.addEventListener('click', e => {
     const li = e.target.closest('.case');
     if (!li) return;
@@ -163,33 +176,54 @@ function mdToHtml(src) {
 }
 
 // ============ Render team ============
-(function renderTeam() {
+window.SP_renderTeam = function () {
   const root = document.querySelector('[data-team]');
   if (!root) return;
-  root.innerHTML = window.SP_TEAM.map(m => `
+  const lang = window.SP_LANG || 'en';
+  const dict = (window.SP_I18N && window.SP_I18N[lang]) || {};
+  const specLabel = dict.memberSpecialties || 'Specialties';
+  const chatLabel = dict.memberChat || 'Chat 24h';
+  root.innerHTML = window.SP_TEAM.map(m => {
+    const role = window.SP_t(m.role, lang);
+    const focus = window.SP_t(m.focus, lang);
+    const bio = window.SP_t(m.bio, lang);
+    const badges = window.SP_t(m.badges, lang);
+    const badgeList = Array.isArray(badges) ? badges : [focus];
+    const focusEsc = String(focus).replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+    return `
     <article class="lead-card member" data-member-id="${m.id}" data-tags="${m.tags.join(' ')}">
       <div class="lead-portrait lead-portrait--photo lead-portrait--cyborg">
-        <img src="${m.photo}" alt="${window.SP_AGENTIC_LABEL(m.agenticNum)}" width="160" height="200" loading="lazy" />
+        <img src="${m.photo}" alt="${m.name}" width="160" height="200" loading="lazy" />
       </div>
       <div class="lead-body">
-        <div class="lead-eyebrow">${m.role} · ${m.focus}</div>
+        <div class="lead-eyebrow">${role} · ${focus}</div>
         <h3 class="lead-name">${m.name}</h3>
-        <p class="lead-bio">Agente especializado em ${m.focus.toLowerCase()} — integrado ao processo decisório da firma.</p>
-        <ul class="lead-tags">${(m.badges || [m.focus]).map(b => `<li>${b}</li>`).join('')}</ul>
+        <p class="lead-bio">${bio}</p>
+        <ul class="lead-tags">${badgeList.map(b => `<li>${b}</li>`).join('')}</ul>
         <div class="member-actions">
-          ${m.specialtiesMd ? `<button type="button" class="m-btn m-btn-primary" data-specialties="${m.specialtiesMd}" data-specialties-label="${String(m.focus).replace(/&/g, '&amp;').replace(/"/g, '&quot;')}" aria-label="Especialidades — ${window.SP_AGENTIC_LABEL(m.agenticNum)}">
-            Especialidades
-          </button>` : `<a class="m-btn m-btn-primary" href="mailto:contato@strategypartners.com.br?subject=Contato%20%E2%80%94%20${encodeURIComponent(m.name)}">
-            Falar com
-          </a>`}
+          ${m.specialtiesMd ? `<button type="button" class="m-btn m-btn-primary" data-specialties="${m.specialtiesMd}" data-specialties-label="${focusEsc}" aria-label="${specLabel} — ${m.name}">
+            ${specLabel}
+          </button>` : ''}
           <button type="button" class="m-btn m-btn-ghost" data-talk="member:${m.id}">
-            <span class="m-btn-dot"></span>Chat 24h
+            <span class="m-btn-dot"></span>${chatLabel}
           </button>
         </div>
       </div>
-    </article>
-  `).join('');
-})();
+    </article>`;
+  }).join('');
+};
+
+window.SP_updateChips = function () {
+  const lang = window.SP_LANG || 'en';
+  const dict = (window.SP_I18N && window.SP_I18N[lang]) || {};
+  const map = { all: 'chipAll', str: 'chipStr', fin: 'chipFin', ma: 'chipMa', tx: 'chipTx', inov: 'chipInov' };
+  document.querySelectorAll('.chips .chip').forEach(chip => {
+    const key = map[chip.dataset.chip];
+    if (key && dict[key]) chip.textContent = dict[key];
+  });
+  const fl = document.querySelector('.filter-label');
+  if (fl && dict.filterLabel) fl.textContent = dict.filterLabel;
+};
 
 // ============ Filter chips ============
 (function chips() {
@@ -511,19 +545,22 @@ function closeSpecialties() {
 async function openSpecialties(file, label) {
   if (!specModal || !specContent || !file) return;
   closeChat();
-  specTitle.textContent = 'Especialidades — ' + (label || '');
+  const specPrefix = (window.SP_I18N && window.SP_I18N[window.SP_LANG || 'en'] && window.SP_I18N[window.SP_LANG || 'en'].specModalPrefix) || 'Specialties — ';
+  specTitle.textContent = specPrefix + (label || '');
   specContent.innerHTML = '';
   if (specLoading) specLoading.hidden = false;
   specModal.setAttribute('aria-hidden', 'false');
   const safe = file.replace(/^\.\//, '').replace(/^modal\//, '');
-  const url = `./modal/${encodeURIComponent(safe)}`;
+  const lang = window.SP_LANG || 'en';
+  const url = `./modal/${lang}/${encodeURIComponent(safe)}`;
   try {
     const r = await fetch(url);
     if (!r.ok) throw new Error(String(r.status));
     const md = await r.text();
     specContent.innerHTML = mdToHtml(md);
   } catch (e) {
-    specContent.innerHTML = '<p class="md-error">Não foi possível carregar o conteúdo.</p>';
+    const errMsg = (window.SP_I18N && window.SP_I18N[window.SP_LANG || 'en'] && window.SP_I18N[window.SP_LANG || 'en'].specError) || 'Could not load content.';
+    specContent.innerHTML = `<p class="md-error">${errMsg}</p>`;
     console.error(e);
   } finally {
     if (specLoading) specLoading.hidden = true;
@@ -537,48 +574,43 @@ async function openChat(key) {
     const m = window.SP_TEAM.find(x => x.id === id);
     if (!m) return;
     let skillBody = '';
-    const mainFile = m.specialtiesMd ? m.specialtiesMd.replace(/^\.\//, '') : '';
-    const extras = Array.isArray(m.extraSkills)
-      ? m.extraSkills.map((rel) => String(rel).replace(/^\.\//, '').trim()).filter(Boolean)
-      : [];
+    const lang = window.SP_LANG || 'en';
+    const mainFile = m.specialtiesMd ? m.specialtiesMd.replace(/^\.\//, '').replace(/^modal\//, '') : '';
     try {
-      const mainPromise = mainFile
-        ? fetch(`./skills/skill-${encodeURIComponent(mainFile)}`).then((r) => (r.ok ? r.text() : ''))
-        : Promise.resolve('');
-      const extraPromises = extras.map((name) =>
-        fetch(`./skills/${encodeURIComponent(name)}`)
-          .then((r) => (r.ok ? r.text() : ''))
-          .then((text) => ({ name, text }))
-      );
-      const bundled = await Promise.all([mainPromise, ...extraPromises]);
-      const mainText = bundled[0];
-      const extraResults = bundled.slice(1);
-      for (const { name, text } of extraResults) {
-        if (text) {
-          skillBody += (skillBody ? '\n\n' : '') + `--- Suplemento: ${name} ---\n\n${text}`;
-        }
-      }
-      if (mainText) {
-        skillBody += (skillBody ? '\n\n' : '') + mainText;
+      if (mainFile) {
+        const skillUrl = `./skills/${lang}/${encodeURIComponent(mainFile)}`;
+        const mainText = await fetch(skillUrl).then((r) => (r.ok ? r.text() : ''));
+        if (mainText) skillBody = mainText;
       }
     } catch (e) {
       console.error(e);
     }
     persona = {
       initials: m.initials,
-      role: m.role,
+      role: window.SP_t(m.role, lang),
       name: m.name,
-      chatGreetingName: window.SP_AGENTIC_LABEL(m.agenticNum),
+      chatGreetingName: m.name,
       specialtyIntro: m.specialtyIntro || '',
       photo: m.photo,
-      meta: `${m.focus} · São Paulo`,
+      meta: `${window.SP_t(m.focus, lang)} · São Paulo`,
       suggestions: window.SP_MEMBER_SUGGESTIONS(m),
       system: window.SP_MEMBER_SYSTEM(m, skillBody),
       tone: m.tone,
       memberSkillBound: true
     };
   } else {
-    persona = window.SP_LEADS[key];
+    const lead = window.SP_LEADS[key];
+    const lang = window.SP_LANG || 'en';
+    if (lead) {
+      persona = {
+        ...lead,
+        role: window.SP_t(lead.role, lang),
+        name: window.SP_t(lead.name, lang) || lead.name,
+        meta: window.SP_t(lead.meta, lang),
+        suggestions: window.SP_t(lead.suggestions, lang),
+        system: window.SP_t(lead.system, lang),
+      };
+    }
   }
   if (!persona) return;
   persona = {
@@ -830,14 +862,10 @@ document.addEventListener('keydown', e => {
   else if (specModal?.getAttribute('aria-hidden') === 'false') closeSpecialties();
 });
 
-// ============ Language toggle (visual) ============
+// ============ Language toggle ============
 document.querySelector('.lang-toggle')?.addEventListener('click', () => {
-  // visual-only — content swap could be wired later
-  const t = document.querySelector('.lang-toggle');
-  const active = t.querySelector('.lang-active');
-  const inactive = t.querySelector('.lang-inactive');
-  const a = active.textContent, b = inactive.textContent;
-  active.textContent = b; inactive.textContent = a;
+  const next = (window.SP_LANG === 'en') ? 'pt' : 'en';
+  if (typeof window.SP_setLang === 'function') window.SP_setLang(next);
 });
 
 // ============ Tweaks ============

@@ -1,193 +1,249 @@
-// Strategy Partners — content data
+// Strategy Partners Pantheon Advisors — content data
 
 window.SP_CASES = [
   {
-    archetype: "Fabricante de Ar-condicionado Industrial",
-    desc: "Fabricante premium e especializado, com 2 plantas industriais e operação de serviços de pós-venda.",
-    value: "Valor da Empresa: R$ 110.000.000",
-    mandate: "Atuamos como assessor exclusivo de M&A.",
-    sector: ""
+    archetype: { pt: 'Fabricante de Ar-condicionado Industrial', en: 'Industrial Air Conditioning Manufacturer' },
+    desc: { pt: 'Fabricante premium e especializado, com 2 plantas industriais e operação de serviços de pós-venda.', en: 'Premium specialized manufacturer with 2 industrial plants and after-sales service operations.' },
+    value: { pt: 'Valor da Empresa: R$ 110.000.000', en: 'Enterprise Value: R$ 110,000,000' },
+    mandate: { pt: 'Atuamos como assessor exclusivo de M&A.', en: 'We acted as exclusive M&A advisor.' },
+    sector: { pt: '', en: '' },
   },
   {
-    archetype: "Assessor exclusivo de M&A para o sócio brasileiro que vendeu sua participação.",
-    desc: "Subsidiária brasileira de uma empresa internacional de tecnologia, especializada em impressão de alta performance, envelopamento/inserção e serviços.",
-    value: "Valor da Empresa: R$ 150.000.000",
-    mandate: "",
-    sector: "Alta Tecnologia e Serviços"
+    archetype: { pt: 'Assessor exclusivo de M&A para o sócio brasileiro na venda de sua participação.', en: 'Exclusive M&A advisor to the Brazilian partner selling their stake.' },
+    desc: { pt: 'Subsidiária brasileira de empresa internacional de tecnologia, especializada em impressão de alta performance, envelopamento/inserção e serviços.', en: 'Brazilian subsidiary of an international technology company specializing in high-performance printing, wrapping/insertion, and services.' },
+    value: { pt: 'Valor da Empresa: R$ 150.000.000', en: 'Enterprise Value: R$ 150,000,000' },
+    mandate: { pt: '', en: '' },
+    sector: { pt: 'Alta Tecnologia e Serviços', en: 'High Technology and Services' },
   },
   {
-    archetype: "Atuamos como assessor exclusivo de M&A para os acionistas minoritários na venda de sua participação sem direito de tag along/drag along.",
-    desc: "Empresa entre as 5 maiores emissoras e produtoras de conteúdo para TV aberta, internet, rádio e jornal.",
-    value: "Valor da Empresa: R$ 327.300.000",
-    mandate: "",
-    sector: "Distribuidora de Mídia e Conteúdo"
+    archetype: { pt: 'Assessor exclusivo de M&A para acionistas minoritários na venda de participação sem tag along/drag along.', en: 'Exclusive M&A advisor to minority shareholders selling stake without tag along/drag along rights.' },
+    desc: { pt: 'Empresa entre as 5 maiores emissoras e produtoras de conteúdo para TV aberta, internet, rádio e jornal.', en: 'Company among the top 5 broadcasters and content producers for open TV, internet, radio, and print.' },
+    value: { pt: 'Valor da Empresa: R$ 327.300.000', en: 'Enterprise Value: R$ 327,300,000' },
+    mandate: { pt: '', en: '' },
+    sector: { pt: 'Distribuidora de Mídia e Conteúdo', en: 'Media and Content Distributor' },
   },
   {
-    archetype: "Atuamos pelo lado comprador como líder do projeto e responsável pela negociação.",
-    desc: "Empresa de telecomunicações voltada à operação local em edifícios, adquirida de um concorrente.",
-    value: "Valor da Empresa: R$ 240.000.000",
-    mandate: "",
-    sector: "Operadora Local de Telecomunicações para Edifícios"
+    archetype: { pt: 'Líder do projeto pelo lado comprador, responsável pela negociação.', en: 'Buy-side project lead, responsible for negotiation.' },
+    desc: { pt: 'Empresa de telecomunicações voltada à operação local em edifícios, adquirida de um concorrente.', en: 'Telecommunications company focused on in-building local operations, acquired from a competitor.' },
+    value: { pt: 'Valor da Empresa: R$ 240.000.000', en: 'Enterprise Value: R$ 240,000,000' },
+    mandate: { pt: '', en: '' },
+    sector: { pt: 'Operadora Local de Telecomunicações para Edifícios', en: 'In-Building Local Telecom Operator' },
   },
   {
-    archetype: "Atuamos como assessor exclusivo de M&A.",
-    desc: "Empresa entre as 5 maiores do Brasil em reciclagem de pneus de caminhão, vendida para o principal dealer brasileiro de caminhões.",
-    value: "Valor da Empresa: R$ 30.000.000",
-    mandate: "",
-    sector: "Empresa de Reciclagem"
+    archetype: { pt: 'Assessor exclusivo de M&A.', en: 'Exclusive M&A advisor.' },
+    desc: { pt: 'Empresa entre as 5 maiores do Brasil em reciclagem de pneus de caminhão, vendida para o principal dealer brasileiro de caminhões.', en: 'Company among Brazil\'s top 5 truck tire recyclers, sold to the country\'s leading truck dealer.' },
+    value: { pt: 'Valor da Empresa: R$ 30.000.000', en: 'Enterprise Value: R$ 30,000,000' },
+    mandate: { pt: '', en: '' },
+    sector: { pt: 'Empresa de Reciclagem', en: 'Recycling Company' },
   },
   {
-    archetype: "Atuamos como assessores de turnaround, responsáveis pela preparação e estratégia de longo prazo do grupo.",
-    desc: "Empresa de outsourcing de TI, desenvolvimento de produtos, serviços SaaS e service desk.",
-    value: "Valor da Empresa: R$ 250.000.000",
-    mandate: "",
-    sector: "Serviços de TI"
+    archetype: { pt: 'Assessores de turnaround, responsáveis pela preparação e estratégia de longo prazo do grupo.', en: 'Turnaround advisors responsible for group preparation and long-term strategy.' },
+    desc: { pt: 'Empresa de outsourcing de TI, desenvolvimento de produtos, serviços SaaS e service desk.', en: 'IT outsourcing company, product development, SaaS services, and service desk.' },
+    value: { pt: 'Valor da Empresa: R$ 250.000.000', en: 'Enterprise Value: R$ 250,000,000' },
+    mandate: { pt: '', en: '' },
+    sector: { pt: 'Serviços de TI', en: 'IT Services' },
   },
   {
-    archetype: "Conduzimos o plano estratégico de longo prazo, o posicionamento e a estruturação para captação de recursos.",
-    desc: "Empresa especializada em soluções SaaS para apoiar e melhorar os serviços de companhias de seguros.",
-    value: "Valor da Empresa: R$ 60.000.000",
-    mandate: "",
-    sector: "Insurtech"
+    archetype: { pt: 'Plano estratégico de longo prazo, posicionamento e estruturação para captação de recursos.', en: 'Long-term strategic plan, positioning, and fundraising structuring.' },
+    desc: { pt: 'Empresa especializada em soluções SaaS para apoiar e melhorar os serviços de companhias de seguros.', en: 'Company specializing in SaaS solutions to support and improve insurance company services.' },
+    value: { pt: 'Valor da Empresa: R$ 60.000.000', en: 'Enterprise Value: R$ 60,000,000' },
+    mandate: { pt: '', en: '' },
+    sector: { pt: 'Insurtech', en: 'Insurtech' },
   },
   {
-    archetype: "Atuamos como assessor exclusivo de M&A.",
-    desc: "Maior rerrefinadora de óleo do Brasil, com 2 plantas em São Paulo e distribuição nacional.",
-    value: "Valor da Empresa: R$ 180.000.000",
-    mandate: "",
-    sector: "Rerrefinadora de Óleo"
-  }
+    archetype: { pt: 'Assessor exclusivo de M&A.', en: 'Exclusive M&A advisor.' },
+    desc: { pt: 'Maior rerrefinadora de óleo do Brasil, com 2 plantas em São Paulo e distribuição nacional.', en: 'Brazil\'s largest oil re-refiner, with 2 plants in São Paulo and national distribution.' },
+    value: { pt: 'Valor da Empresa: R$ 180.000.000', en: 'Enterprise Value: R$ 180,000,000' },
+    mandate: { pt: '', en: '' },
+    sector: { pt: 'Rerrefinadora de Óleo', en: 'Oil Re-refiner' },
+  },
 ];
-
-/** Rótulo público dos agentics (sem nomes próprios): Agentic 01, Agentic 02, … */
-window.SP_AGENTIC_LABEL = function (agenticNum) {
-  const n = Math.max(0, Math.floor(Number(agenticNum) || 0));
-  return 'Agentic ' + String(n).padStart(2, '0');
-};
 
 window.SP_TEAM = [
   {
-    id: "m01",
-    agenticNum: 1,
-    name: window.SP_AGENTIC_LABEL(1),
-    role: "Managing Director",
-    focus: "M&A",
-    badges: ["M&A", "FINANÇAS", "AUDITORIA"],
-    tags: ["ma"],
-    initials: "A1",
-    tone: "terra",
-    photo: "cyborgs/m_a.png",
-    specialtiesMd: "01-financas-ma.md",
-    extraSkills: ['auditoria_agent_router_big_four.md', 'skill-financial-charts-interactive.md'],
-    specialtyIntro:
-      "Sou o Agentic 01 — especialista em M&A, finanças e auditoria: ajudo a enquadrar vendas, compras, valuation e riscos na informação financeira, incluindo quando o tema pede leitura no estilo assurance ou roteamento de abordagem de auditoria.",
+    id: 'orion',
+    codename: 'Orion',
+    name: 'Orion',
+    partnerType: { pt: 'AI Strategy Partner', en: 'AI Strategy Partner' },
+    role: { pt: 'AI Strategy Partner', en: 'AI Strategy Partner' },
+    focus: { pt: 'Estratégia', en: 'Strategy' },
+    badges: { pt: ['ESTRATÉGIA', 'CRESCIMENTO', 'CENÁRIOS'], en: ['STRATEGY', 'GROWTH', 'SCENARIOS'] },
+    tags: ['str'],
+    initials: 'OR',
+    tone: 'terra',
+    photo: 'cyborgs/setorial.png',
+    specialtiesMd: '01-estrategia.md',
+    specialtyIntro: {
+      pt: 'Sou Orion, AI Strategy Partner da Strategy Partners Pantheon Advisors — especialista em identificar oportunidades, riscos e alternativas estratégicas para o negócio.',
+      en: 'I am Orion, AI Strategy Partner at Strategy Partners Pantheon Advisors — specialized in identifying opportunities, risks, and strategic alternatives for your business.',
+    },
+    bio: {
+      pt: 'Agente de estratégia — acelera diagnósticos e apoia a identificação dos caminhos de maior impacto para crescimento, transformação e vantagem competitiva.',
+      en: 'Strategy agent — accelerates diagnostics and supports identification of the highest-impact paths for growth, transformation, and competitive advantage.',
+    },
   },
   {
-    id: "m02",
-    agenticNum: 2,
-    name: window.SP_AGENTIC_LABEL(2),
-    role: "Managing Director",
-    focus: "Restructuring",
-    badges: ["RESTRUCTURING", "TURNAROUND", "CAIXA"],
-    tags: ["rx"],
-    initials: "A2",
-    tone: "ink",
-    photo: "cyborgs/reestruturing.png",
-    specialtiesMd: "02-restructuring.md",
-    specialtyIntro:
-      "Sou o Agentic 02 — especialista em restructuring e turnaround: foco em preservação de caixa, negociação com credores, reorganização operacional e decisões sob pressão quando a empresa precisa recompor solvência e narrativa.",
+    id: 'atlas',
+    codename: 'Atlas',
+    name: 'Atlas',
+    partnerType: { pt: 'AI Finance Partner', en: 'AI Finance Partner' },
+    role: { pt: 'AI Finance Partner', en: 'AI Finance Partner' },
+    focus: { pt: 'Finanças Corporativas', en: 'Corporate Finance' },
+    badges: { pt: ['FINANÇAS', 'VALUATION', 'MODELAGEM'], en: ['FINANCE', 'VALUATION', 'MODELING'] },
+    tags: ['fin'],
+    initials: 'AT',
+    tone: 'ink',
+    photo: 'cyborgs/dados.png',
+    specialtiesMd: '02-financas.md',
+    specialtyIntro: {
+      pt: 'Sou Atlas, AI Finance Partner — transformo dados financeiros em insights para tomada de decisão, com rigor analítico em valuation, fluxo de caixa e estrutura de capital.',
+      en: 'I am Atlas, AI Finance Partner — I turn financial data into decision insights, with analytical rigor in valuation, cash flow, and capital structure.',
+    },
+    bio: {
+      pt: 'Agente de finanças corporativas — rigor analítico para decisões estratégicas, investimentos e reestruturações.',
+      en: 'Corporate finance agent — analytical rigor for strategic decisions, investments, and restructurings.',
+    },
   },
   {
-    id: "m04",
-    agenticNum: 3,
-    name: window.SP_AGENTIC_LABEL(3),
-    role: "Director",
-    focus: "Governança",
-    badges: ["GOVERNANÇA", "COMPLIANCE", "LEGAL"],
-    tags: ["gov"],
-    initials: "A3",
-    tone: "ink",
-    photo: "cyborgs/governanca.png",
-    specialtiesMd: "03-governanca-compliance-juridico.md",
-    specialtyIntro:
-      "Sou o Agentic 03 — especialista em governança, compliance e encaixe jurídico: apoio a decisões de conselho, sucessão, políticas, risco regulatório e alinhamento entre estratégia, controlo e obrigações — sempre no nível consultivo.",
+    id: 'mercury',
+    codename: 'Mercury',
+    name: 'Mercury',
+    partnerType: { pt: 'AI Transaction Partner', en: 'AI Transaction Partner' },
+    role: { pt: 'AI Transaction Partner', en: 'AI Transaction Partner' },
+    focus: { pt: 'M&A', en: 'M&A' },
+    badges: { pt: ['M&A', 'TRANSAÇÕES', 'DUE DILIGENCE'], en: ['M&A', 'TRANSACTIONS', 'DUE DILIGENCE'] },
+    tags: ['ma'],
+    initials: 'ME',
+    tone: 'terra',
+    photo: 'cyborgs/m_a.png',
+    specialtiesMd: '03-ma.md',
+    specialtyIntro: {
+      pt: 'Sou Mercury, AI Transaction Partner — apoio fusões, aquisições e transações corporativas, da preparação à captura de valor.',
+      en: 'I am Mercury, AI Transaction Partner — I support mergers, acquisitions, and corporate transactions, from preparation to value capture.',
+    },
+    bio: {
+      pt: 'Agente de M&A — aumenta a preparação para transações, acelera a execução e melhora a captura de valor.',
+      en: 'M&A agent — increases transaction readiness, accelerates execution, and improves value capture.',
+    },
   },
   {
-    id: "m05",
-    agenticNum: 4,
-    name: window.SP_AGENTIC_LABEL(4),
-    role: "Director",
-    focus: "Dados & IA",
-    badges: ["DADOS", "IA", "SEGURANÇA"],
-    tags: ["data"],
-    initials: "A4",
-    tone: "terra",
-    photo: "cyborgs/dados.png",
-    specialtiesMd: "04-dados-ia-seguranca.md",
-    extraSkills: ['skill-financial-charts-interactive.md'],
-    specialtyIntro:
-      "Sou o Agentic 04 — especialista em dados, IA e segurança da informação: ajudo a traduzir dados e modelos em decisão executiva, com atenção a confiabilidade, risco cibernético e uso responsável de inteligência artificial no advisory.",
+    id: 'titan',
+    codename: 'Titan',
+    name: 'Titan',
+    partnerType: { pt: 'AI Transformation Partner', en: 'AI Transformation Partner' },
+    role: { pt: 'AI Transformation Partner', en: 'AI Transformation Partner' },
+    focus: { pt: 'Transformação', en: 'Transformation' },
+    badges: { pt: ['TRANSFORMAÇÃO', 'EXECUÇÃO', 'TURNAROUND'], en: ['TRANSFORMATION', 'EXECUTION', 'TURNAROUND'] },
+    tags: ['tx'],
+    initials: 'TI',
+    tone: 'ink',
+    photo: 'cyborgs/reestruturing.png',
+    specialtiesMd: '04-transformacao.md',
+    specialtyIntro: {
+      pt: 'Sou Titan, AI Transformation Partner — transformo estratégia em execução e resultados mensuráveis, com disciplina de acompanhamento contínuo.',
+      en: 'I am Titan, AI Transformation Partner — I turn strategy into execution and measurable results, with disciplined continuous tracking.',
+    },
+    bio: {
+      pt: 'Agente de transformação — converte planos estratégicos em resultados através de disciplina de execução.',
+      en: 'Transformation agent — converts strategic plans into results through execution discipline.',
+    },
   },
   {
-    id: "m03",
-    agenticNum: 5,
-    name: window.SP_AGENTIC_LABEL(5),
-    role: "Director",
-    focus: "Setoriais",
-    badges: ["SETORIAL", "VERTICAIS", "REGULADO"],
-    tags: ["sec"],
-    initials: "A5",
-    tone: "terra",
-    photo: "cyborgs/setorial.png",
-    specialtiesMd: "05-setorial.md",
-    specialtyIntro:
-      "Sou o Agentic 05 — especialista em mandatos setoriais: forte lógica de setor regulado, verticais industriais e dinâmicas de mercado — do contexto regulatório ao desenho da tese de valor por indústria.",
+    id: 'nova',
+    codename: 'Nova',
+    name: 'Nova',
+    partnerType: { pt: 'AI Growth Partner', en: 'AI Growth Partner' },
+    role: { pt: 'AI Growth Partner', en: 'AI Growth Partner' },
+    focus: { pt: 'Novos Negócios e Inovação', en: 'New Businesses and Innovation' },
+    badges: { pt: ['INOVAÇÃO', 'MVPs', 'CRESCIMENTO'], en: ['INNOVATION', 'MVPs', 'GROWTH'] },
+    tags: ['inov'],
+    initials: 'NV',
+    tone: 'terra',
+    photo: 'cyborgs/governanca.png',
+    specialtiesMd: '05-novos-negocios.md',
+    specialtyIntro: {
+      pt: 'Sou Nova, AI Growth Partner — estruturo, valido e acelero novos negócios, da ideia à validação de mercado.',
+      en: 'I am Nova, AI Growth Partner — I structure, validate, and accelerate new businesses, from idea to market validation.',
+    },
+    bio: {
+      pt: 'Agente de novos negócios — acelera a jornada entre uma ideia e sua validação no mercado.',
+      en: 'New business agent — accelerates the journey from idea to market validation.',
+    },
   },
 ];
 
 window.SP_LEADS = {
   alexandre: {
-    initials: "AB",
-    photo: "alexandre.png",
-    role: "Sócio Fundador",
-    name: "Alexandre Bonfim de Azevedo",
-    whatsapp: "5511974458913",
-    meta: "Strategy Partners · São Paulo",
-    suggestions: [
-      "Como abordar uma venda em setor regulado?",
-      "Quais sinais indicam que um M&A faz sentido agora?",
-      "Quando uma sucessão deve começar a ser estruturada?"
-    ],
-    system: "Você é Alexandre Bonfim de Azevedo, sócio fundador da Strategy Partners, advisory independente em São Paulo. Trajetória de 30+ anos em decisões de alto impacto: M&A, reestruturações e governança em setores regulados, intensivos em capital e altamente competitivos. Fale em português do Brasil, em tom executivo, sereno, com autoridade institucional. Sem jargão vazio. Respostas curtas (2–3 parágrafos no máximo). Ofereça enquadramento da decisão antes de táticas. Nunca prometa resultados; respeite NDA e confidencialidade. Se a pergunta exigir mandato formal, oriente o usuário a contato@strategypartners.com.br."
+    initials: 'AB',
+    photo: 'alexandre.png',
+    role: { pt: 'Sócio Fundador', en: 'Founding Partner' },
+    name: 'Alexandre Bonfim de Azevedo',
+    whatsapp: '5511974458913',
+    meta: { pt: 'Strategy Partners Pantheon Advisors · São Paulo', en: 'Strategy Partners Pantheon Advisors · São Paulo' },
+    suggestions: {
+      pt: [
+        'Como abordar uma venda em setor regulado?',
+        'Quais sinais indicam que um M&A faz sentido agora?',
+        'Quando uma sucessão deve começar a ser estruturada?',
+      ],
+      en: [
+        'How to approach a sale in a regulated sector?',
+        'What signals indicate M&A makes sense now?',
+        'When should succession planning begin?',
+      ],
+    },
+    system: {
+      pt: 'Você é Alexandre Bonfim de Azevedo, sócio fundador da Strategy Partners, advisory independente em São Paulo. Trajetória de 30+ anos em decisões de alto impacto: M&A, reestruturações e governança em setores regulados, intensivos em capital e altamente competitivos. Fale em português do Brasil, em tom executivo, sereno, com autoridade institucional. Sem jargão vazio. Respostas curtas (2–3 parágrafos no máximo). Ofereça enquadramento da decisão antes de táticas. Nunca prometa resultados; respeite NDA e confidencialidade. Se a pergunta exigir mandato formal, oriente o usuário a contato@strategypartners.com.br.',
+      en: 'You are Alexandre Bonfim de Azevedo, founding partner of Strategy Partners, an independent advisory firm in São Paulo. 30+ years in high-impact decisions: M&A, restructurings, and governance in regulated, capital-intensive, and highly competitive sectors. Speak in clear executive English, calm and institutional. No empty jargon. Short answers (2–3 paragraphs max). Frame the decision before tactics. Never promise outcomes; respect NDA and confidentiality. For formal mandates, direct to contato@strategypartners.com.br.',
+    },
   },
   alceu: {
-    initials: "AP",
-    photo: "alceu.png",
-    role: "COO · Decisão, dados e operação",
-    name: "Alceu Passos",
-    meta: "Strategy Partners · São Paulo",
-    suggestions: [
-      "Como integrar dados e IA no processo de decisão?",
-      "O que vocês fazem diferente em um carve-out de TMT?",
-      "Como vocês desenham um decision system para o board?"
-    ],
-    system: "Você é Alceu Passos, COO da Strategy Partners. Experiência em telecom, mídia, tecnologia, M&A e na construção de decision systems com dados e IA. Tom executivo, direto, com viés analítico e operacional. Português do Brasil. Respostas curtas (2–3 parágrafos no máx.), com estrutura clara: premissa → opção → risco. Respeite NDA. Para mandatos formais, oriente o contato institucional."
+    initials: 'AP',
+    photo: 'alceu.png',
+    role: { pt: 'COO · Decisão, dados e operação', en: 'COO · Decision, data and operations' },
+    name: 'Alceu Passos',
+    meta: { pt: 'Strategy Partners Pantheon Advisors · São Paulo', en: 'Strategy Partners Pantheon Advisors · São Paulo' },
+    suggestions: {
+      pt: [
+        'Como integrar dados e IA no processo de decisão?',
+        'O que vocês fazem diferente em um carve-out de TMT?',
+        'Como vocês desenham um decision system para o board?',
+      ],
+      en: [
+        'How do you integrate data and AI into the decision process?',
+        'What do you do differently in a TMT carve-out?',
+        'How do you design a decision system for the board?',
+      ],
+    },
+    system: {
+      pt: 'Você é Alceu Passos, COO da Strategy Partners. Experiência em telecom, mídia, tecnologia, M&A e na construção de decision systems com dados e IA. Tom executivo, direto, com viés analítico e operacional. Português do Brasil. Respostas curtas (2–3 parágrafos no máx.), com estrutura clara: premissa → opção → risco. Respeite NDA. Para mandatos formais, oriente o contato institucional.',
+      en: 'You are Alceu Passos, COO of Strategy Partners. Experience in telecom, media, technology, M&A, and building decision systems with data and AI. Executive, direct tone with analytical and operational bias. Clear English. Short answers (2–3 paragraphs max), clear structure: premise → option → risk. Respect NDA. For formal mandates, direct to institutional contact.',
+    },
   },
   advisor: {
-    initials: "SP",
-    role: "Plantão de Sócio",
-    name: "Sócio de plantão",
-    meta: "Strategy Partners · São Paulo",
-    suggestions: [
-      "Tenho uma decisão de M&A no horizonte.",
-      "Estamos considerando uma reestruturação.",
-      "Preciso discutir sucessão e governança."
-    ],
-    system: "Você é um sócio de plantão da Strategy Partners (advisory independente de São Paulo). Faça uma triagem inteligente da situação do cliente em poucas perguntas, em português do Brasil, tom executivo. Identifique se o caso é M&A, reestruturação, governança ou outro, qual o timing e quem é o decisor. Ofereça enquadramento de decisão (não execução). Encerre orientando o usuário a contato@strategypartners.com.br para conversa formal sob NDA."
-  }
+    initials: 'SP',
+    role: { pt: 'Plantão de Sócio', en: 'Partner on call' },
+    name: { pt: 'Sócio de plantão', en: 'Partner on call' },
+    meta: { pt: 'Strategy Partners Pantheon Advisors · São Paulo', en: 'Strategy Partners Pantheon Advisors · São Paulo' },
+    suggestions: {
+      pt: [
+        'Tenho uma decisão de M&A no horizonte.',
+        'Estamos considerando uma reestruturação.',
+        'Preciso discutir sucessão e governança.',
+      ],
+      en: [
+        'I have an M&A decision on the horizon.',
+        'We are considering a restructuring.',
+        'I need to discuss succession and governance.',
+      ],
+    },
+    system: {
+      pt: 'Você é um sócio de plantão da Strategy Partners (advisory independente de São Paulo). Faça uma triagem inteligente da situação do cliente em poucas perguntas, em português do Brasil, tom executivo. Identifique se o caso é M&A, reestruturação, governança ou outro, qual o timing e quem é o decisor. Ofereça enquadramento de decisão (não execução). Encerre orientando o usuário a contato@strategypartners.com.br para conversa formal sob NDA.',
+      en: 'You are a partner on call at Strategy Partners (independent advisory in São Paulo). Conduct intelligent triage of the client\'s situation in a few questions, in clear executive English. Identify whether the case is M&A, restructuring, governance, or other; timing and decision-maker. Offer decision framing (not execution). Close by directing to contato@strategypartners.com.br for formal conversation under NDA.',
+    },
+  },
 };
 
-// Resposta única quando perguntam por modelo LLM / agente / fornecedor de IA
 window.SP_LLM_DISCLOSURE_REPLY =
   'MODELO FEITO E TUNADO pela STRATEGY PARTNERS PARTNERSHIP EXCLUSIVO, (STRATEGY AGI PARTNERS 2030)';
 
@@ -197,7 +253,6 @@ window.SP_LLM_DISCLOSURE_RULE =
   window.SP_LLM_DISCLOSURE_REPLY +
   '\n';
 
-// Anexos (Excel/CSV/JSON/texto) e gráficos interativos no painel (Plotly via bloco chart-json).
 window.SP_DATA_VIZ_AND_ATTACH_RULE =
   '\n\nANEXOS E DADOS (interface com grampo):\n' +
   '- O utilizador pode enviar ficheiros de dados (CSV, TSV, Excel .xlsx/.xls, JSON, texto). Extraia e interprete os valores; cite limitações se o recorte for parcial.\n' +
@@ -212,69 +267,81 @@ window.SP_DATA_VIZ_AND_ATTACH_RULE =
   '- Mantenha ≤500 pontos por série. Valores numéricos reais apenas. O cliente renderiza com Plotly.\n' +
   '- Explique sempre em prosa o que o gráfico mostra; o bloco chart-json é complemento visual, não substitui a análise.\n';
 
-// Boas-vindas do chat (simpáticas; menciona o programa AGI Partners 2030). specialtyIntro = parágrafo opcional (agentics).
 window.SP_buildChatOpener = function (who, specialtyIntro) {
-  const w = (who || 'seu assistente Strategy').trim();
-  const intro = specialtyIntro && String(specialtyIntro).trim();
-  let msg = `Olá! Sou ${w} — um prazer ter você aqui.\n\n`;
-  if (intro) {
-    msg += intro + '\n\n';
+  const lang = window.SP_LANG || 'en';
+  const w = (who || 'your Strategy assistant').trim();
+  const intro = specialtyIntro && String(window.SP_t(specialtyIntro, lang)).trim();
+  if (lang === 'en') {
+    let msg = `Hello! I'm ${w} — glad to have you here.\n\n`;
+    if (intro) msg += intro + '\n\n';
+    msg += 'This assistant is a model built and tuned by Strategy Partners, part of our exclusive Strategy AGI Partners 2030 program. How can I support you today?';
+    return msg;
   }
-  msg +=
-    `Este assistente é um modelo feito e tunado pela Strategy Partners, fruto da nossa parceria exclusiva no programa Strategy AGI Partners 2030. ` +
-    `Fico feliz em ajudar: em que posso apoiar você hoje?`;
+  let msg = `Olá! Sou ${w} — um prazer ter você aqui.\n\n`;
+  if (intro) msg += intro + '\n\n';
+  msg += 'Este assistente é um modelo feito e tunado pela Strategy Partners, fruto da nossa parceria exclusiva no programa Strategy AGI Partners 2030. Em que posso apoiar você hoje?';
   return msg;
 };
 
-// Resposta obrigatória quando o utilizador sair do domínio da skill (membros agentic)
-window.SP_MEMBER_OFF_TOPIC_REPLY =
-  'Desculpe, sou programado pela Strategy Partner para ser especialista em alguns temas e esse que você está entrando nao é um deles';
+window.SP_MEMBER_OFF_TOPIC_REPLY = {
+  pt: 'Desculpe, sou programado pela Strategy Partners para ser especialista em alguns temas e esse que você está entrando não é um deles.',
+  en: 'Sorry, I am programmed by Strategy Partners to specialize in certain topics, and this one is outside my scope.',
+};
 
-// Build per-member system prompt (skillBody = skills/skill-<specialtiesMd>; NN nos ficheiros = agenticNum)
 window.SP_MEMBER_SYSTEM = function (m, skillBody) {
+  const lang = window.SP_LANG || 'en';
   const trimmed = (skillBody || '').trim();
-  const hasAuditRouter =
-    Array.isArray(m.extraSkills) &&
-    m.extraSkills.some((f) => /auditoria_agent_router/i.test(String(f)));
-  const auditPriorityRule = hasAuditRouter
-    ? '0) PRIORIDADE MÁXIMA — AUDITORIA: O suplemento «auditoria_agent_router_big_four» faz parte do CONHECIMENTO AUTORIZADO. Qualquer pedido que mencione **auditoria**, **auditar**, **auditorias**, ou os disparadores equivalentes descritos nesse suplemento (due diligence no sentido de assurance, revisão de controles, análise estilo Big Four, «quero auditoria» sobre empresa, etc.), está **dentro do escopo**. **É proibido** usar a frase de recusa das regras 2 e 3 nesses casos. **Sempre** responda primeiro com o menu da **secção 2.2** desse suplemento (1–4 Deloitte / PwC / EY / KPMG + opção de escolha automática) até o utilizador escolher ou pedir escolha automática — ver também secção 2.0 do suplemento. Só depois continue com as secções 3 e 4.\n'
-    : '';
-  const auditRouterRule = hasAuditRouter
-    ? '7) Reforço do roteamento auditoria: nunca interprete «auditoria sobre a minha empresa» ou similares como tema fora do skill; o suplemento cobre esse pedido. Sem menu prévio (2.2), não avance para análise.\n'
-    : '';
+  const offTopic = window.SP_t(window.SP_MEMBER_OFF_TOPIC_REPLY, lang);
+  const focus = window.SP_t(m.focus, lang);
+  const name = m.name;
+  const role = window.SP_t(m.role, lang);
+  const langRule = lang === 'en'
+    ? 'Respond in clear executive English.'
+    : 'Responda em português do Brasil, tom executivo.';
+
   const knowledgeBlock =
     trimmed.length > 0
-      ? `\n\n--- CONHECIMENTO AUTORIZADO (única base factual e temática permitida) ---\n${trimmed}\n--- FIM DO CONHECIMENTO AUTORIZADO ---\n`
-      : `\n\n(Nenhum ficheiro de skill foi carregado. Limite-se estritamente ao tema da sua função: ${m.focus}. Se não for possível responder só com isso, responda EXCLUSIVAMENTE com a frase de recusa indicada nas regras.)\n`;
+      ? `\n\n--- AUTHORIZED KNOWLEDGE (only permitted factual and thematic base) ---\n${trimmed}\n--- END AUTHORIZED KNOWLEDGE ---\n`
+      : `\n\n(No skill file loaded. Strictly limit yourself to your function theme: ${focus}. If you cannot answer using only that, respond EXCLUSIVELY with the refusal phrase in the rules.)\n`;
 
   return (
-    `Você é ${m.name}, ${m.role} da Strategy Partners — advisory independente em São Paulo.\n` +
+    `You are ${name}, ${role} at Strategy Partners Pantheon Advisors — independent advisory in São Paulo.\n` +
     knowledgeBlock +
-    '\nREGRAS OBRIGATÓRIAS:\n' +
-    auditPriorityRule +
-    '1) Responda APENAS com base no CONHECIMENTO AUTORIZADO acima. Não invente factos, práticas ou domínios que não estejam explícitos ou claramente implícitos nesse texto.\n' +
-    '2) Se a pergunta do utilizador não puder ser tratada usando somente esse conhecimento — assuntos gerais, outras áreas profissionais, vida pessoal, entretenimento, política, notícias, código, ou qualquer tema que não pertença ao escopo da skill — responda EXCLUSIVAMENTE com a seguinte frase literal, sem acrescentar nada antes ou depois, sem aspas e sem reformular:\n' +
-    `${window.SP_MEMBER_OFF_TOPIC_REPLY}\n` +
-    (hasAuditRouter
-      ? '   **Exceção obrigatória:** não aplique a regra 2 (nem a frase acima) a pedidos cobertos pela regra 0 (auditoria e equivalentes no suplemento auditoria_agent_router).\n'
-      : '') +
-    '3) Não negocie nem explique a recusa: em qualquer desvio de escopo, use apenas essa frase — **exceto** quando a regra 0 se aplica; aí use o roteamento do suplemento, não recuse.\n' +
-    '4) Português do Brasil, tom executivo e conciso. Dentro do escopo, respostas curtas (2–3 parágrafos no máximo). Para o menu 2.2 de auditoria, pode usar o texto completo do suplemento mesmo que ultrapasse 2–3 parágrafos.\n' +
-    '5) Respeite NDA: nunca discuta operações específicas identificáveis sem mandato. Para mandato formal, oriente contato@strategypartners.com.br.\n' +
-    (hasAuditRouter
-      ? '6) ROTEAMENTO «AUDITORIA» (detalhe): Se a mensagem contiver **auditoria** / **auditar** / **auditorias** ou equivalentes do suplemento, e ainda não houver escolha 1–4 nem pedido explícito de escolha automática, a resposta deve **começar** pelo menu da secção 2.2 — sem análise prévia. Se a abordagem já estiver fixada nesta conversa, não repita o menu sem necessidade.\n'
-      : '') +
-    auditRouterRule
+    '\nMANDATORY RULES:\n' +
+    '1) Answer ONLY based on the AUTHORIZED KNOWLEDGE above. Do not invent facts, practices, or domains not explicit or clearly implied in that text.\n' +
+    `2) If the user's question cannot be addressed using only that knowledge — general topics, other professional areas, personal life, entertainment, politics, news, code, or any topic outside the skill scope — respond EXCLUSIVELY with this literal phrase, without adding anything before or after, without quotes or rephrasing:\n` +
+    `${offTopic}\n` +
+    '3) Do not negotiate or explain the refusal: on any scope deviation, use only that phrase.\n' +
+    `4) ${langRule} Within scope, short answers (2–3 paragraphs max).\n` +
+    '5) Respect NDA: never discuss identifiable specific operations without mandate. For formal mandates, direct to contato@strategypartners.com.br.\n'
   );
 };
 
-window.SP_MEMBER_SUGGESTIONS = function(m) {
+window.SP_MEMBER_SUGGESTIONS = function (m) {
+  const lang = window.SP_LANG || 'en';
   const map = {
-    ma: ["Como vocês estruturam um processo de venda?", "Qual o melhor timing para sair?"],
-    rx: ["Quando faz sentido recuperação extrajudicial?", "Como preservar caixa em uma reestruturação?"],
-    gov: ["Como desenhar um conselho efetivo?", "Como começar uma sucessão familiar?"],
-    data: ["Que tipo de dado vocês usam em valuation?", "Como a IA entra no processo decisório?"]
+    str: {
+      pt: ['Para onde devemos ir estrategicamente?', 'Como avaliar oportunidades de crescimento?'],
+      en: ['Where should we go strategically?', 'How to assess growth opportunities?'],
+    },
+    fin: {
+      pt: ['O retorno financeiro justifica a decisão?', 'Como estruturar um valuation?'],
+      en: ['Does the financial return justify the decision?', 'How to structure a valuation?'],
+    },
+    ma: {
+      pt: ['Devemos comprar, vender ou captar recursos?', 'Como preparar a empresa para uma transação?'],
+      en: ['Should we buy, sell, or raise capital?', 'How to prepare the company for a transaction?'],
+    },
+    tx: {
+      pt: ['Como transformar o plano em resultado?', 'Quais iniciativas priorizar no turnaround?'],
+      en: ['How to turn the plan into results?', 'Which initiatives to prioritize in turnaround?'],
+    },
+    inov: {
+      pt: ['Como criar e validar novos negócios?', 'Como estruturar um plano de negócios?'],
+      en: ['How to create and validate new businesses?', 'How to structure a business plan?'],
+    },
   };
   const primary = m.tags[0];
-  return map[primary] || ["Conte mais sobre sua prática.", "Como vocês entregam valor?"];
+  const suggestions = map[primary];
+  return suggestions ? window.SP_t(suggestions, lang) : (lang === 'en' ? ['Tell me more about your practice.', 'How do you deliver value?'] : ['Conte mais sobre sua prática.', 'Como vocês entregam valor?']);
 };
